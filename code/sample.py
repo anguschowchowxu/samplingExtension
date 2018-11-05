@@ -3,7 +3,7 @@
 import pandas as pd
 import os
 
-PROPORTION = 0.1
+PROPORTION = 0.05
 RANDOM_SEED = 1
 df = pd.read_csv('../data/sample/population_sample.csv')
 df_sample = df.sample(frac=PROPORTION, replace=False,  random_state=RANDOM_SEED, axis=0)

@@ -21,33 +21,67 @@ function gisDemo()
         varSub{i} = (1:nVar(i))';
     end
     
-    outpatterns = eye(5);
-    tmp = eye(4);
-    tmp = [zeros(4,1) tmp];
-    tmp = [tmp;zeros(1,5)];
-    outpatterns = outpatterns + tmp;
 
-    [p,pcond] = gis(p_post, patterns, nVar, varSub, outpatterns);
+    outpatterns = zeros(3,5);
+    outpatterns(1,1:2) = 1;
+    outpatterns(2,3:4) = 1;
+    outpatterns(3,4:5) = 1;
+   
+    tmp = cell(1,11);i=1;
+    for MIN = 1
+        outVarSub = gen_outVarSub(outpatterns,nVar,MIN);
+        [p,pcond] = gis(p_post, patterns, nVar, varSub, outpatterns, outVarSub);
+
+        gis(pcond, outpatterns, nVar, outVarSub);
+        
+%         tmp{i} = num2str(MIN);
+%         i = i+1;
+%         pause()
+    end
     
-%     pause()
-%     gis(pcond, outpatterns, nVar, varSub);
+%     ax = gca();
+%     legend(ax,tmp);
+
+    
     
     for i=1:nFeature
         figure(i)
         p_cond = p_cond_gen(p,patterns(i,:));
-        bar([p_post{i};p_cond']');
+        bar([p_pop{i};p_cond']');
         ax = gca();
-        legend('p\_post','p\_MEM','Location','NE');
+        legend('p\_pop','p\_MEM','Location','NE');
         title({['marginal distribution of ',cols{i}];['with KL-divergence ',...
-            num2str(KL(p_post{i},p_cond))]});
-        KL(p_post{i},p_cond);
-        xticklabels(ax,category{i});
+            num2str(KL(p_pop{i}',p_cond,patterns(i,:),nVar,varSub{i}))]});
         ax.XTick=1:nVar(i);
         ax.XTickLabel=category{i};
         ax.XTickLabelRotation = 90;
-%         saveas(gcf,['../report/image/marginal_2_',num2str(i),'.jpg']);
+        saveas(gcf,['../report/image/partial_marginal_3_',num2str(i),'.jpg']);
     end
     
+end
+
+function outVarSub = gen_outVarSub(outpatterns,nVar,MIN)
+    outVarSub = cell(1,size(outpatterns,1));
+    for i=1:size(outpatterns,1)
+        pattern = outpatterns(i,:);
+        tmp = nVar;
+        tmp(pattern==0) = 0;
+        [maxLen,ind] = max(tmp);
+        dim = sum(pattern==1);
+        if dim == 1
+            outVarSub{1} = (1:nVar(ind))';
+        elseif dim == 2
+            nVarPattern = prod(nVar(pattern==1));
+            sample = randperm(nVarPattern,nVar(ind));  % nVar(ind),min([nVar(ind),MIN])
+            [I1,I2] = ind2sub(nVar(pattern==1),sample);
+            outVarSub{i} = [I1',I2'];
+        elseif dim == 3
+            nVarPattern = prod(nVar(pattern==1));
+            sample = randperm(nVarPattern,nVar(ind));
+            [I1,I2,I3] = ind2sub(nVar(pattern==1),sample);
+            outVarSub{1} = [I1',I2',I3'];
+        end
+    end
 end
 
 function [p_cond, p, perm, patternLen] = p_cond_gen(p,pattern)
@@ -60,7 +94,19 @@ function [p_cond, p, perm, patternLen] = p_cond_gen(p,pattern)
     end
 end
 
-function ret = KL(p_post,p)
+function ret = KL(p_post,p,pattern,nVar,varSub)
+    inds = [];
+    for j=1:size(varSub,1)
+        dim = size(varSub,2);
+        if dim == 2
+            % default 2D
+            ind = sub2ind(nVar(pattern==1), varSub(j,1),varSub(j,2))
+        elseif dim == 1
+            ind = varSub(j,1);
+        end
+        inds = [inds,ind];
+    end
+    p = p(inds');
     ret = p.*log(p./p_post) + (1-p).*log((1-p)./(1-p_post));
     ret(isinf(ret)) = 0;
     ret(isnan(ret)) = 0;

@@ -17,7 +17,7 @@ function ret = max_entropy(p_post,p,patterns,nVar,D)
         if sum(p_post{i}(:)) == 0
             post{i} = 0;
         else
-            post{i} = p_post{i}./sum(p_post{i}(:));
+            post{i} = p_post{i};
         end
     end
     

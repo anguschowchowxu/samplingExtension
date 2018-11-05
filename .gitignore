@@ -1,6 +1,5 @@
 *.pdf
 *.djvu
-data/*
 report/*
 
 !report/report.pdf

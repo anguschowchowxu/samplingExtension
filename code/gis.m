@@ -1,4 +1,4 @@
-function [p,p_cond, kl] = gis(p_post, patterns, nVar, varSub, varargin)
+function [p,out_p_cond, kl] = gis(p_post, patterns, nVar, varSub, varargin)
 % p_post:   the posterior probability of constraint, a (1,nPatterns) cell, 
 %           each cell with size(1,nVar)
 % patterns: with 1 or 0 to express the constraint pattern, with size
@@ -17,7 +17,7 @@ end
 % computed given
 post = cell(nPattern,1);
 for i=1:nPattern
-    post{i} = p_post{i}'/sum(p_post{i}(:));
+    post{i} = p_post{i}';
 end
 
 disp(['possible value counts for income, race and occupation are:',...
@@ -27,9 +27,9 @@ disp(['possible value counts for income, race and occupation are:',...
 p = ones(nVar);
 p = p/sum(p(:));
 disp(['KL divergence at ',num2str(0), ' : ',...
-            num2str(KL_gen(p_post,p,patterns))])
+            num2str(KL_gen(p_post,p,patterns,nVar,varSub))])
 kl = zeros(1,31);
-kl(1) = KL_gen(p_post,p,patterns);
+kl(1) = KL_gen(p_post,p,patterns,nVar,varSub);
 
 tic
 for iter=1:30
@@ -38,9 +38,9 @@ for iter=1:30
         pattern = patterns(i,:);  % pattern [3 5]
         [p_cond, p, perm, patternLen] = p_cond_gen(p,pattern);  
         % perm=[3 5 1 2 4 6]
-        patternVars = prod(nVar(find(pattern==1)));
-        nVarNew1 = [nVar(find(pattern==1)),nVar(find(pattern==0))];
-        nVarNew2 = [patternVars,nVar(find(pattern==0))];
+        patternVars = prod(nVar(pattern==1));
+        nVarNew1 = [nVar(pattern==1),nVar(pattern==0)];
+        nVarNew2 = [patternVars,nVar(pattern==0)];
         p = reshape(p,nVarNew2);
 
         for j=1:size(varSub{i},1)
@@ -57,15 +57,6 @@ for iter=1:30
                 % u0 = u0*(1-post{i}(j))/(1-p_cond(j))
             end
         end
-
-%         for ind=1:patternVars
-%             if p_cond(ind) == 0
-%                 p(ind,:) = 0;
-%             else
-%                 p(ind,:) = p(ind,:)*post{i}(ind)/p_cond(ind);
-%             end
-%         end
-
         p = reshape(p,nVarNew1);
         p = ipermute(p,perm);
     end
@@ -73,10 +64,10 @@ for iter=1:30
 %             (1-p_cond(j))/(1-post{i}(j))
     res = abs(p-p_old);
     residual = sum(res(:));
-    kl(iter+1) = KL_gen(p_post, p, patterns);
+    kl(iter+1) = KL_gen(p_post, p, patterns, nVar, varSub);
     if mod(iter,5) == 0
         disp(['KL divergence at ',num2str(iter), ' : ',...
-            num2str(KL_gen(p_post, p, patterns))])
+            num2str(KL_gen(p_post, p, patterns,nVar, varSub))])
 %         disp(['BIC:',num2str(BIC_gen(p_post,p,patterns,nVar))])
 %         disp(['residual at ',num2str(iter), ' : ',...
 %             num2str(residual)])
@@ -102,20 +93,34 @@ toc
 % p_cond = p_cond_gen(p,pattern);
 % bar3(p_cond)
 
-figure
-plot(kl(1:end))
+figure(10)
+semilogy(abs(kl(1:end)))
 xlabel('iteration');
 xlim([1,31]);
 title('Kullback-Leibler (KL) divergence');
 
-if nargin > 4
-    for i=1:nargin-4
-        p_cond = cell(1,size(varargin{i},1));
-        for j=1:size(varargin{i},2)
-            [p_cond{j}, p, perm, patternLen] =  p_cond_gen(p,varargin{i}(j,:));
-            p_cond{j} = p_cond{j}';
-            p = ipermute(p,perm);
+hold on
+
+if nargin == 6
+    out_p_cond = cell(1,size(varargin{1},1));
+    patterns = varargin{1};
+    for i=1:size(patterns,1)
+        pattern = varargin{1}(i,:);
+        [p_cond, p, perm, patternLen] =  p_cond_gen(p,pattern);
+        varSub = varargin{2};
+        inds = [];
+        for j=1:size(varSub{i},1)
+            dim = size(varSub{i},2);
+            if dim == 2
+                % default 2D
+                ind = sub2ind(nVar(pattern==1), varSub{i}(j,1),varSub{i}(j,2));
+            elseif dim == 1
+                ind = varSub{i}(j,1);
+            end
+            inds = [inds,ind];
         end
+        out_p_cond{i} = p_cond(inds);
+        p = ipermute(p,perm);
     end
 end
 end
