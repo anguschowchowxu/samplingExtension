@@ -1,5 +1,13 @@
-function gisDemo()
+function [p,p_pop,nVar,category,patterns,varSub,p_post] = gisDemo(varargin)
 
+    if nargin == 0
+        idx_sample = 3;
+        idx_population = 2;
+    else
+        idx_sample = varargin{1};
+        idx_population = idx_sample-1;
+    end
+        
     columns = {'Pax_ID', 'P1_Age', 'P2_Gender', 'P8_Income', 'P5_EconActivity'};
     cols = {'ID', 'Age', 'Gender', 'Income', 'EconActivity'};
     nFeature = length(columns);
@@ -9,8 +17,14 @@ function gisDemo()
     category = cell(1, nFeature);
     for i=1:nFeature
         df = readtable(['../data/sample/population_sample_',columns{i},'.csv']);
-        p_post{i} = df.sample'/sum(df.sample,1);
-        p_pop{i} = df.population'/sum(df.population,1);
+%         p_post{i} = df.sample_2'/sum(df.sample_2,1);
+%         p_pop{i} = df.population_2'/sum(df.population_2,1);
+        if sum(df.(idx_sample),1) ~= 0
+            p_post{i} = df.(idx_sample)'/sum(df.(idx_sample),1);
+        else
+            p_post{i} = zeros(size(df.(idx_sample)))';
+        end
+        p_pop{i} = df.(idx_population)'/sum(df.(idx_population),1);
         nVar(i) = size(df,1);
         category{i} = df.Var1';
     end
@@ -27,37 +41,41 @@ function gisDemo()
     outpatterns(2,3:4) = 1;
     outpatterns(3,4:5) = 1;
    
-    tmp = cell(1,11);i=1;
-    for MIN = 1
-        outVarSub = gen_outVarSub(outpatterns,nVar,MIN);
-        [p,pcond] = gis(p_post, patterns, nVar, varSub, outpatterns, outVarSub);
+%     tmp = cell(1,11);i=1;
+    
+    if nargin == 0
+        for MIN = 1
+            outVarSub = gen_outVarSub(outpatterns,nVar,MIN);
+            [p,pcond] = gis(p_post, patterns, nVar, varSub, outpatterns, outVarSub);
 
-        gis(pcond, outpatterns, nVar, outVarSub);
-        
-%         tmp{i} = num2str(MIN);
-%         i = i+1;
-%         pause()
-    end
-    
-%     ax = gca();
-%     legend(ax,tmp);
+            gis(pcond, outpatterns, nVar, outVarSub);
 
-    
-    
-    for i=1:nFeature
-        figure(i)
-        p_cond = p_cond_gen(p,patterns(i,:));
-        bar([p_pop{i};p_cond']');
-        ax = gca();
-        legend('p\_pop','p\_MEM','Location','NE');
-        title({['marginal distribution of ',cols{i}];['with KL-divergence ',...
-            num2str(KL(p_pop{i}',p_cond,patterns(i,:),nVar,varSub{i}))]});
-        ax.XTick=1:nVar(i);
-        ax.XTickLabel=category{i};
-        ax.XTickLabelRotation = 90;
-        saveas(gcf,['../report/image/partial_marginal_3_',num2str(i),'.jpg']);
+    %         tmp{i} = num2str(MIN);
+    %         i = i+1;
+    %         pause()
+        end
+
+    %     ax = gca();
+    %     legend(ax,tmp);
+
+
+
+        for i=1:nFeature
+            figure(i)
+            p_cond = p_cond_gen(p,patterns(i,:));
+            bar([p_pop{i};p_cond']');
+            ax = gca();
+            legend('p\_pop','p\_MEM','Location','NE');
+            title({['marginal distribution of ',cols{i}];['with KL-divergence ',...
+                num2str(KL(p_pop{i}',p_cond,patterns(i,:),nVar,varSub{i}))]});
+            ax.XTick = 1:nVar(i);
+            ax.XTickLabel = category{i};
+            ax.XTickLabelRotation = 90;
+%             saveas(gcf,['../report/image/partial_marginal_homtype_maxKL_',num2str(i),'.jpg']);
+        end
+    else
+        p = gis(p_post, patterns, nVar, varSub);
     end
-    
 end
 
 function outVarSub = gen_outVarSub(outpatterns,nVar,MIN)

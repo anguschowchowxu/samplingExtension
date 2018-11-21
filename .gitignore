@@ -1,5 +1,8 @@
+*.asv
 *.pdf
 *.djvu
 report/*
+*.
+*__pycache__/
 
 !report/report.pdf
