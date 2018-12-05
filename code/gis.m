@@ -28,11 +28,14 @@ p = ones(nVar);
 p = p/sum(p(:));
 disp(['KL divergence at ',num2str(0), ' : ',...
             num2str(KL_gen(p_post,p,patterns,nVar,varSub))])
-kl = zeros(1,31);
+
+iterMAX = 5;
+kl = zeros(1,iterMAX+1);
 kl(1) = KL_gen(p_post,p,patterns,nVar,varSub);
 
 tic
-for iter=1:30
+
+for iter=1:iterMAX
     p_old = p;
     for i=1:nPattern
         pattern = patterns(i,:);  % pattern [3 5]
@@ -96,7 +99,7 @@ toc
 figure(10)
 semilogy(abs(kl(1:end)))
 xlabel('iteration');
-xlim([1,31]);
+xlim([1,iterMAX+1]);
 title('Kullback-Leibler (KL) divergence');
 
 hold on

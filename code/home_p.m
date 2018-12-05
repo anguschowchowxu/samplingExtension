@@ -1,8 +1,11 @@
 function homeDemo()
     clc; clear all; clf;
 
-    df = readtable(['../data/sample/population_sample_hometype.csv']);
-    figure(6)
+    df = readtable('../data/sample/population_sample_hometype.csv');
+    df2 = readtable('../data/sample/population_sample.csv');
+%     df = readtable('../data/population_sample_2_hometype.csv');
+%     df2 = readtable('../data/pop_sample_2.csv');
+    figure(11)
 %     yyaxis left
     bar([df.(2),df.(3)]);
     xlabel('Hometype of different members')
@@ -10,20 +13,34 @@ function homeDemo()
     ax = gca();
     legend('hometype\_pop','hometype\_sample','Location','NW');
     title(['sum of hometypes with different members counts']);
+    
     ax.XTick=1:length(df.(1)');
+    xlim([0,length(df.(1)')+2]);
     ax.XTickLabel=df.(1)';
     ax.XTickLabelRotation = 90;
-%     saveas(gcf,['../report/image/hometype_distribution.jpg']);
+%     saveas(gcf,['../report/image/hometype_distribution_2.jpg']);
     proportion = sum(df.(3),1)/sum(df.(2),1)
     p_p = df.(2)'/sum(df.(2),1);
     p_s = df.(3)'/sum(df.(3),1);
     nVar = [11,17,2,13,13];
+%     nVar = [14,2,11,17,11,11,33,2];
     p = zeros(nVar);
     hometype = df.(1);
     sum(p_s)
 
-    columns = {'Pax_ID', 'P1_Age', 'P2_Gender', 'P8_Income', 'P5_EconActivity'};
-    cols = {'ID', 'Age', 'Gender', 'Income', 'EconActivity'};
+    global columns cols
+%     columns = {'Pax_ID', 'P1_Age', 'P2_Gender', 'P8_Income', 'P5_EconActivity'};
+%     cols = {'ID', 'Age', 'Gender', 'Income', 'EconActivity'};
+    columns = df2.Properties.VariableNames(2:end);
+    cols = cell(1,length(columns));
+    for i=1:length(columns)
+        tmp = strsplit(columns{i},'_');
+        if strcmp(tmp{1},'Area')
+            cols{i} = 'Area Name';
+        else
+            cols{i} = tmp{2};
+        end
+    end
     nFeature = length(columns);
     [tmp,p_pop,nVar,category,patterns,varSub,p_post] = gisDemo();
     pause();
@@ -39,8 +56,9 @@ function homeDemo()
                 KL(p_pop{j}',p_cond,patterns(j,:),nVar,varSub{j});
         end
     end
+%     p = p/sum(sum(sum(sum(sum(sum(sum(sum(p,1),2),3),4),5),6),7),8);
     p = p/sum(sum(sum(sum(sum(p,1),2),3),4),5);
-
+    
     figure(7)
 %     yyaxis left
     plot(abs(kl_div));
@@ -51,7 +69,7 @@ function homeDemo()
     ax.XTick=1:length(df.(1)');
     ax.XTickLabel=df.(1)';
     ax.XTickLabelRotation = 90;
-%     saveas(gcf,['../report/image/hometype_distribution_KL.jpg']);
+    saveas(gcf,['../report/image/hometype_distribution_KL.jpg']);
     
     for i=1:nFeature
         figure(i)
@@ -84,7 +102,7 @@ function ret = KL(p_post,p,pattern,nVar,varSub)
         dim = size(varSub,2);
         if dim == 2
             % default 2D
-            ind = sub2ind(nVar(pattern==1), varSub(j,1),varSub(j,2))
+            ind = sub2ind(nVar(pattern==1), varSub(j,1),varSub(j,2));
         elseif dim == 1
             ind = varSub(j,1);
         end

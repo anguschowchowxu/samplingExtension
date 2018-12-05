@@ -7,9 +7,10 @@ function [p,p_pop,nVar,category,patterns,varSub,p_post] = gisDemo(varargin)
         idx_sample = varargin{1};
         idx_population = idx_sample-1;
     end
-        
-    columns = {'Pax_ID', 'P1_Age', 'P2_Gender', 'P8_Income', 'P5_EconActivity'};
-    cols = {'ID', 'Age', 'Gender', 'Income', 'EconActivity'};
+       
+    global columns cols
+%     columns = {'Pax_ID', 'P1_Age', 'P2_Gender', 'P8_Income', 'P5_EconActivity'};
+%     cols = {'ID', 'Age', 'Gender', 'Income', 'EconActivity'};
     nFeature = length(columns);
     nVar = zeros(1, nFeature);
     p_post = cell(1, nFeature);
@@ -17,6 +18,7 @@ function [p,p_pop,nVar,category,patterns,varSub,p_post] = gisDemo(varargin)
     category = cell(1, nFeature);
     for i=1:nFeature
         df = readtable(['../data/sample/population_sample_',columns{i},'.csv']);
+%         df = readtable(['../data/population_sample_',columns{i},'.csv']);
 %         p_post{i} = df.sample_2'/sum(df.sample_2,1);
 %         p_pop{i} = df.population_2'/sum(df.population_2,1);
         if sum(df.(idx_sample),1) ~= 0
@@ -35,20 +37,27 @@ function [p,p_pop,nVar,category,patterns,varSub,p_post] = gisDemo(varargin)
         varSub{i} = (1:nVar(i))';
     end
     
-
-    outpatterns = zeros(3,5);
-    outpatterns(1,1:2) = 1;
-    outpatterns(2,3:4) = 1;
-    outpatterns(3,4:5) = 1;
+    dim1 = idivide(nFeature, int32(2), 'ceil');
+    outpatterns = zeros(dim1,nFeature);
+    for i=1:dim1
+        if 2*i < nFeature
+            outpatterns(i,2*i-1:2*i) = 1;
+        else
+            outpatterns(i,2*i-2:2*i-1) = 1;
+        end
+    end
    
 %     tmp = cell(1,11);i=1;
     
     if nargin == 0
         for MIN = 1
             outVarSub = gen_outVarSub(outpatterns,nVar,MIN);
-            [p,pcond] = gis(p_post, patterns, nVar, varSub, outpatterns, outVarSub);
-
-            gis(pcond, outpatterns, nVar, outVarSub);
+            tic
+%             [p,pcond] = gis(p_post, patterns, nVar, varSub);
+            [p,pcond] = gis(p_post, patterns, nVar, varSub,...
+                            outpatterns, outVarSub);
+%             gis(pcond, outpatterns, nVar, outVarSub);
+            toc
 
     %         tmp{i} = num2str(MIN);
     %         i = i+1;
@@ -74,7 +83,9 @@ function [p,p_pop,nVar,category,patterns,varSub,p_post] = gisDemo(varargin)
 %             saveas(gcf,['../report/image/partial_marginal_homtype_maxKL_',num2str(i),'.jpg']);
         end
     else
+        tic
         p = gis(p_post, patterns, nVar, varSub);
+        toc
     end
 end
 
@@ -87,7 +98,7 @@ function outVarSub = gen_outVarSub(outpatterns,nVar,MIN)
         [maxLen,ind] = max(tmp);
         dim = sum(pattern==1);
         if dim == 1
-            outVarSub{1} = (1:nVar(ind))';
+            outVarSub{i} = (1:nVar(ind))';
         elseif dim == 2
             nVarPattern = prod(nVar(pattern==1));
             sample = randperm(nVarPattern,nVar(ind));  % nVar(ind),min([nVar(ind),MIN])
@@ -97,7 +108,7 @@ function outVarSub = gen_outVarSub(outpatterns,nVar,MIN)
             nVarPattern = prod(nVar(pattern==1));
             sample = randperm(nVarPattern,nVar(ind));
             [I1,I2,I3] = ind2sub(nVar(pattern==1),sample);
-            outVarSub{1} = [I1',I2',I3'];
+            outVarSub{i} = [I1',I2',I3'];
         end
     end
 end
