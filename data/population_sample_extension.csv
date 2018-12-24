@@ -1,0 +1,998 @@
+hometype,H2_DwellingType,H5_VehAvailable,Pax_ID,P1_Age,P5_Employ,P6_Occup,Area_name,P2_Gender
+8 or above,Landed Property,No,5,6-9 yrs old,Full time student,Service & sales worker,BEDOK,Female
+8 or above,HDB 5-room,Yes,6,35-39 yrs old,Full time student,Professional,TAMPINES,Male
+8 or above,HDB 5-room,Yes,3,15-19 yrs old,Employed Full-time,Service & sales worker,JURONG EAST,Female
+8 or above,Landed Property,Yes,7,30-34 yrs old,Self-employed,Associate professional & technician,ANG MO KIO,Male
+8 or above,HDB 4-room,Yes,5,10-14 yrs old,Employed Full-time,Professional,BUKIT PANJANG,Male
+8 or above,HDB 4-room,No,2,45-49 yrs old,Full time student,Professional,HOUGANG,Female
+8 or above,HDB 3-room,Yes,2,35-39 yrs old,Employed Full-time,Cleaner, labourer & related worker,BUKIT PANJANG,Female
+8 or above,HDB 4-room,Yes,5,6-9 yrs old,Self-employed,Clerical worker,PASIR RIS,Male
+8 or above,Landed Property,Yes,1,40-44 yrs old,Retired,Service & sales worker,WOODLANDS,Female
+8 or above,HDB 4-room,Yes,2,35-39 yrs old,Full time student,Clerical worker,ANG MO KIO,Female
+8 or above,HDB 3-room,No,3,10-14 yrs old,Full time student,Clerical worker,TAMPINES,Male
+8 or above,HDB 3-room,Yes,2,55-59 yrs old,Employed Full-time,Clerical worker,BUKIT PANJANG,Male
+8 or above,HDB 5-room,Yes,7,6-9 yrs old,Full time student,Associate professional & technician,BUKIT TIMAH,Male
+7,HDB 5-room,No,7,60-64 yrs old,Employed Full-time,Clerical worker,JURONG WEST,Male
+7,Landed Property,No,7,25-29 yrs old,Employed Full-time,Associate professional & technician,SERANGOON,Male
+7,Private flat/condo,No,3,10-14 yrs old,Domestic worker,Plant & machine operator & assembler,JURONG WEST,Female
+7,HDB 4-room,Yes,5,15-19 yrs old,Retired,Clerical worker,TAMPINES,Female
+7,HDB 5-room,Yes,1,85 yrs & above,Employed Full-time,Professional,WOODLANDS,Female
+7,HDB 4-room,Yes,3,55-59 yrs old,Self-employed,Service & sales worker,BUKIT BATOK,Male
+7,HDB 2-room,No,4,40-44 yrs old,Full time student,Service & sales worker,PASIR RIS,Male
+7,HDB 4-room,Yes,1,30-34 yrs old,Full time student,Professional,CHOA CHU KANG,Male
+7,HDB 5-room,Yes,3,20-24 yrs old,Full time student,Plant & machine operator & assembler,SEMBAWANG,Female
+7,Private flat/condo,No,5,25-29 yrs old,Employed Full-time,Professional,WOODLANDS,Male
+7,HDB 4-room,Yes,4,65-69 yrs old,Full time student,Plant & machine operator & assembler,SENGKANG,Female
+7,HDB 4-room,No,3,30-34 yrs old,Self-employed,Professional,GEYLANG,Male
+7,HDB 3-room,Yes,2,75-79 yrs old,Employed Full-time,Legislator,senior official & manager,WOODLANDS,Male
+7,HDB 5-room,Yes,4,30-34 yrs old,Retired,Plant & machine operator & assembler,HOUGANG,Male
+7,Government executive flat,No,4,10-14 yrs old,Homemaker,Legislator,senior official & manager,QUEENSTOWN,Female
+7,HDB 3-room,No,5,45-49 yrs old,Employed Full-time,Plant & machine operator & assembler,SENGKANG,Female
+7,HDB 3-room,Yes,5,30-34 yrs old,Homemaker,Associate professional & technician,CHOA CHU KANG,Male
+7,HDB 5-room,Yes,6,30-34 yrs old,Employed Full-time,Legislator,senior official & manager,BUKIT PANJANG,Female
+7,HDB 5-room,Yes,4,30-34 yrs old,Employed Full-time,Clerical worker,CHOA CHU KANG,Female
+7,HDB 4-room,No,2,60-64 yrs old,Employed Full-time,Associate professional & technician,QUEENSTOWN,Female
+7,HDB 4-room,Yes,3,30-34 yrs old,Employed Full-time,Professional,HOUGANG,Female
+7,HDB 4-room,No,3,35-39 yrs old,Full time student,Professional,BUKIT PANJANG,Male
+7,HDB 5-room,No,4,50-54 yrs old,Employed Full-time,Plant & machine operator & assembler,BUKIT TIMAH,Female
+7,HDB 5-room,Yes,2,35-39 yrs old,Employed Full-time,Service & sales worker,TAMPINES,Female
+7,HDB 5-room,Yes,1,30-34 yrs old,Domestic worker,Service & sales worker,JURONG WEST,Female
+6,Landed Property,No,6,6-9 yrs old,Full time student,Cleaner, labourer & related worker,TAMPINES,Female
+6,HDB 4-room,Yes,6,50-54 yrs old,Full time student,Associate professional & technician,TAMPINES,Female
+6,HDB 4-room,Yes,6,50-54 yrs old,Employed Full-time,Service & sales worker,NOVENA,Female
+6,Landed Property,Yes,3,25-29 yrs old,Full time student,Professional,TANGLIN,Female
+6,Landed Property,No,6,25-29 yrs old,Employed Full-time,Service & sales worker,JURONG WEST,Female
+6,HDB 3-room,Yes,6,10-14 yrs old,Employed Full-time,Associate professional & technician,ANG MO KIO,Male
+6,HDB 5-room,Yes,2,45-49 yrs old,Full time student,Professional,BUKIT PANJANG,Female
+6,HDB 4-room,Yes,6,45-49 yrs old,Full time student,Clerical worker,TAMPINES,Female
+6,Landed Property,Yes,3,20-24 yrs old,Full time student,Professional,TAMPINES,Male
+6,HDB 5-room,Yes,6,55-59 yrs old,Employed Full-time,Professional,HOUGANG,Female
+6,HDB 4-room,Yes,1,55-59 yrs old,Employed Full-time,Service & sales worker,SERANGOON,Female
+6,HDB 5-room,Yes,5,20-24 yrs old,Retired,Service & sales worker,WOODLANDS,Female
+6,HDB 5-room,Yes,2,30-34 yrs old,Employed Full-time,Professional,BEDOK,Female
+6,HDB 5-room,Yes,2,45-49 yrs old,Employed Full-time,Professional,CHOA CHU KANG,Male
+6,HDB 5-room,Yes,1,10-14 yrs old,Full time student,Service & sales worker,TAMPINES,Male
+6,HDB 5-room,Yes,5,25-29 yrs old,Employed Full-time,Professional,ANG MO KIO,Male
+6,HDB 5-room,Yes,1,20-24 yrs old,Full time student,Clerical worker,CLEMENTI,Female
+6,HDB 5-room,Yes,5,70-74 yrs old,Retired,Professional,BEDOK,Female
+6,HDB 5-room,Yes,2,15-19 yrs old,Employed Full-time,Professional,SEMBAWANG,Female
+6,HDB 5-room,Yes,3,6-9 yrs old,Full time student,Professional,HOUGANG,Male
+6,HDB 4-room,Yes,1,30-34 yrs old,Employed Full-time,Professional,BUKIT PANJANG,Male
+6,HDB 4-room,Yes,1,55-59 yrs old,Employed Full-time,Legislator,senior official & manager,PUNGGOL,Male
+6,Landed Property,No,6,50-54 yrs old,Domestic worker,Professional,BUKIT TIMAH,Male
+6,HDB 4-room,Yes,3,55-59 yrs old,Full time student,Associate professional & technician,JURONG WEST,Male
+6,HDB 4-room,Yes,2,30-34 yrs old,Domestic worker,Professional,MARINE PARADE,Female
+6,HDB 4-room,Yes,3,10-14 yrs old,Retired,Clerical worker,KALLANG,Female
+6,Private flat/condo,No,2,25-29 yrs old,Full time student,Professional,SENGKANG,Female
+6,HDB 5-room,Yes,2,55-59 yrs old,Self-employed,Professional,TAMPINES,Male
+6,Landed Property,Yes,2,15-19 yrs old,Employed Full-time,Service & sales worker,SERANGOON,Female
+6,HDB 4-room,No,3,25-29 yrs old,Domestic worker,Professional,SEMBAWANG,Female
+6,HDB 4-room,Yes,3,70-74 yrs old,Employed Full-time,Legislator,senior official & manager,BUKIT BATOK,Female
+6,HDB 5-room,No,2,35-39 yrs old,Domestic worker,Professional,BUKIT BATOK,Female
+6,HDB 5-room,Yes,5,50-54 yrs old,Employed Full-time,Service & sales worker,BEDOK,Female
+6,HDB 3-room,Yes,5,35-39 yrs old,Retired,Associate professional & technician,SEMBAWANG,Female
+6,Landed Property,Yes,2,10-14 yrs old,Employed Full-time,Professional,BUKIT BATOK,Female
+6,Private flat/condo,No,2,25-29 yrs old,Employed Full-time,Service & sales worker,CHOA CHU KANG,Female
+6,HDB 4-room,No,5,50-54 yrs old,Employed Full-time,Professional,SERANGOON,Male
+6,HDB 4-room,No,3,45-49 yrs old,National service,Service & sales worker,SEMBAWANG,Female
+6,HDB 4-room,Yes,1,10-14 yrs old,Full time student,Professional,JURONG WEST,Male
+6,HDB 4-room,Yes,1,55-59 yrs old,Homemaker,Professional,BUKIT PANJANG,Male
+6,Landed Property,Yes,5,15-19 yrs old,Homemaker,Associate professional & technician,TANGLIN,Female
+6,HDB 3-room,Yes,6,20-24 yrs old,Homemaker,Legislator,senior official & manager,GEYLANG,Female
+6,HDB 4-room,Yes,6,65-69 yrs old,Employed Full-time,Service & sales worker,GEYLANG,Female
+6,HDB 5-room,Yes,3,35-39 yrs old,Employed Full-time,Plant & machine operator & assembler,PASIR RIS,Male
+6,HDB 4-room,No,4,35-39 yrs old,Employed Full-time,Legislator,senior official & manager,SENGKANG,Female
+6,Landed Property,Yes,6,10-14 yrs old,Full time student,Service & sales worker,BUKIT BATOK,Female
+6,HDB 4-room,Yes,5,35-39 yrs old,Domestic worker,Clerical worker,JURONG WEST,Female
+6,HDB 4-room,Yes,6,20-24 yrs old,Full time student,Professional,HOUGANG,Female
+6,HDB 5-room,Yes,3,35-39 yrs old,Employed Full-time,Clerical worker,WOODLANDS,Female
+6,Landed Property,No,5,25-29 yrs old,Employed Full-time,Legislator,senior official & manager,WOODLANDS,Male
+6,Landed Property,Yes,2,15-19 yrs old,Employed Full-time,Service & sales worker,GEYLANG,Female
+6,HDB 4-room,Yes,1,6-9 yrs old,Full time student,Service & sales worker,WOODLANDS,Male
+6,HDB other than flat,Yes,6,25-29 yrs old,Full time student,Service & sales worker,BUKIT BATOK,Male
+6,HDB 5-room,Yes,1,20-24 yrs old,Domestic worker,Service & sales worker,KALLANG,Female
+6,HDB 4-room,No,6,40-44 yrs old,Employed Full-time,Professional,SEMBAWANG,Female
+6,Landed Property,No,2,25-29 yrs old,Retired,Professional,BISHAN,Male
+6,HDB 4-room,Yes,6,25-29 yrs old,Employed Full-time,Professional,SERANGOON,Male
+6,HDB 4-room,Yes,3,25-29 yrs old,Employed Full-time,Service & sales worker,JURONG WEST,Male
+6,HDB 4-room,Yes,2,35-39 yrs old,Homemaker,Associate professional & technician,BISHAN,Female
+6,HDB 5-room,Yes,2,6-9 yrs old,Employed Full-time,Service & sales worker,GEYLANG,Female
+6,HDB 5-room,No,5,35-39 yrs old,Homemaker,Clerical worker,PASIR RIS,Male
+6,Government executive flat,Yes,4,35-39 yrs old,Full time student,Professional,BUKIT PANJANG,Female
+6,HDB 5-room,No,5,15-19 yrs old,Full time student,Professional,NOVENA,Female
+6,HDB 4-room,No,1,25-29 yrs old,Employed Full-time,Professional,JURONG WEST,Female
+6,HDB 4-room,Yes,5,60-64 yrs old,Employed Full-time,Clerical worker,BISHAN,Male
+6,HDB 4-room,Yes,1,70-74 yrs old,Domestic worker,Professional,BEDOK,Male
+6,HDB 4-room,Yes,6,55-59 yrs old,Full time student,Clerical worker,BUKIT BATOK,Male
+6,HDB 3-room,Yes,5,10-14 yrs old,Full time student,Professional,BEDOK,Male
+6,HDB 4-room,No,3,10-14 yrs old,Employed Part-time,Armed forces,PASIR RIS,Male
+6,HDB 4-room,No,4,25-29 yrs old,Employed Full-time,Service & sales worker,PASIR RIS,Female
+6,HDB 3-room,No,6,15-19 yrs old,Domestic worker,Service & sales worker,BUKIT PANJANG,Female
+6,Landed Property,No,5,30-34 yrs old,Full time student,Service & sales worker,GEYLANG,Female
+5,HDB 4-room,Yes,1,30-34 yrs old,Full time student,Professional,WOODLANDS,Female
+5,Private flat/condo,Yes,3,30-34 yrs old,Full time student,Production craftsman & related worker,JURONG WEST,Female
+5,Private flat/condo,Yes,5,20-24 yrs old,Employed Full-time,Legislator,senior official & manager,PASIR RIS,Female
+5,HDB 5-room,No,3,45-49 yrs old,Self-employed,Associate professional & technician,BUKIT TIMAH,Male
+5,HDB 5-room,Yes,5,10-14 yrs old,Employed Full-time,Plant & machine operator & assembler,ANG MO KIO,Female
+5,HDB 5-room,No,2,35-39 yrs old,Full time student,Service & sales worker,CHOA CHU KANG,Female
+5,HDB 4-room,Yes,1,60-64 yrs old,Employed Full-time,Associate professional & technician,SERANGOON,Male
+5,Landed Property,Yes,4,6-9 yrs old,Employed Full-time,Service & sales worker,BUKIT TIMAH,Female
+5,HDB 4-room,No,2,45-49 yrs old,Employed Full-time,Legislator,senior official & manager,PUNGGOL,Female
+5,HDB 5-room,No,2,50-54 yrs old,Full time student,Professional,TAMPINES,Female
+5,Private flat/condo,No,2,10-14 yrs old,Full time student,Plant & machine operator & assembler,QUEENSTOWN,Female
+5,HDB 5-room,No,4,35-39 yrs old,Full time student,Service & sales worker,NOVENA,Female
+5,HDB 4-room,Yes,1,70-74 yrs old,Employed Part-time,Clerical worker,GEYLANG,Female
+5,HDB 4-room,Yes,3,45-49 yrs old,Homemaker,Clerical worker,WOODLANDS,Male
+5,HDB 5-room,Yes,1,25-29 yrs old,Employed Full-time,Cleaner, labourer & related worker,TOA PAYOH,Female
+5,HDB 3-room,Yes,1,30-34 yrs old,Full time student,Associate professional & technician,WOODLANDS,Female
+5,HDB 4-room,Yes,3,55-59 yrs old,Homemaker,Legislator,senior official & manager,TAMPINES,Male
+5,Private flat/condo,Yes,4,50-54 yrs old,Employed Full-time,Professional,WOODLANDS,Male
+5,HDB 4-room,No,3,25-29 yrs old,Employed Full-time,Professional,JURONG WEST,Female
+5,HDB 5-room,Yes,4,35-39 yrs old,Full time student,Associate professional & technician,WOODLANDS,Male
+5,HDB 4-room,Yes,5,55-59 yrs old,Homemaker,Service & sales worker,WOODLANDS,Male
+5,HDB 5-room,No,5,60-64 yrs old,Employed Full-time,Service & sales worker,TAMPINES,Female
+5,Landed Property,Yes,4,55-59 yrs old,Employed Full-time,Professional,BUKIT TIMAH,Male
+5,HDB 4-room,Yes,5,10-14 yrs old,Full time student,Professional,ANG MO KIO,Male
+5,Private flat/condo,No,3,45-49 yrs old,Full time student,Professional,WOODLANDS,Female
+5,HDB 5-room,No,3,85 yrs & above,Employed Full-time,Professional,JURONG EAST,Male
+5,HDB 5-room,Yes,2,25-29 yrs old,Homemaker,Associate professional & technician,ANG MO KIO,Female
+5,HDB 5-room,Yes,5,20-24 yrs old,Employed Full-time,Service & sales worker,TAMPINES,Male
+5,Private flat/condo,No,3,70-74 yrs old,Employed Full-time,Legislator,senior official & manager,BUKIT BATOK,Male
+5,HDB 4-room,Yes,2,25-29 yrs old,Domestic worker,Professional,SENGKANG,Male
+5,HDB 3-room,No,4,50-54 yrs old,Homemaker,Professional,WOODLANDS,Male
+5,HDB 4-room,Yes,1,30-34 yrs old,Employed Full-time,Professional,KALLANG,Male
+5,HDB 4-room,Yes,3,70-74 yrs old,Full time student,Plant & machine operator & assembler,TOA PAYOH,Female
+5,HDB 4-room,Yes,5,25-29 yrs old,Employed Full-time,Professional,JURONG WEST,Male
+5,HDB 4-room,No,5,45-49 yrs old,Domestic worker,Professional,JURONG WEST,Female
+5,HDB 4-room,No,4,20-24 yrs old,Domestic worker,Legislator,senior official & manager,JURONG WEST,Male
+5,HDB 5-room,No,4,40-44 yrs old,Unemployed,Service & sales worker,NOVENA,Male
+5,HDB 5-room,Yes,2,45-49 yrs old,Retired,Production craftsman & related worker,BUKIT MERAH,Female
+5,HDB 5-room,Yes,5,45-49 yrs old,Retired,Professional,TAMPINES,Male
+5,HDB 5-room,Yes,5,20-24 yrs old,Employed Full-time,Cleaner, labourer & related worker,WOODLANDS,Female
+5,HDB 5-room,Yes,2,20-24 yrs old,Full time student,Professional,GEYLANG,Male
+5,HDB 4-room,Yes,4,10-14 yrs old,Employed Full-time,Clerical worker,ANG MO KIO,Female
+5,HDB 5-room,No,5,35-39 yrs old,Employed Full-time,Professional,GEYLANG,Male
+5,HDB 5-room,No,2,10-14 yrs old,Employed Full-time,Associate professional & technician,JURONG EAST,Female
+5,HDB 5-room,No,1,45-49 yrs old,Employed Full-time,Legislator,senior official & manager,NOVENA,Male
+5,HDB 5-room,Yes,3,55-59 yrs old,Full time student,Clerical worker,HOUGANG,Female
+5,HDB 5-room,No,4,50-54 yrs old,Full time student,Service & sales worker,CHOA CHU KANG,Female
+5,HDB 4-room,Yes,5,40-44 yrs old,Domestic worker,Professional,WOODLANDS,Male
+5,HDB 5-room,Yes,2,60-64 yrs old,Full time student,Service & sales worker,JURONG EAST,Male
+5,HDB 5-room,Yes,2,70-74 yrs old,Full time student,Service & sales worker,ANG MO KIO,Female
+5,Other public flat,Yes,2,65-69 yrs old,Full time student,Associate professional & technician,WOODLANDS,Male
+5,HDB 4-room,Yes,1,20-24 yrs old,Domestic worker,Associate professional & technician,CHOA CHU KANG,Male
+5,HDB 4-room,Yes,2,25-29 yrs old,Employed Full-time,Service & sales worker,BEDOK,Female
+5,HDB 4-room,Yes,1,25-29 yrs old,Employed Full-time,Professional,PUNGGOL,Male
+5,HDB 4-room,No,1,25-29 yrs old,Employed Full-time,Associate professional & technician,KALLANG,Male
+5,HDB 5-room,No,5,50-54 yrs old,Domestic worker,Clerical worker,BISHAN,Female
+5,HDB 4-room,Yes,2,35-39 yrs old,Unemployed,Associate professional & technician,ANG MO KIO,Female
+5,HDB 5-room,Yes,5,60-64 yrs old,Employed Full-time,Legislator,senior official & manager,ANG MO KIO,Male
+5,HDB 3-room,No,2,30-34 yrs old,Employed Part-time,Plant & machine operator & assembler,KALLANG,Male
+5,HDB 5-room,Yes,5,25-29 yrs old,Homemaker,Clerical worker,OUTRAM,Female
+5,HDB 4-room,Yes,5,55-59 yrs old,Employed Part-time,Professional,WOODLANDS,Male
+5,HDB 5-room,Yes,1,30-34 yrs old,Employed Full-time,Agriculture & fishery worker,SEMBAWANG,Male
+5,HDB 4-room,Yes,4,50-54 yrs old,Full time student,Service & sales worker,BUKIT TIMAH,Female
+5,HDB 5-room,Yes,5,10-14 yrs old,Full time student,Clerical worker,JURONG EAST,Male
+5,HDB 4-room,No,2,50-54 yrs old,Full time student,Legislator,senior official & manager,QUEENSTOWN,Female
+5,HDB 4-room,Yes,3,25-29 yrs old,Domestic worker,Legislator,senior official & manager,YISHUN,Male
+5,HDB 4-room,No,5,45-49 yrs old,Full time student,Professional,SENGKANG,Female
+5,HDB 4-room,Yes,3,20-24 yrs old,Full time student,Legislator,senior official & manager,BUKIT MERAH,Male
+5,HDB 4-room,Yes,1,6-9 yrs old,Domestic worker,Service & sales worker,PUNGGOL,Male
+5,HDB 5-room,Yes,2,70-74 yrs old,Full time student,Legislator,senior official & manager,SEMBAWANG,Male
+5,HDB 4-room,Yes,3,30-34 yrs old,Employed Full-time,Professional,SERANGOON,Female
+5,Private flat/condo,No,2,6-9 yrs old,Full time student,Clerical worker,KALLANG,Male
+5,Private flat/condo,No,2,50-54 yrs old,Full time student,Professional,BUKIT TIMAH,Male
+5,HDB 5-room,No,3,10-14 yrs old,Homemaker,Legislator,senior official & manager,ANG MO KIO,Female
+5,HDB 5-room,Yes,1,55-59 yrs old,Full time student,Associate professional & technician,BUKIT MERAH,Female
+5,HDB 5-room,No,2,25-29 yrs old,Employed Full-time,Associate professional & technician,WOODLANDS,Female
+5,HDB 4-room,No,5,30-34 yrs old,Employed Full-time,Associate professional & technician,YISHUN,Male
+5,HDB 5-room,Yes,2,85 yrs & above,Homemaker,Legislator,senior official & manager,WOODLANDS,Male
+5,HDB 5-room,No,3,55-59 yrs old,Employed Full-time,Legislator,senior official & manager,PASIR RIS,Male
+5,HDB 4-room,No,3,20-24 yrs old,Employed Full-time,Clerical worker,GEYLANG,Male
+5,HDB 5-room,No,5,10-14 yrs old,Homemaker,Professional,YISHUN,Male
+5,Private flat/condo,No,3,25-29 yrs old,Full time student,Service & sales worker,BEDOK,Male
+5,HDB 4-room,Yes,5,50-54 yrs old,Employed Full-time,Plant & machine operator & assembler,BEDOK,Female
+5,HDB 4-room,No,5,20-24 yrs old,Full time student,Professional,CHOA CHU KANG,Female
+5,HDB 3-room,No,4,65-69 yrs old,Full time student,Clerical worker,TAMPINES,Female
+5,HDB 3-room,Yes,1,20-24 yrs old,Homemaker,Service & sales worker,PUNGGOL,Female
+5,HDB 4-room,Yes,1,60-64 yrs old,National service,Professional,SENGKANG,Male
+5,Landed Property,Yes,5,85 yrs & above,Homemaker,Professional,BUKIT TIMAH,Female
+5,HDB 5-room,Yes,3,6-9 yrs old,Self-employed,Associate professional & technician,GEYLANG,Male
+5,HDB 5-room,No,2,25-29 yrs old,Employed Full-time,Service & sales worker,HOUGANG,Male
+5,HDB 4-room,Yes,2,6-9 yrs old,Employed Full-time,Legislator,senior official & manager,BUKIT TIMAH,Male
+5,HDB 3-room,Yes,4,6-9 yrs old,Homemaker,Professional,BUKIT PANJANG,Female
+5,Landed Property,Yes,3,25-29 yrs old,Full time student,Legislator,senior official & manager,BUKIT PANJANG,Female
+5,HDB 4-room,Yes,4,25-29 yrs old,Full time student,Associate professional & technician,QUEENSTOWN,Female
+5,Landed Property,No,2,25-29 yrs old,Full time student,Associate professional & technician,BUKIT BATOK,Male
+5,HDB 4-room,Yes,4,20-24 yrs old,Self-employed,Self Employed / Businessman,NOVENA,Male
+5,HDB 4-room,No,3,30-34 yrs old,Homemaker,Professional,JURONG WEST,Female
+5,HDB 4-room,No,1,30-34 yrs old,Employed Full-time,Service & sales worker,YISHUN,Male
+5,HDB 4-room,No,5,20-24 yrs old,Full time student,Associate professional & technician,YISHUN,Male
+5,Private flat/condo,Yes,3,50-54 yrs old,Self-employed,Professional,TAMPINES,Male
+5,HDB 5-room,Yes,5,10-14 yrs old,Employed Part-time,Legislator,senior official & manager,KALLANG,Female
+5,HDB 5-room,No,1,50-54 yrs old,Domestic worker,Clerical worker,BUKIT PANJANG,Female
+5,HDB 4-room,Yes,5,85 yrs & above,Employed Part-time,Professional,ANG MO KIO,Female
+5,Private flat/condo,No,4,50-54 yrs old,Employed Full-time,Clerical worker,TAMPINES,Female
+5,HDB 5-room,Yes,1,35-39 yrs old,Employed Full-time,Plant & machine operator & assembler,JURONG WEST,Female
+5,HDB 4-room,Yes,1,25-29 yrs old,Full time student,Service & sales worker,YISHUN,Male
+5,HDB 4-room,Yes,3,45-49 yrs old,Full time student,Legislator,senior official & manager,BUKIT TIMAH,Male
+5,Private flat/condo,No,3,45-49 yrs old,Employed Full-time,Professional,BEDOK,Female
+5,HDB 4-room,No,5,20-24 yrs old,Employed Full-time,Professional,GEYLANG,Male
+5,Private flat/condo,No,2,45-49 yrs old,Employed Full-time,Cleaner, labourer & related worker,HOUGANG,Male
+5,HDB 4-room,Yes,3,35-39 yrs old,Homemaker,Associate professional & technician,BEDOK,Female
+5,HDB 5-room,Yes,2,45-49 yrs old,Homemaker,Professional,CHOA CHU KANG,Male
+5,Private flat/condo,Yes,5,20-24 yrs old,Employed Full-time,Production craftsman & related worker,BUKIT TIMAH,Female
+5,Private flat/condo,Yes,5,35-39 yrs old,Full time student,Legislator,senior official & manager,BUKIT MERAH,Male
+5,HDB 3-room,Yes,3,45-49 yrs old,Unemployed,Service & sales worker,QUEENSTOWN,Female
+5,Private flat/condo,Yes,5,20-24 yrs old,Domestic worker,Professional,BUKIT BATOK,Male
+5,HDB 4-room,No,2,45-49 yrs old,National service,Service & sales worker,PUNGGOL,Male
+5,HDB 5-room,No,5,40-44 yrs old,Full time student,Associate professional & technician,JURONG WEST,Male
+5,HDB 4-room,Yes,1,6-9 yrs old,Employed Full-time,Legislator,senior official & manager,YISHUN,Female
+5,HDB 5-room,Yes,2,25-29 yrs old,Employed Part-time,Clerical worker,BUKIT TIMAH,Male
+5,HDB 5-room,No,2,40-44 yrs old,Employed Full-time,Service & sales worker,KALLANG,Female
+5,HDB 3-room,Yes,1,40-44 yrs old,Employed Full-time,Associate professional & technician,TAMPINES,Female
+5,HDB 4-room,Yes,1,45-49 yrs old,Full time student,Professional,ANG MO KIO,Female
+5,HDB 4-room,No,1,60-64 yrs old,Employed Full-time,Armed forces,CHOA CHU KANG,Male
+5,Private flat/condo,Yes,5,20-24 yrs old,Employed Full-time,Professional,ANG MO KIO,Female
+5,HDB 4-room,Yes,4,25-29 yrs old,Domestic worker,Professional,ANG MO KIO,Male
+5,Private flat/condo,Yes,5,30-34 yrs old,Employed Full-time,Service & sales worker,HOUGANG,Male
+5,HDB 5-room,Yes,4,30-34 yrs old,Employed Full-time,Professional,BEDOK,Female
+5,HDB 4-room,No,4,15-19 yrs old,Full time student,Legislator,senior official & manager,BUKIT BATOK,Female
+5,HDB 3-room,Yes,5,25-29 yrs old,Employed Full-time,Service & sales worker,YISHUN,Male
+5,HDB 3-room,Yes,4,30-34 yrs old,Employed Full-time,Legislator,senior official & manager,SERANGOON,Female
+5,HDB 4-room,Yes,1,10-14 yrs old,Employed Full-time,Professional,BUKIT PANJANG,Female
+5,HDB 5-room,Yes,5,20-24 yrs old,Employed Full-time,Professional,WOODLANDS,Male
+5,HDB 4-room,Yes,4,6-9 yrs old,Domestic worker,Plant & machine operator & assembler,BUKIT BATOK,Female
+5,HDB 4-room,Yes,2,10-14 yrs old,Full time student,Plant & machine operator & assembler,CHOA CHU KANG,Female
+5,HDB 3-room,Yes,4,50-54 yrs old,Homemaker,Legislator,senior official & manager,ANG MO KIO,Female
+5,HDB 4-room,Yes,5,40-44 yrs old,Homemaker,Professional,CHOA CHU KANG,Female
+5,Private flat/condo,No,2,15-19 yrs old,Employed Full-time,Professional,JURONG WEST,Male
+5,HDB 5-room,Yes,2,6-9 yrs old,Homemaker,Professional,SERANGOON,Male
+5,HDB 4-room,No,2,10-14 yrs old,National service,Legislator,senior official & manager,WOODLANDS,Female
+5,HDB 5-room,No,4,65-69 yrs old,Employed Full-time,Legislator,senior official & manager,JURONG WEST,Male
+5,HDB 5-room,No,5,10-14 yrs old,Employed Full-time,Professional,ANG MO KIO,Female
+5,HDB 4-room,No,1,20-24 yrs old,Full time student,Service & sales worker,YISHUN,Female
+5,HDB 5-room,No,4,50-54 yrs old,Employed Part-time,Clerical worker,HOUGANG,Female
+5,HDB 5-room,Yes,1,45-49 yrs old,Unemployed,Professional,CHOA CHU KANG,Male
+5,HDB 3-room,Yes,4,45-49 yrs old,Employed Full-time,Service & sales worker,BUKIT PANJANG,Male
+5,HDB 4-room,Yes,1,55-59 yrs old,Employed Full-time,Clerical worker,BEDOK,Female
+5,Private flat/condo,Yes,5,25-29 yrs old,Full time student,Service & sales worker,JURONG WEST,Female
+5,Landed Property,Yes,2,40-44 yrs old,Domestic worker,Service & sales worker,WOODLANDS,Female
+5,HDB 5-room,Yes,3,50-54 yrs old,Full time student,Professional,BUKIT MERAH,Female
+5,HDB 5-room,Yes,4,40-44 yrs old,Domestic worker,Professional,BUKIT TIMAH,Male
+5,Private flat/condo,Yes,5,50-54 yrs old,Employed Full-time,Professional,KALLANG,Female
+5,HDB 1-room,Yes,5,20-24 yrs old,Employed Full-time,Professional,HOUGANG,Male
+5,HDB 4-room,No,3,50-54 yrs old,Employed Full-time,Associate professional & technician,WOODLANDS,Female
+5,HDB 3-room,No,2,10-14 yrs old,Employed Full-time,Legislator,senior official & manager,SEMBAWANG,Female
+5,HDB 4-room,Yes,1,40-44 yrs old,Employed Full-time,Professional,TAMPINES,Male
+5,HDB 4-room,Yes,3,30-34 yrs old,Employed Full-time,Legislator,senior official & manager,SENGKANG,Male
+5,HDB 5-room,Yes,1,25-29 yrs old,Full time student,Armed forces,TAMPINES,Female
+5,HDB 4-room,No,1,30-34 yrs old,Homemaker,Professional,JURONG WEST,Female
+5,HDB 5-room,Yes,5,15-19 yrs old,Self-employed,Professional,JURONG WEST,Male
+4,HDB 5-room,Yes,3,10-14 yrs old,Homemaker,Service & sales worker,JURONG WEST,Male
+4,HDB 5-room,Yes,4,65-69 yrs old,Employed Full-time,Plant & machine operator & assembler,PASIR RIS,Male
+4,HDB 4-room,Yes,3,20-24 yrs old,Full time student,Service & sales worker,WOODLANDS,Male
+4,HDB 5-room,No,3,45-49 yrs old,Employed Full-time,Associate professional & technician,OUTRAM,Female
+4,HDB 3-room,Yes,4,45-49 yrs old,Full time student,Professional,TAMPINES,Female
+4,HDB 3-room,Yes,2,40-44 yrs old,Full time student,Professional,KALLANG,Female
+4,Private flat/condo,Yes,1,25-29 yrs old,Full time student,Cleaner, labourer & related worker,QUEENSTOWN,Female
+4,HDB 5-room,Yes,4,55-59 yrs old,Domestic worker,Service & sales worker,CLEMENTI,Male
+4,HDB 4-room,No,4,10-14 yrs old,Homemaker,Associate professional & technician,PUNGGOL,Female
+4,HDB 3-room,No,4,50-54 yrs old,Employed Full-time,Associate professional & technician,TAMPINES,Female
+4,HDB 4-room,No,3,45-49 yrs old,Employed Part-time,Clerical worker,BISHAN,Male
+4,HDB 4-room,No,3,6-9 yrs old,Full time student,Service & sales worker,TAMPINES,Female
+4,Landed Property,Yes,2,35-39 yrs old,Self-employed,Legislator,senior official & manager,BUKIT PANJANG,Male
+4,HDB 5-room,No,3,45-49 yrs old,Employed Full-time,Cleaner, labourer & related worker,JURONG WEST,Male
+4,HDB 4-room,No,2,40-44 yrs old,Full time student,Cleaner, labourer & related worker,JURONG WEST,Female
+4,HDB 5-room,No,4,55-59 yrs old,Domestic worker,Cleaner, labourer & related worker,TAMPINES,Female
+4,HDB 5-room,No,2,15-19 yrs old,Full time student,Legislator,senior official & manager,BUKIT MERAH,Male
+4,HDB 4-room,Yes,3,65-69 yrs old,Self-employed,Production craftsman & related worker,QUEENSTOWN,Female
+4,HDB 5-room,Yes,1,30-34 yrs old,Employed Full-time,Associate professional & technician,YISHUN,Male
+4,HDB 4-room,No,2,35-39 yrs old,Full time student,Service & sales worker,ANG MO KIO,Male
+4,HDB 3-room,Yes,3,6-9 yrs old,Full time student,Legislator,senior official & manager,HOUGANG,Male
+4,HDB 4-room,Yes,2,40-44 yrs old,Homemaker,Legislator,senior official & manager,BUKIT MERAH,Female
+4,HDB 3-room,No,3,50-54 yrs old,Full time student,Professional,JURONG WEST,Male
+4,Private flat/condo,Yes,4,45-49 yrs old,Full time student,Professional,SENGKANG,Male
+4,HDB 5-room,Yes,4,20-24 yrs old,Employed Full-time,Service & sales worker,WOODLANDS,Male
+4,HDB 5-room,Yes,4,40-44 yrs old,Full time student,Professional,WOODLANDS,Female
+4,HDB 4-room,Yes,4,20-24 yrs old,Full time student,Professional,WOODLANDS,Male
+4,HDB 4-room,Yes,3,40-44 yrs old,Self-employed,Professional,BEDOK,Male
+4,HDB 5-room,No,3,10-14 yrs old,Employed Full-time,Professional,WOODLANDS,Male
+4,HDB 5-room,No,3,15-19 yrs old,Homemaker,Professional,SEMBAWANG,Female
+4,HDB 5-room,Yes,2,35-39 yrs old,Homemaker,Legislator,senior official & manager,YISHUN,Male
+4,HDB 4-room,No,3,10-14 yrs old,Homemaker,Associate professional & technician,PUNGGOL,Female
+4,HDB 4-room,No,2,6-9 yrs old,Employed Full-time,Professional,BEDOK,Female
+4,HDB 5-room,Yes,1,15-19 yrs old,Full time student,Professional,PUNGGOL,Male
+4,HDB 4-room,Yes,4,15-19 yrs old,Retired,Service & sales worker,ANG MO KIO,Female
+4,HDB 5-room,No,3,35-39 yrs old,Full time student,Associate professional & technician,JURONG EAST,Female
+4,HDB 4-room,No,3,10-14 yrs old,Employed Full-time,Professional,BUKIT BATOK,Male
+4,HDB 5-room,No,1,50-54 yrs old,Homemaker,Professional,BEDOK,Male
+4,HDB 4-room,No,4,25-29 yrs old,Employed Part-time,Professional,BISHAN,Female
+4,HDB 5-room,Yes,2,40-44 yrs old,Employed Full-time,Legislator,senior official & manager,MARINE PARADE,Female
+4,HDB 4-room,No,3,15-19 yrs old,Employed Full-time,Associate professional & technician,PASIR RIS,Female
+4,HDB 4-room,Yes,1,40-44 yrs old,Employed Full-time,Service & sales worker,CHOA CHU KANG,Male
+4,Private flat/condo,No,1,45-49 yrs old,Full time student,Service & sales worker,QUEENSTOWN,Male
+4,HDB 5-room,Yes,2,75-79 yrs old,Full time student,Service & sales worker,TAMPINES,Female
+4,HDB 5-room,No,1,50-54 yrs old,Employed Full-time,Professional,QUEENSTOWN,Female
+4,HDB 4-room,No,2,10-14 yrs old,Full time student,Service & sales worker,JURONG WEST,Male
+4,Private flat/condo,Yes,1,35-39 yrs old,Employed Part-time,Professional,HOUGANG,Female
+4,HDB 5-room,No,2,15-19 yrs old,Employed Full-time,Service & sales worker,SENGKANG,Male
+4,HDB 3-room,Yes,4,20-24 yrs old,Full time student,Professional,BUKIT PANJANG,Female
+4,HDB 4-room,Yes,3,40-44 yrs old,Employed Part-time,Professional,BISHAN,Male
+4,HDB 4-room,No,3,40-44 yrs old,Unemployed,Professional,BUKIT MERAH,Male
+4,HDB 5-room,No,1,6-9 yrs old,Employed Full-time,Plant & machine operator & assembler,HOUGANG,Male
+4,Private flat/condo,No,3,55-59 yrs old,Self-employed,Service & sales worker,BUKIT MERAH,Female
+4,HDB 5-room,Yes,3,45-49 yrs old,Employed Full-time,Clerical worker,BEDOK,Female
+4,HDB 3-room,Yes,4,60-64 yrs old,Full time student,Professional,PASIR RIS,Female
+4,HDB 4-room,No,4,20-24 yrs old,Self-employed,Service & sales worker,TOA PAYOH,Female
+4,HDB 4-room,Yes,4,35-39 yrs old,Domestic worker,Legislator,senior official & manager,CHOA CHU KANG,Male
+4,Landed Property,No,1,40-44 yrs old,Homemaker,Service & sales worker,ANG MO KIO,Female
+4,HDB 5-room,No,3,40-44 yrs old,Self-employed,Service & sales worker,BUKIT PANJANG,Female
+4,Private flat/condo,Yes,1,80-84 yrs old,Homemaker,Professional,CLEMENTI,Female
+4,HDB 5-room,Yes,2,6-9 yrs old,Employed Full-time,Professional,JURONG WEST,Male
+4,HDB 5-room,No,1,15-19 yrs old,Unemployed,Service & sales worker,YISHUN,Male
+4,Private flat/condo,Yes,1,60-64 yrs old,Employed Full-time,Service & sales worker,JURONG WEST,Male
+4,HDB 4-room,Yes,1,40-44 yrs old,Employed Full-time,Professional,CLEMENTI,Female
+4,HDB 4-room,No,1,6-9 yrs old,Employed Full-time,Professional,CLEMENTI,Male
+4,HDB 5-room,Yes,3,60-64 yrs old,Employed Full-time,Cleaner, labourer & related worker,JURONG WEST,Male
+4,HDB 5-room,No,1,35-39 yrs old,Employed Full-time,Legislator,senior official & manager,TAMPINES,Female
+4,HDB 4-room,No,1,10-14 yrs old,Employed Full-time,Professional,JURONG EAST,Male
+4,Private flat/condo,Yes,1,15-19 yrs old,Employed Full-time,Armed forces,TAMPINES,Male
+4,HDB 4-room,Yes,3,6-9 yrs old,Employed Full-time,Associate professional & technician,SENGKANG,Male
+4,HDB 5-room,Yes,3,55-59 yrs old,Employed Full-time,Production craftsman & related worker,JURONG WEST,Female
+4,HDB 4-room,Yes,2,35-39 yrs old,Homemaker,Plant & machine operator & assembler,BUKIT BATOK,Male
+4,Private flat/condo,Yes,4,30-34 yrs old,Homemaker,Professional,JURONG WEST,Female
+4,HDB 5-room,Yes,1,35-39 yrs old,Retired,Legislator,senior official & manager,WOODLANDS,Male
+4,HDB 4-room,Yes,4,10-14 yrs old,Homemaker,Production craftsman & related worker,JURONG WEST,Female
+4,HDB 4-room,Yes,1,20-24 yrs old,Domestic worker,Professional,HOUGANG,Male
+4,HDB 5-room,No,1,50-54 yrs old,Full time student,Service & sales worker,SENGKANG,Male
+4,HDB 5-room,Yes,3,15-19 yrs old,Retired,Professional,QUEENSTOWN,Male
+4,Private flat/condo,Yes,4,45-49 yrs old,Full time student,Associate professional & technician,TAMPINES,Male
+4,HDB 4-room,Yes,4,50-54 yrs old,Self-employed,Professional,BISHAN,Male
+4,HDB 1-room,No,4,65-69 yrs old,Homemaker,Professional,WOODLANDS,Male
+4,HDB 5-room,No,3,25-29 yrs old,Homemaker,Plant & machine operator & assembler,TAMPINES,Male
+4,HDB 5-room,No,1,55-59 yrs old,Employed Full-time,Associate professional & technician,CHOA CHU KANG,Female
+4,HDB 3-room,Yes,4,25-29 yrs old,Homemaker,Associate professional & technician,BUKIT BATOK,Female
+4,HDB 4-room,No,4,45-49 yrs old,Employed Full-time,Associate professional & technician,SENGKANG,Female
+4,Private flat/condo,No,4,55-59 yrs old,Homemaker,Plant & machine operator & assembler,JURONG WEST,Male
+4,HDB 3-room,No,3,35-39 yrs old,Employed Full-time,Professional,BUKIT MERAH,Female
+4,HDB 4-room,Yes,4,60-64 yrs old,Employed Full-time,Professional,BEDOK,Male
+4,HDB 3-room,Yes,1,40-44 yrs old,Employed Full-time,Associate professional & technician,TAMPINES,Male
+4,Private flat/condo,No,4,75-79 yrs old,Full time student,Professional,CHOA CHU KANG,Female
+4,HDB 5-room,No,1,10-14 yrs old,Full time student,Professional,QUEENSTOWN,Male
+4,HDB 5-room,No,4,40-44 yrs old,Self-employed,Service & sales worker,BUKIT BATOK,Female
+4,HDB 4-room,Yes,1,15-19 yrs old,Employed Full-time,Service & sales worker,TAMPINES,Female
+4,Private flat/condo,No,3,55-59 yrs old,Homemaker,Associate professional & technician,SENGKANG,Female
+4,HDB 3-room,No,1,10-14 yrs old,Full time student,Professional,CHOA CHU KANG,Male
+4,HDB 4-room,No,1,20-24 yrs old,Full time student,Clerical worker,JURONG EAST,Female
+4,HDB 4-room,Yes,2,30-34 yrs old,Full time student,Associate professional & technician,YISHUN,Male
+4,HDB 5-room,Yes,2,40-44 yrs old,Employed Full-time,Service & sales worker,PUNGGOL,Male
+4,Private flat/condo,No,1,30-34 yrs old,Homemaker,Service & sales worker,BEDOK,Male
+4,HDB 4-room,Yes,2,35-39 yrs old,Full time student,Professional,SERANGOON,Female
+4,HDB 4-room,Yes,3,50-54 yrs old,Unemployed,Professional,ANG MO KIO,Female
+4,HDB 4-room,Yes,2,30-34 yrs old,Employed Full-time,Service & sales worker,BUKIT PANJANG,Male
+4,Government executive flat,Yes,2,45-49 yrs old,Full time student,Legislator,senior official & manager,GEYLANG,Female
+4,HDB 4-room,Yes,1,60-64 yrs old,Homemaker,Service & sales worker,QUEENSTOWN,Female
+4,HDB 2-room,Yes,4,25-29 yrs old,Employed Full-time,Cleaner, labourer & related worker,CLEMENTI,Male
+4,HDB 5-room,Yes,3,30-34 yrs old,Employed Full-time,Professional,BEDOK,Female
+4,HDB 5-room,Yes,4,10-14 yrs old,Employed Full-time,Associate professional & technician,SERANGOON,Male
+4,HDB 3-room,No,3,35-39 yrs old,Employed Full-time,Professional,SENGKANG,Male
+4,HDB 4-room,No,4,10-14 yrs old,Homemaker,Professional,ANG MO KIO,Female
+4,HDB 4-room,No,4,10-14 yrs old,Domestic worker,Professional,ANG MO KIO,Female
+4,HDB 5-room,No,2,55-59 yrs old,Employed Full-time,Professional,TOA PAYOH,Male
+4,Private flat/condo,Yes,3,10-14 yrs old,Employed Full-time,Service & sales worker,WOODLANDS,Male
+4,HDB 4-room,Yes,2,6-9 yrs old,Employed Full-time,Cleaner, labourer & related worker,ANG MO KIO,Female
+4,HDB 4-room,No,2,60-64 yrs old,Self-employed,Professional,MARINE PARADE,Male
+4,HDB 5-room,Yes,1,20-24 yrs old,Employed Full-time,Associate professional & technician,BUKIT BATOK,Male
+4,HDB 4-room,No,4,50-54 yrs old,Full time student,Legislator,senior official & manager,KALLANG,Male
+4,HDB 3-room,Yes,3,50-54 yrs old,Retired,Professional,SENGKANG,Male
+4,HDB 4-room,Yes,2,45-49 yrs old,Full time student,Associate professional & technician,PASIR RIS,Female
+4,Landed Property,No,2,40-44 yrs old,Employed Full-time,Professional,ANG MO KIO,Male
+4,HDB 5-room,Yes,4,20-24 yrs old,Homemaker,Associate professional & technician,JURONG WEST,Male
+4,HDB 5-room,Yes,3,65-69 yrs old,Homemaker,Legislator,senior official & manager,PASIR RIS,Female
+4,HDB 3-room,Yes,3,50-54 yrs old,Full time student,Service & sales worker,QUEENSTOWN,Female
+4,HDB 4-room,Yes,2,60-64 yrs old,Employed Full-time,Service & sales worker,BUKIT PANJANG,Male
+4,HDB 4-room,No,1,35-39 yrs old,Employed Full-time,Professional,CHOA CHU KANG,Male
+4,HDB 4-room,No,1,20-24 yrs old,Employed Full-time,Professional,TAMPINES,Female
+4,HDB 5-room,Yes,1,45-49 yrs old,Full time student,Service & sales worker,TAMPINES,Male
+4,HDB 5-room,Yes,4,45-49 yrs old,Employed Full-time,Associate professional & technician,TAMPINES,Female
+4,HDB 4-room,Yes,1,75-79 yrs old,Full time student,Plant & machine operator & assembler,JURONG EAST,Female
+4,HDB 4-room,Yes,4,20-24 yrs old,Employed Full-time,Legislator,senior official & manager,KALLANG,Female
+4,HDB 4-room,Yes,1,75-79 yrs old,Employed Full-time,Legislator,senior official & manager,WOODLANDS,Male
+4,HDB 4-room,No,2,25-29 yrs old,Homemaker,Associate professional & technician,SEMBAWANG,Female
+4,HDB 4-room,No,1,40-44 yrs old,Self-employed,Professional,ANG MO KIO,Male
+4,HDB 5-room,Yes,4,40-44 yrs old,National service,Service & sales worker,JURONG WEST,Female
+4,Private flat/condo,No,1,45-49 yrs old,Homemaker,Professional,HOUGANG,Female
+4,HDB 4-room,Yes,4,30-34 yrs old,Domestic worker,Service & sales worker,HOUGANG,Male
+4,HDB 4-room,Yes,2,35-39 yrs old,Full time student,Professional,JURONG EAST,Female
+4,HDB 3-room,Yes,1,20-24 yrs old,Homemaker,Professional,JURONG WEST,Male
+4,Landed Property,No,1,50-54 yrs old,Full time student,Plant & machine operator & assembler,ANG MO KIO,Male
+4,HDB 5-room,No,3,50-54 yrs old,Employed Full-time,Service & sales worker,KALLANG,Male
+4,HDB 4-room,No,1,30-34 yrs old,Employed Full-time,Service & sales worker,YISHUN,Female
+4,HDB 3-room,No,1,50-54 yrs old,Homemaker,Professional,BUKIT BATOK,Male
+4,HDB 4-room,Yes,1,10-14 yrs old,Employed Full-time,Professional,TAMPINES,Male
+4,HDB 4-room,No,3,20-24 yrs old,Homemaker,Plant & machine operator & assembler,SENGKANG,Male
+4,HDB 4-room,Yes,4,10-14 yrs old,Employed Full-time,Legislator,senior official & manager,PASIR RIS,Male
+4,HDB 4-room,No,1,60-64 yrs old,Employed Full-time,Service & sales worker,BEDOK,Female
+4,HDB 5-room,No,3,50-54 yrs old,Employed Full-time,Professional,JURONG WEST,Female
+4,Private flat/condo,No,1,15-19 yrs old,Employed Full-time,Clerical worker,TANGLIN,Male
+4,HDB 5-room,Yes,1,6-9 yrs old,Retired,Professional,JURONG WEST,Male
+4,Landed Property,Yes,1,25-29 yrs old,Employed Full-time,Professional,BUKIT PANJANG,Male
+4,Landed Property,Yes,4,20-24 yrs old,Employed Full-time,Service & sales worker,SENGKANG,Female
+4,HDB 1-room,No,2,10-14 yrs old,Employed Full-time,Plant & machine operator & assembler,JURONG WEST,Female
+4,HDB 5-room,Yes,4,25-29 yrs old,Employed Full-time,Plant & machine operator & assembler,BEDOK,Female
+4,HDB 4-room,Yes,2,20-24 yrs old,Homemaker,Clerical worker,BUKIT TIMAH,Male
+4,Private flat/condo,Yes,2,20-24 yrs old,Self-employed,Professional,PASIR RIS,Female
+4,HDB 4-room,Yes,1,40-44 yrs old,Retired,Clerical worker,PASIR RIS,Male
+4,HDB 3-room,No,4,65-69 yrs old,Employed Full-time,Professional,GEYLANG,Female
+4,HDB 4-room,Yes,4,40-44 yrs old,Full time student,Service & sales worker,ANG MO KIO,Male
+4,Private flat/condo,No,3,25-29 yrs old,Domestic worker,Professional,JURONG EAST,Female
+4,HDB 5-room,Yes,1,15-19 yrs old,Full time student,Service & sales worker,PASIR RIS,Male
+4,HDB 4-room,No,3,10-14 yrs old,Employed Full-time,Cleaner, labourer & related worker,BISHAN,Female
+4,HDB 3-room,Yes,4,20-24 yrs old,Full time student,Associate professional & technician,BEDOK,Female
+4,Private flat/condo,No,3,45-49 yrs old,Homemaker,Legislator,senior official & manager,CHOA CHU KANG,Male
+4,HDB 3-room,Yes,4,15-19 yrs old,Unemployed,Associate professional & technician,BISHAN,Female
+4,HDB 5-room,No,1,80-84 yrs old,Retired,Service & sales worker,CLEMENTI,Male
+4,HDB 5-room,Yes,2,50-54 yrs old,Full time student,Clerical worker,JURONG EAST,Female
+4,HDB 4-room,Yes,1,10-14 yrs old,Homemaker,Service & sales worker,TAMPINES,Male
+4,HDB 3-room,No,4,40-44 yrs old,Employed Full-time,Cleaner, labourer & related worker,MARINE PARADE,Male
+4,HDB 4-room,Yes,4,30-34 yrs old,Employed Part-time,Professional,GEYLANG,Male
+4,Private flat/condo,Yes,3,30-34 yrs old,Full time student,Legislator,senior official & manager,ANG MO KIO,Male
+4,HDB 5-room,No,3,80-84 yrs old,Employed Full-time,Professional,QUEENSTOWN,Male
+4,HDB 3-room,No,4,50-54 yrs old,Homemaker,Professional,ANG MO KIO,Male
+4,HDB 3-room,Yes,3,10-14 yrs old,Unemployed,Professional,QUEENSTOWN,Male
+4,HDB 5-room,Yes,2,20-24 yrs old,Employed Full-time,Service & sales worker,SEMBAWANG,Female
+4,HDB 5-room,No,2,15-19 yrs old,Unemployed,Legislator,senior official & manager,BEDOK,Female
+4,HDB 5-room,No,1,55-59 yrs old,Employed Full-time,Professional,JURONG WEST,Female
+4,HDB 4-room,No,3,45-49 yrs old,Full time student,Legislator,senior official & manager,TAMPINES,Female
+4,HDB 4-room,Yes,1,15-19 yrs old,Employed Full-time,Associate professional & technician,ANG MO KIO,Male
+4,HDB 3-room,Yes,2,40-44 yrs old,Full time student,Clerical worker,JURONG WEST,Female
+4,HDB 5-room,No,2,45-49 yrs old,Employed Full-time,Plant & machine operator & assembler,QUEENSTOWN,Male
+4,HDB 5-room,No,3,45-49 yrs old,Employed Full-time,Professional,JURONG WEST,Female
+4,HDB 5-room,No,1,15-19 yrs old,Full time student,Legislator,senior official & manager,WOODLANDS,Female
+4,HDB 4-room,Yes,3,65-69 yrs old,Full time student,Associate professional & technician,JURONG EAST,Male
+4,Private flat/condo,Yes,1,35-39 yrs old,Employed Full-time,Professional,WOODLANDS,Female
+4,HDB 5-room,Yes,4,35-39 yrs old,Employed Full-time,Legislator,senior official & manager,JURONG WEST,Male
+4,Landed Property,Yes,4,15-19 yrs old,Employed Full-time,Professional,JURONG EAST,Female
+4,Landed Property,No,4,65-69 yrs old,Homemaker,Professional,WOODLANDS,Female
+4,HDB 3-room,Yes,2,40-44 yrs old,Homemaker,Professional,BISHAN,Female
+4,HDB 3-room,No,4,55-59 yrs old,Employed Full-time,Service & sales worker,TAMPINES,Female
+4,HDB 5-room,No,4,50-54 yrs old,Full time student,Associate professional & technician,HOUGANG,Female
+4,Landed Property,No,3,10-14 yrs old,Employed Full-time,Professional,MARINE PARADE,Male
+4,HDB 3-room,Yes,3,15-19 yrs old,Self-employed,Clerical worker,BUKIT PANJANG,Male
+4,HDB 3-room,Yes,3,10-14 yrs old,Full time student,Professional,HOUGANG,Female
+4,HDB 4-room,No,3,6-9 yrs old,Full time student,Associate professional & technician,BEDOK,Female
+4,HDB 5-room,Yes,4,15-19 yrs old,Homemaker,Associate professional & technician,JURONG EAST,Female
+4,Government executive flat,No,1,20-24 yrs old,Employed Full-time,Professional,TAMPINES,Male
+4,HDB 4-room,Yes,1,40-44 yrs old,Employed Full-time,Professional,CLEMENTI,Female
+4,HDB 4-room,Yes,4,45-49 yrs old,Homemaker,Professional,BUKIT PANJANG,Male
+4,Private flat/condo,Yes,1,40-44 yrs old,Full time student,Clerical worker,JURONG EAST,Male
+4,Private flat/condo,Yes,4,15-19 yrs old,Full time student,Professional,JURONG WEST,Female
+4,HDB 5-room,Yes,4,80-84 yrs old,Employed Full-time,Professional,BEDOK,Male
+4,HDB 5-room,Yes,1,30-34 yrs old,Full time student,Legislator,senior official & manager,CHOA CHU KANG,Male
+4,HDB 4-room,Yes,2,35-39 yrs old,Full time student,Professional,TANGLIN,Female
+4,Landed Property,Yes,1,45-49 yrs old,Employed Full-time,Professional,BISHAN,Male
+4,HDB 4-room,Yes,1,20-24 yrs old,Employed Full-time,Legislator,senior official & manager,JURONG EAST,Male
+4,HDB 4-room,No,2,10-14 yrs old,Employed Full-time,Service & sales worker,BISHAN,Male
+4,Government executive flat,Yes,4,50-54 yrs old,Employed Full-time,Associate professional & technician,HOUGANG,Male
+4,HDB 3-room,No,1,35-39 yrs old,Employed Full-time,Professional,CHOA CHU KANG,Male
+4,HDB 4-room,No,4,60-64 yrs old,Employed Full-time,Clerical worker,TAMPINES,Male
+4,Private flat/condo,No,3,30-34 yrs old,Homemaker,Clerical worker,SERANGOON,Male
+4,Landed Property,No,3,20-24 yrs old,Homemaker,Associate professional & technician,JURONG WEST,Female
+4,HDB 4-room,Yes,1,30-34 yrs old,Employed Full-time,Associate professional & technician,BUKIT PANJANG,Female
+4,HDB 4-room,No,4,40-44 yrs old,Retired,Agriculture & fishery worker,JURONG WEST,Male
+4,HDB 5-room,Yes,4,70-74 yrs old,Full time student,Professional,SENGKANG,Female
+4,Private flat/condo,Yes,4,60-64 yrs old,Full time student,Legislator,senior official & manager,ANG MO KIO,Female
+4,HDB 5-room,No,2,6-9 yrs old,Employed Full-time,Associate professional & technician,JURONG WEST,Male
+4,HDB 5-room,No,2,80-84 yrs old,Employed Full-time,Cleaner, labourer & related worker,CLEMENTI,Female
+4,HDB other than flat,Yes,1,10-14 yrs old,Full time student,Legislator,senior official & manager,JURONG WEST,Male
+4,HDB 4-room,No,1,45-49 yrs old,Employed Full-time,Professional,TANGLIN,Female
+4,HDB 4-room,Yes,1,50-54 yrs old,Full time student,Service & sales worker,PUNGGOL,Female
+4,HDB 4-room,Yes,4,30-34 yrs old,Employed Part-time,Cleaner, labourer & related worker,TOA PAYOH,Female
+4,HDB 4-room,Yes,3,15-19 yrs old,Employed Part-time,Professional,BISHAN,Male
+4,HDB 4-room,No,3,40-44 yrs old,Homemaker,Professional,BUKIT MERAH,Female
+4,HDB 5-room,Yes,3,15-19 yrs old,Retired,Service & sales worker,HOUGANG,Female
+4,HDB 4-room,No,2,60-64 yrs old,Employed Full-time,Service & sales worker,SENGKANG,Male
+4,HDB 4-room,No,1,15-19 yrs old,Full time student,Clerical worker,BUKIT PANJANG,Male
+4,HDB 4-room,Yes,1,40-44 yrs old,Homemaker,Professional,TAMPINES,Female
+4,HDB 4-room,Yes,2,30-34 yrs old,Homemaker,Professional,PUNGGOL,Male
+4,HDB 4-room,Yes,2,50-54 yrs old,Employed Full-time,Armed forces,HOUGANG,Female
+4,HDB 5-room,No,1,40-44 yrs old,Homemaker,Professional,KALLANG,Female
+4,HDB 3-room,No,2,6-9 yrs old,Employed Full-time,Professional,JURONG WEST,Male
+4,HDB 4-room,Yes,4,30-34 yrs old,Employed Full-time,Cleaner, labourer & related worker,WOODLANDS,Male
+4,HDB 3-room,Yes,2,15-19 yrs old,Full time student,Legislator,senior official & manager,JURONG EAST,Male
+4,Private flat/condo,No,1,20-24 yrs old,Employed Full-time,Professional,JURONG WEST,Female
+4,HDB 4-room,No,3,45-49 yrs old,Full time student,Professional,BEDOK,Female
+4,HDB 3-room,No,4,25-29 yrs old,Employed Full-time,Legislator,senior official & manager,ANG MO KIO,Female
+4,Landed Property,Yes,4,45-49 yrs old,Full time student,Plant & machine operator & assembler,TOA PAYOH,Male
+4,Private flat/condo,Yes,4,45-49 yrs old,Full time student,Production craftsman & related worker,PUNGGOL,Male
+4,HDB 5-room,Yes,3,30-34 yrs old,Homemaker,Professional,TAMPINES,Female
+4,HDB 4-room,Yes,1,45-49 yrs old,Full time student,Associate professional & technician,CLEMENTI,Female
+4,HDB 4-room,Yes,1,75-79 yrs old,Employed Full-time,Professional,YISHUN,Male
+4,HDB 4-room,Yes,1,35-39 yrs old,Self-employed,Professional,PASIR RIS,Female
+4,HDB 4-room,Yes,1,10-14 yrs old,Homemaker,Professional,ANG MO KIO,Male
+4,HDB 5-room,No,1,15-19 yrs old,Homemaker,Legislator,senior official & manager,BUKIT MERAH,Male
+4,HDB 4-room,Yes,3,25-29 yrs old,Full time student,Professional,BISHAN,Female
+4,HDB 3-room,Yes,4,25-29 yrs old,Employed Full-time,Associate professional & technician,JURONG EAST,Female
+4,HDB 3-room,Yes,3,45-49 yrs old,Full time student,Professional,JURONG WEST,Male
+4,HDB 5-room,Yes,3,40-44 yrs old,Employed Full-time,Associate professional & technician,SERANGOON,Male
+4,HDB 5-room,No,4,50-54 yrs old,Employed Full-time,Legislator,senior official & manager,KALLANG,Female
+4,HDB 5-room,Yes,4,50-54 yrs old,Employed Full-time,Professional,BUKIT PANJANG,Male
+4,HDB 4-room,Yes,2,20-24 yrs old,Self-employed,Professional,PUNGGOL,Female
+4,HDB 3-room,Yes,2,15-19 yrs old,Employed Full-time,Clerical worker,TAMPINES,Female
+4,HDB 4-room,Yes,2,40-44 yrs old,Employed Full-time,Service & sales worker,CHOA CHU KANG,Male
+4,HDB 4-room,No,1,50-54 yrs old,Full time student,Professional,BUKIT MERAH,Male
+4,HDB 4-room,Yes,4,45-49 yrs old,Retired,Service & sales worker,BUKIT PANJANG,Male
+4,HDB 4-room,Yes,4,6-9 yrs old,Employed Full-time,Legislator,senior official & manager,KALLANG,Female
+4,HDB 4-room,Yes,1,65-69 yrs old,Homemaker,Professional,BUKIT MERAH,Female
+4,HDB 4-room,Yes,2,55-59 yrs old,Full time student,Service & sales worker,KALLANG,Male
+4,HDB 4-room,Yes,4,55-59 yrs old,Self-employed,Service & sales worker,CHOA CHU KANG,Female
+4,Private flat/condo,Yes,4,40-44 yrs old,Domestic worker,Professional,BUKIT BATOK,Female
+4,HDB 3-room,Yes,4,25-29 yrs old,Employed Full-time,Armed forces,CHOA CHU KANG,Male
+4,HDB 5-room,Yes,1,15-19 yrs old,Full time student,Clerical worker,ANG MO KIO,Female
+4,HDB 5-room,Yes,3,55-59 yrs old,Self-employed,Clerical worker,TAMPINES,Male
+4,HDB 4-room,No,1,10-14 yrs old,Employed Full-time,Clerical worker,CHOA CHU KANG,Female
+4,HDB 4-room,No,4,25-29 yrs old,Employed Full-time,Legislator,senior official & manager,SEMBAWANG,Male
+4,HDB 4-room,No,4,15-19 yrs old,National service,Service & sales worker,SENGKANG,Female
+4,HDB 3-room,Yes,1,45-49 yrs old,Full time student,Service & sales worker,QUEENSTOWN,Male
+4,HDB 5-room,Yes,4,60-64 yrs old,Homemaker,Professional,BEDOK,Male
+4,Landed Property,Yes,3,40-44 yrs old,Employed Full-time,Professional,KALLANG,Female
+4,Landed Property,No,3,50-54 yrs old,Full time student,Clerical worker,TAMPINES,Female
+4,HDB 3-room,Yes,4,50-54 yrs old,Full time student,Service & sales worker,BEDOK,Male
+4,HDB 5-room,Yes,3,55-59 yrs old,Retired,Plant & machine operator & assembler,KALLANG,Male
+3,HDB 5-room,No,2,60-64 yrs old,Employed Full-time,Legislator,senior official & manager,WOODLANDS,Female
+3,HDB 4-room,No,1,30-34 yrs old,Employed Full-time,Professional,HOUGANG,Male
+3,Private flat/condo,No,3,30-34 yrs old,Employed Full-time,Service & sales worker,CHOA CHU KANG,Female
+3,Private flat/condo,Yes,1,35-39 yrs old,Self-employed,Professional,BISHAN,Male
+3,HDB 3-room,No,3,15-19 yrs old,Employed Full-time,Clerical worker,JURONG EAST,Female
+3,HDB 3-room,Yes,3,15-19 yrs old,Employed Full-time,Service & sales worker,JURONG WEST,Female
+3,HDB 4-room,Yes,2,60-64 yrs old,Homemaker,Service & sales worker,BISHAN,Male
+3,Private flat/condo,Yes,1,50-54 yrs old,Employed Full-time,Associate professional & technician,TAMPINES,Male
+3,HDB 3-room,Yes,3,45-49 yrs old,Full time student,Associate professional & technician,HOUGANG,Female
+3,HDB 5-room,No,2,55-59 yrs old,Employed Full-time,Professional,TOA PAYOH,Male
+3,HDB 3-room,No,1,35-39 yrs old,Employed Full-time,Armed forces,BEDOK,Female
+3,HDB 5-room,No,3,35-39 yrs old,Homemaker,Associate professional & technician,PUNGGOL,Male
+3,HDB 4-room,No,1,40-44 yrs old,Employed Full-time,Service & sales worker,CLEMENTI,Female
+3,HDB 4-room,Yes,3,80-84 yrs old,Retired,Legislator,senior official & manager,BISHAN,Male
+3,HDB 3-room,No,3,30-34 yrs old,Homemaker,Professional,ANG MO KIO,Female
+3,HDB 2-room,No,3,6-9 yrs old,Unemployed,Professional,BUKIT PANJANG,Male
+3,HDB 2-room,Yes,1,50-54 yrs old,Full time student,Professional,QUEENSTOWN,Female
+3,HDB 5-room,Yes,3,40-44 yrs old,Employed Full-time,Armed forces,JURONG EAST,Female
+3,HDB 3-room,Yes,1,60-64 yrs old,Employed Full-time,Legislator,senior official & manager,SERANGOON,Female
+3,HDB 3-room,No,1,40-44 yrs old,Employed Full-time,Professional,BUKIT MERAH,Male
+3,HDB 2-room,No,2,80-84 yrs old,Employed Full-time,Service & sales worker,QUEENSTOWN,Female
+3,HDB 3-room,No,2,50-54 yrs old,Employed Full-time,Service & sales worker,PUNGGOL,Female
+3,HDB 2-room,No,3,40-44 yrs old,Retired,Service & sales worker,BUKIT MERAH,Male
+3,HDB 3-room,Yes,1,70-74 yrs old,Employed Full-time,Professional,YISHUN,Female
+3,HDB 3-room,No,3,35-39 yrs old,Unemployed,Plant & machine operator & assembler,BUKIT PANJANG,Male
+3,HDB 4-room,No,1,15-19 yrs old,Full time student,Associate professional & technician,GEYLANG,Female
+3,HDB 3-room,Yes,1,30-34 yrs old,Full time student,Service & sales worker,SERANGOON,Male
+3,HDB 5-room,No,3,45-49 yrs old,Employed Full-time,Service & sales worker,QUEENSTOWN,Male
+3,HDB 4-room,No,3,40-44 yrs old,Full time student,Associate professional & technician,BISHAN,Female
+3,HDB 4-room,No,2,60-64 yrs old,Full time student,Legislator,senior official & manager,BUKIT PANJANG,Male
+3,HDB 3-room,No,3,50-54 yrs old,Homemaker,Legislator,senior official & manager,MARINE PARADE,Female
+3,HDB 3-room,No,3,35-39 yrs old,Full time student,Clerical worker,SENGKANG,Female
+3,HDB 4-room,Yes,1,55-59 yrs old,Homemaker,Professional,ANG MO KIO,Female
+3,HDB 3-room,Yes,1,30-34 yrs old,Unemployed,Clerical worker,JURONG WEST,Female
+3,HDB 4-room,No,1,15-19 yrs old,Retired,Professional,BUKIT MERAH,Female
+3,HDB 3-room,No,3,50-54 yrs old,Employed Full-time,Plant & machine operator & assembler,BEDOK,Female
+3,HDB 4-room,Yes,3,55-59 yrs old,Homemaker,Professional,SENGKANG,Male
+3,HDB 4-room,Yes,1,40-44 yrs old,Employed Full-time,Cleaner, labourer & related worker,MARINE PARADE,Male
+3,HDB 3-room,No,2,35-39 yrs old,Employed Full-time,Legislator,senior official & manager,BISHAN,Female
+3,HDB 5-room,No,1,50-54 yrs old,Homemaker,Clerical worker,JURONG WEST,Male
+3,HDB 4-room,Yes,1,55-59 yrs old,Self-employed,Professional,CHOA CHU KANG,Female
+3,Private flat/condo,No,3,25-29 yrs old,Employed Full-time,Service & sales worker,GEYLANG,Male
+3,HDB 5-room,Yes,2,65-69 yrs old,Employed Full-time,Service & sales worker,QUEENSTOWN,Male
+3,HDB 4-room,No,3,30-34 yrs old,Retired,Professional,KALLANG,Male
+3,Private flat/condo,Yes,3,15-19 yrs old,Homemaker,Service & sales worker,SERANGOON,Male
+3,HDB 5-room,Yes,2,50-54 yrs old,Retired,Service & sales worker,PUNGGOL,Male
+3,HDB 3-room,No,3,15-19 yrs old,Employed Full-time,Service & sales worker,SERANGOON,Female
+3,HDB 5-room,No,2,75-79 yrs old,Full time student,Clerical worker,SENGKANG,Female
+3,HDB 4-room,No,3,15-19 yrs old,Full time student,Professional,PASIR RIS,Female
+3,HDB 3-room,No,2,55-59 yrs old,Retired,Service & sales worker,JURONG WEST,Female
+3,HDB 4-room,No,1,60-64 yrs old,Retired,Service & sales worker,ANG MO KIO,Male
+3,HDB 5-room,No,1,45-49 yrs old,Homemaker,Plant & machine operator & assembler,MARINE PARADE,Female
+3,HDB 4-room,No,3,55-59 yrs old,Employed Full-time,Professional,BUKIT MERAH,Female
+3,HDB 4-room,Yes,2,15-19 yrs old,Employed Full-time,Professional,ANG MO KIO,Female
+3,HDB 5-room,Yes,1,15-19 yrs old,Employed Full-time,Clerical worker,BUKIT MERAH,Male
+3,HDB 3-room,Yes,3,55-59 yrs old,Employed Full-time,Professional,ANG MO KIO,Male
+3,HDB 4-room,Yes,1,15-19 yrs old,Retired,Professional,TOA PAYOH,Male
+3,HDB 4-room,Yes,1,20-24 yrs old,Homemaker,Cleaner, labourer & related worker,SENGKANG,Female
+3,HDB 3-room,No,3,6-9 yrs old,Employed Full-time,Plant & machine operator & assembler,BUKIT BATOK,Male
+3,HDB 3-room,No,3,20-24 yrs old,Employed Full-time,Service & sales worker,HOUGANG,Male
+3,HDB 3-room,No,3,15-19 yrs old,Homemaker,Service & sales worker,WOODLANDS,Female
+3,HDB 5-room,No,1,40-44 yrs old,Unemployed,Cleaner, labourer & related worker,GEYLANG,Female
+3,HDB 4-room,No,2,60-64 yrs old,Employed Full-time,Service & sales worker,BUKIT PANJANG,Female
+3,HDB 4-room,No,2,35-39 yrs old,Retired,Service & sales worker,PUNGGOL,Female
+3,HDB 4-room,No,1,60-64 yrs old,Employed Full-time,Service & sales worker,BEDOK,Female
+3,HDB 3-room,No,3,60-64 yrs old,Homemaker,Professional,HOUGANG,Male
+3,Private flat/condo,Yes,2,30-34 yrs old,Self-employed,Professional,BEDOK,Female
+3,HDB 5-room,Yes,3,40-44 yrs old,Employed Full-time,Service & sales worker,TAMPINES,Male
+3,HDB 5-room,No,2,45-49 yrs old,Employed Full-time,Professional,JURONG WEST,Male
+3,HDB 3-room,Yes,3,25-29 yrs old,Retired,Clerical worker,TAMPINES,Female
+3,HDB 4-room,No,1,65-69 yrs old,Full time student,Clerical worker,BISHAN,Male
+3,HDB 5-room,No,3,50-54 yrs old,Domestic worker,Service & sales worker,HOUGANG,Male
+3,Private flat/condo,No,1,6-9 yrs old,Homemaker,Service & sales worker,WOODLANDS,Female
+3,HDB 1-room,No,3,40-44 yrs old,Employed Full-time,Legislator,senior official & manager,TOA PAYOH,Male
+3,HDB 5-room,No,1,75-79 yrs old,Full time student,Production craftsman & related worker,CHOA CHU KANG,Male
+3,HDB 3-room,Yes,3,65-69 yrs old,Employed Full-time,Legislator,senior official & manager,PASIR RIS,Female
+3,HDB 4-room,Yes,1,70-74 yrs old,Employed Full-time,Associate professional & technician,WOODLANDS,Male
+3,HDB 4-room,Yes,1,55-59 yrs old,Employed Part-time,Service & sales worker,QUEENSTOWN,Male
+3,HDB 3-room,No,1,60-64 yrs old,Employed Full-time,Associate professional & technician,QUEENSTOWN,Female
+3,HDB 4-room,No,2,50-54 yrs old,Employed Full-time,Plant & machine operator & assembler,TAMPINES,Female
+3,HDB 3-room,Yes,2,20-24 yrs old,Employed Full-time,Associate professional & technician,TAMPINES,Male
+3,HDB 3-room,Yes,1,45-49 yrs old,Homemaker,Professional,PUNGGOL,Male
+3,HDB 4-room,No,2,30-34 yrs old,Employed Full-time,Professional,SEMBAWANG,Female
+3,HDB 4-room,Yes,2,50-54 yrs old,Full time student,Associate professional & technician,BUKIT BATOK,Female
+3,HDB 4-room,No,1,15-19 yrs old,Homemaker,Professional,SENGKANG,Male
+3,HDB 5-room,No,3,60-64 yrs old,Employed Full-time,Legislator,senior official & manager,ANG MO KIO,Female
+3,HDB 4-room,No,1,50-54 yrs old,Employed Part-time,Service & sales worker,JURONG EAST,Male
+3,HDB 5-room,No,2,40-44 yrs old,Homemaker,Service & sales worker,BUKIT MERAH,Male
+3,Private flat/condo,Yes,1,15-19 yrs old,Full time student,Professional,GEYLANG,Male
+3,HDB 4-room,No,2,6-9 yrs old,Homemaker,Production craftsman & related worker,BUKIT PANJANG,Female
+3,HDB 4-room,Yes,2,20-24 yrs old,Employed Full-time,Professional,BUKIT BATOK,Male
+3,Private flat/condo,No,2,65-69 yrs old,Employed Full-time,Plant & machine operator & assembler,SEMBAWANG,Female
+3,Private flat/condo,Yes,3,55-59 yrs old,Full time student,Professional,TOA PAYOH,Female
+3,Private flat/condo,No,2,50-54 yrs old,Self-employed,Self Employed / Businessman,YISHUN,Male
+3,HDB 3-room,No,1,20-24 yrs old,Employed Full-time,Professional,PUNGGOL,Female
+3,Private flat/condo,Yes,3,30-34 yrs old,Retired,Clerical worker,SERANGOON,Male
+3,HDB 3-room,Yes,2,60-64 yrs old,Employed Full-time,Legislator,senior official & manager,OUTRAM,Female
+3,HDB 4-room,No,1,30-34 yrs old,Retired,Plant & machine operator & assembler,TOA PAYOH,Female
+3,HDB 5-room,No,3,60-64 yrs old,Full time student,Service & sales worker,WOODLANDS,Male
+3,HDB 3-room,No,1,75-79 yrs old,Homemaker,Clerical worker,TOA PAYOH,Female
+3,HDB 4-room,No,1,25-29 yrs old,Employed Full-time,Legislator,senior official & manager,JURONG EAST,Male
+3,HDB 5-room,No,1,40-44 yrs old,Homemaker,Legislator,senior official & manager,BUKIT PANJANG,Male
+3,HDB 3-room,No,3,25-29 yrs old,Homemaker,Professional,HOUGANG,Male
+3,Landed Property,Yes,2,45-49 yrs old,Employed Part-time,Legislator,senior official & manager,KALLANG,Male
+3,HDB 4-room,Yes,2,35-39 yrs old,Employed Full-time,Plant & machine operator & assembler,GEYLANG,Female
+3,HDB 3-room,No,3,35-39 yrs old,Homemaker,Professional,HOUGANG,Male
+3,Landed Property,No,1,70-74 yrs old,Full time student,Associate professional & technician,GEYLANG,Female
+3,HDB 3-room,No,2,60-64 yrs old,Full time student,Associate professional & technician,SENGKANG,Male
+3,HDB 3-room,No,2,60-64 yrs old,Employed Full-time,Clerical worker,CLEMENTI,Female
+3,HDB 5-room,Yes,3,15-19 yrs old,Employed Full-time,Service & sales worker,BEDOK,Female
+3,HDB 3-room,Yes,3,35-39 yrs old,Homemaker,Professional,WOODLANDS,Female
+3,HDB 4-room,No,2,20-24 yrs old,Employed Full-time,Associate professional & technician,SERANGOON,Female
+3,HDB 4-room,No,3,60-64 yrs old,Full time student,Professional,TOA PAYOH,Female
+3,HDB 3-room,No,2,55-59 yrs old,Retired,Cleaner, labourer & related worker,MARINE PARADE,Male
+3,HDB 3-room,Yes,3,70-74 yrs old,Employed Full-time,Clerical worker,JURONG EAST,Male
+3,Private flat/condo,Yes,2,20-24 yrs old,Homemaker,Production craftsman & related worker,BEDOK,Male
+3,Private flat/condo,Yes,1,15-19 yrs old,Full time student,Clerical worker,SENGKANG,Female
+3,HDB 1-room,Yes,3,35-39 yrs old,Homemaker,Professional,KALLANG,Male
+3,HDB 4-room,Yes,1,50-54 yrs old,Employed Full-time,Cleaner, labourer & related worker,BUKIT BATOK,Female
+3,HDB 4-room,No,3,60-64 yrs old,Retired,Service & sales worker,BISHAN,Male
+3,HDB 4-room,No,1,65-69 yrs old,Employed Full-time,Professional,TOA PAYOH,Male
+3,HDB 5-room,Yes,3,65-69 yrs old,Employed Full-time,Plant & machine operator & assembler,SENGKANG,Female
+3,HDB 4-room,Yes,1,65-69 yrs old,Unemployed,Cleaner, labourer & related worker,PUNGGOL,Male
+3,HDB 3-room,No,3,20-24 yrs old,Retired,Clerical worker,BEDOK,Female
+3,HDB 5-room,Yes,2,55-59 yrs old,Self-employed,Professional,TAMPINES,Female
+3,HDB 5-room,Yes,3,55-59 yrs old,Employed Full-time,Legislator,senior official & manager,TAMPINES,Male
+3,Landed Property,No,1,40-44 yrs old,Full time student,Professional,YISHUN,Male
+3,HDB 5-room,No,3,15-19 yrs old,Full time student,Service & sales worker,HOUGANG,Male
+3,HDB 4-room,Yes,3,75-79 yrs old,Employed Full-time,Clerical worker,BUKIT BATOK,Male
+3,HDB 4-room,No,2,50-54 yrs old,Employed Full-time,Professional,TOA PAYOH,Male
+3,HDB 2-room,Yes,1,45-49 yrs old,Homemaker,Production craftsman & related worker,WOODLANDS,Female
+3,HDB 3-room,No,1,60-64 yrs old,Employed Full-time,Clerical worker,HOUGANG,Female
+3,HDB 4-room,No,2,35-39 yrs old,Retired,Service & sales worker,HOUGANG,Male
+3,HDB 3-room,Yes,2,35-39 yrs old,Employed Full-time,Clerical worker,CHOA CHU KANG,Male
+3,HDB 4-room,No,1,40-44 yrs old,Full time student,Service & sales worker,CLEMENTI,Male
+3,HDB 3-room,Yes,1,10-14 yrs old,Employed Part-time,Service & sales worker,SENGKANG,Male
+3,HDB 4-room,Yes,2,35-39 yrs old,Employed Full-time,Legislator,senior official & manager,TOA PAYOH,Male
+3,Private flat/condo,No,3,6-9 yrs old,Full time student,Professional,PASIR RIS,Male
+3,Private flat/condo,Yes,1,25-29 yrs old,Retired,Service & sales worker,BEDOK,Female
+3,Private flat/condo,No,1,55-59 yrs old,Employed Full-time,Associate professional & technician,TAMPINES,Female
+3,HDB 3-room,Yes,2,10-14 yrs old,Employed Full-time,Service & sales worker,BEDOK,Female
+3,Private flat/condo,No,1,60-64 yrs old,Homemaker,Production craftsman & related worker,JURONG WEST,Female
+3,HDB 5-room,Yes,3,10-14 yrs old,Employed Full-time,Professional,GEYLANG,Male
+3,Landed Property,No,3,55-59 yrs old,Employed Full-time,Professional,SENGKANG,Female
+3,Private flat/condo,No,3,75-79 yrs old,Employed Full-time,Professional,SENGKANG,Male
+3,HDB 3-room,Yes,1,55-59 yrs old,Retired,Service & sales worker,BEDOK,Female
+3,HDB 4-room,No,2,50-54 yrs old,Employed Full-time,Service & sales worker,TOA PAYOH,Male
+3,HDB 3-room,No,1,30-34 yrs old,Employed Full-time,Associate professional & technician,TOA PAYOH,Female
+3,HDB 3-room,Yes,2,55-59 yrs old,Homemaker,Cleaner, labourer & related worker,SENGKANG,Female
+3,HDB 5-room,Yes,2,35-39 yrs old,Homemaker,Professional,SERANGOON,Male
+3,HDB 4-room,Yes,3,25-29 yrs old,Domestic worker,Clerical worker,JURONG WEST,Female
+3,HDB 3-room,Yes,2,45-49 yrs old,Employed Full-time,Service & sales worker,BUKIT PANJANG,Female
+3,HDB 2-room,Yes,2,50-54 yrs old,Employed Full-time,Professional,BEDOK,Male
+3,HDB 3-room,No,3,15-19 yrs old,Self-employed,Professional,SERANGOON,Female
+3,HDB 1-room,Yes,3,50-54 yrs old,Homemaker,Professional,SERANGOON,Male
+3,HDB 4-room,No,3,45-49 yrs old,Employed Part-time,Professional,HOUGANG,Female
+3,HDB 4-room,No,1,40-44 yrs old,Employed Full-time,Professional,SENGKANG,Male
+3,HDB 4-room,No,2,40-44 yrs old,Homemaker,Service & sales worker,TOA PAYOH,Male
+3,HDB 4-room,Yes,1,60-64 yrs old,Full time student,Professional,JURONG WEST,Female
+3,HDB 4-room,Yes,2,70-74 yrs old,Employed Full-time,Legislator,senior official & manager,QUEENSTOWN,Female
+3,HDB 3-room,Yes,2,60-64 yrs old,Employed Full-time,Cleaner, labourer & related worker,BEDOK,Male
+3,HDB 4-room,Yes,2,70-74 yrs old,Employed Full-time,Professional,PUNGGOL,Male
+3,HDB 4-room,No,2,35-39 yrs old,Employed Full-time,Production craftsman & related worker,SENGKANG,Female
+3,HDB 2-room,No,1,70-74 yrs old,Full time student,Service & sales worker,NOVENA,Female
+3,HDB 4-room,No,1,50-54 yrs old,Full time student,Professional,TAMPINES,Female
+3,Landed Property,Yes,3,45-49 yrs old,Employed Full-time,Service & sales worker,BUKIT PANJANG,Female
+3,HDB 4-room,No,1,25-29 yrs old,Employed Full-time,Service & sales worker,BUKIT PANJANG,Female
+3,HDB 3-room,No,2,30-34 yrs old,Employed Full-time,Professional,BUKIT BATOK,Female
+3,HDB 4-room,No,3,50-54 yrs old,Employed Full-time,Professional,BUKIT BATOK,Female
+3,HDB 5-room,Yes,3,50-54 yrs old,Employed Full-time,Professional,HOUGANG,Female
+3,HDB 3-room,No,3,65-69 yrs old,Employed Full-time,Service & sales worker,BUKIT PANJANG,Female
+3,HDB 5-room,No,1,40-44 yrs old,Homemaker,Associate professional & technician,CHOA CHU KANG,Female
+3,HDB 5-room,No,2,50-54 yrs old,Employed Full-time,Legislator,senior official & manager,PASIR RIS,Female
+3,HDB 4-room,No,3,65-69 yrs old,Unemployed,Service & sales worker,YISHUN,Male
+3,HDB 1-room,Yes,1,30-34 yrs old,Unemployed,Service & sales worker,BEDOK,Female
+3,HDB 5-room,Yes,2,35-39 yrs old,Employed Full-time,Professional,WOODLANDS,Male
+3,HDB 4-room,No,1,20-24 yrs old,Full time student,Clerical worker,YISHUN,Male
+3,Private flat/condo,Yes,1,20-24 yrs old,Unemployed,Service & sales worker,SERANGOON,Female
+3,HUDC flat,Yes,1,60-64 yrs old,Full time student,Cleaner, labourer & related worker,BEDOK,Female
+3,HDB 5-room,No,1,35-39 yrs old,Employed Full-time,Legislator,senior official & manager,QUEENSTOWN,Male
+3,HDB 5-room,No,1,55-59 yrs old,Employed Full-time,Service & sales worker,HOUGANG,Male
+3,Landed Property,No,1,35-39 yrs old,Employed Full-time,Professional,BUKIT PANJANG,Female
+3,Private flat/condo,Yes,3,65-69 yrs old,Employed Full-time,Legislator,senior official & manager,TAMPINES,Female
+3,HDB 3-room,No,1,25-29 yrs old,Homemaker,Plant & machine operator & assembler,JURONG WEST,Male
+3,HDB 3-room,Yes,2,20-24 yrs old,Employed Full-time,Professional,BUKIT MERAH,Female
+3,Private flat/condo,No,2,50-54 yrs old,Retired,Professional,PUNGGOL,Male
+3,HDB 4-room,Yes,3,15-19 yrs old,Retired,Professional,PUNGGOL,Female
+3,Landed Property,No,2,20-24 yrs old,Full time student,Professional,BEDOK,Male
+3,Landed Property,Yes,2,50-54 yrs old,Self-employed,Production craftsman & related worker,YISHUN,Female
+3,HDB 5-room,No,3,55-59 yrs old,Employed Full-time,Service & sales worker,BISHAN,Female
+3,HDB 4-room,No,2,40-44 yrs old,Retired,Associate professional & technician,HOUGANG,Male
+3,HDB 3-room,No,3,70-74 yrs old,Self-employed,Legislator,senior official & manager,QUEENSTOWN,Male
+3,HDB 5-room,Yes,1,60-64 yrs old,Employed Full-time,Service & sales worker,JURONG WEST,Female
+3,HDB 3-room,Yes,1,30-34 yrs old,Employed Part-time,Plant & machine operator & assembler,ANG MO KIO,Male
+3,HDB 5-room,No,1,50-54 yrs old,Employed Full-time,Service & sales worker,TAMPINES,Female
+3,HDB 5-room,No,3,55-59 yrs old,Full time student,Associate professional & technician,HOUGANG,Female
+3,HDB 4-room,No,3,15-19 yrs old,Employed Full-time,Professional,BUKIT MERAH,Male
+3,HDB 4-room,No,1,25-29 yrs old,Homemaker,Associate professional & technician,BUKIT BATOK,Female
+3,HDB 4-room,Yes,2,40-44 yrs old,Retired,Service & sales worker,JURONG WEST,Female
+3,HDB 5-room,No,1,20-24 yrs old,Retired,Legislator,senior official & manager,CLEMENTI,Female
+3,HDB 3-room,Yes,1,55-59 yrs old,Retired,Legislator,senior official & manager,CHOA CHU KANG,Male
+3,HDB 4-room,Yes,3,10-14 yrs old,Employed Full-time,Professional,BISHAN,Male
+3,HDB 4-room,Yes,2,50-54 yrs old,Employed Full-time,Cleaner, labourer & related worker,ANG MO KIO,Female
+3,HDB 3-room,No,3,60-64 yrs old,Employed Full-time,Plant & machine operator & assembler,ANG MO KIO,Male
+3,Government executive flat,No,1,25-29 yrs old,Employed Full-time,Cleaner, labourer & related worker,TOA PAYOH,Female
+3,HDB 3-room,No,2,45-49 yrs old,Homemaker,Professional,HOUGANG,Female
+3,HDB 3-room,No,1,35-39 yrs old,Employed Full-time,Professional,CHOA CHU KANG,Female
+3,Private flat/condo,No,3,6-9 yrs old,Homemaker,Service & sales worker,ANG MO KIO,Male
+3,HDB 3-room,No,3,80-84 yrs old,Employed Part-time,Service & sales worker,YISHUN,Female
+3,HDB 4-room,Yes,3,55-59 yrs old,Full time student,Professional,BUKIT MERAH,Female
+3,Private flat/condo,Yes,2,15-19 yrs old,Employed Full-time,Professional,ANG MO KIO,Female
+3,HDB 5-room,No,1,80-84 yrs old,Employed Full-time,Service & sales worker,OUTRAM,Female
+3,HDB 2-room,No,3,30-34 yrs old,Retired,Armed forces,BUKIT MERAH,Female
+3,Private flat/condo,No,3,40-44 yrs old,Full time student,Service & sales worker,TOA PAYOH,Male
+3,HDB 5-room,Yes,3,30-34 yrs old,Domestic worker,Professional,BEDOK,Female
+3,HDB 5-room,No,2,30-34 yrs old,Homemaker,Professional,BISHAN,Female
+3,HDB 4-room,Yes,2,25-29 yrs old,Employed Full-time,Professional,TOA PAYOH,Male
+3,HDB 4-room,No,1,30-34 yrs old,Employed Full-time,Professional,CHOA CHU KANG,Male
+3,HDB 3-room,No,2,45-49 yrs old,Employed Full-time,Professional,JURONG WEST,Female
+3,HDB 4-room,No,1,25-29 yrs old,Employed Full-time,Associate professional & technician,HOUGANG,Male
+3,Private flat/condo,Yes,2,45-49 yrs old,Full time student,Professional,TAMPINES,Female
+3,HDB 4-room,Yes,3,10-14 yrs old,Employed Full-time,Plant & machine operator & assembler,TAMPINES,Male
+3,HDB 5-room,Yes,3,50-54 yrs old,Homemaker,Service & sales worker,JURONG WEST,Male
+3,HDB 4-room,No,2,55-59 yrs old,Employed Full-time,Professional,TOA PAYOH,Male
+3,HDB 4-room,Yes,1,25-29 yrs old,Employed Full-time,Service & sales worker,TAMPINES,Male
+3,HDB 3-room,No,3,20-24 yrs old,Employed Full-time,Service & sales worker,WOODLANDS,Male
+3,HDB 5-room,No,2,75-79 yrs old,Employed Full-time,Professional,YISHUN,Male
+3,HDB 4-room,No,2,45-49 yrs old,Employed Full-time,Cleaner, labourer & related worker,BEDOK,Female
+3,HDB 5-room,No,3,70-74 yrs old,Employed Full-time,Armed forces,SERANGOON,Male
+3,HDB 4-room,Yes,1,55-59 yrs old,Employed Full-time,Professional,YISHUN,Female
+3,Private flat/condo,Yes,3,70-74 yrs old,Employed Full-time,Legislator,senior official & manager,GEYLANG,Male
+3,HDB 3-room,No,1,40-44 yrs old,Employed Full-time,Legislator,senior official & manager,HOUGANG,Male
+3,HDB 1-room,No,3,20-24 yrs old,Full time student,Plant & machine operator & assembler,JURONG WEST,Female
+3,HDB 5-room,Yes,3,65-69 yrs old,Employed Full-time,Professional,JURONG EAST,Female
+3,Private flat/condo,Yes,2,70-74 yrs old,Employed Full-time,Service & sales worker,JURONG EAST,Male
+3,HDB 4-room,No,1,50-54 yrs old,Employed Full-time,Cleaner, labourer & related worker,ANG MO KIO,Female
+3,HDB 4-room,Yes,2,30-34 yrs old,Employed Full-time,Professional,KALLANG,Female
+3,HDB 3-room,Yes,2,60-64 yrs old,Retired,Associate professional & technician,BUKIT PANJANG,Female
+3,HDB 3-room,No,1,70-74 yrs old,Employed Full-time,Service & sales worker,KALLANG,Male
+3,HDB 3-room,No,2,25-29 yrs old,Homemaker,Service & sales worker,QUEENSTOWN,Female
+3,Private flat/condo,No,1,6-9 yrs old,Retired,Professional,PASIR RIS,Male
+3,HDB 4-room,No,1,45-49 yrs old,Domestic worker,Legislator,senior official & manager,BUKIT BATOK,Female
+3,HDB 4-room,No,1,75-79 yrs old,Domestic worker,Legislator,senior official & manager,TOA PAYOH,Male
+3,HDB 4-room,Yes,3,45-49 yrs old,Homemaker,Cleaner, labourer & related worker,NOVENA,Male
+2,Private flat/condo,No,1,30-34 yrs old,Self-employed,Associate professional & technician,MARINE PARADE,Male
+2,HDB 1-room,No,1,85 yrs & above,Employed Full-time,Armed forces,PUNGGOL,Female
+2,HDB 3-room,Yes,1,60-64 yrs old,Employed Full-time,Plant & machine operator & assembler,YISHUN,Male
+2,HDB 1-room,No,1,60-64 yrs old,Employed Full-time,Professional,SENGKANG,Female
+2,Shophouse,No,2,30-34 yrs old,Unemployed,Professional,HOUGANG,Female
+2,HDB 4-room,No,1,70-74 yrs old,Employed Full-time,Production craftsman & related worker,YISHUN,Female
+2,HDB 3-room,No,2,45-49 yrs old,Employed Full-time,Plant & machine operator & assembler,BUKIT MERAH,Male
+2,HDB 4-room,Yes,2,35-39 yrs old,Retired,Self Employed / Businessman,PASIR RIS,Female
+2,HDB 4-room,Yes,1,45-49 yrs old,Employed Full-time,Legislator,senior official & manager,BUKIT MERAH,Male
+2,Private flat/condo,No,2,45-49 yrs old,Homemaker,Associate professional & technician,BUKIT MERAH,Female
+2,HDB 4-room,Yes,2,45-49 yrs old,Employed Full-time,Cleaner, labourer & related worker,BUKIT MERAH,Male
+2,HDB 4-room,Yes,1,20-24 yrs old,Employed Part-time,Legislator,senior official & manager,ANG MO KIO,Male
+2,HDB 4-room,No,2,65-69 yrs old,Employed Full-time,Professional,WOODLANDS,Male
+2,HDB 3-room,No,1,45-49 yrs old,Homemaker,Legislator,senior official & manager,JURONG EAST,Female
+2,HDB 3-room,No,2,55-59 yrs old,Retired,Professional,TOA PAYOH,Male
+2,HDB 5-room,No,2,55-59 yrs old,Employed Part-time,Professional,QUEENSTOWN,Female
+2,HDB 1-room,No,2,40-44 yrs old,Employed Full-time,Service & sales worker,TAMPINES,Female
+2,HDB 5-room,No,1,65-69 yrs old,Retired,Service & sales worker,CHOA CHU KANG,Female
+2,HDB 3-room,No,1,50-54 yrs old,Employed Full-time,Service & sales worker,HOUGANG,Male
+2,HDB 5-room,No,2,35-39 yrs old,Domestic worker,Service & sales worker,NOVENA,Female
+2,HDB 3-room,Yes,1,45-49 yrs old,Self-employed,Legislator,senior official & manager,OUTRAM,Female
+2,HDB 4-room,No,1,65-69 yrs old,Employed Full-time,Professional,TANGLIN,Male
+2,Landed Property,Yes,1,75-79 yrs old,Self-employed,Service & sales worker,TOA PAYOH,Female
+2,HDB 1-room,No,2,70-74 yrs old,Homemaker,Cleaner, labourer & related worker,QUEENSTOWN,Female
+2,HDB 4-room,No,2,75-79 yrs old,Retired,Service & sales worker,BEDOK,Male
+2,HDB 3-room,Yes,2,65-69 yrs old,Retired,Associate professional & technician,ANG MO KIO,Male
+2,HDB 4-room,No,1,15-19 yrs old,Retired,Professional,BEDOK,Male
+2,Private flat/condo,No,2,45-49 yrs old,Full time student,Associate professional & technician,SENGKANG,Female
+2,HDB 3-room,No,2,50-54 yrs old,Employed Full-time,Professional,BUKIT PANJANG,Female
+2,HDB 2-room,Yes,2,25-29 yrs old,Employed Full-time,Service & sales worker,GEYLANG,Male
+2,Private flat/condo,Yes,2,70-74 yrs old,Full time student,Production craftsman & related worker,BUKIT BATOK,Female
+2,HDB 4-room,No,2,30-34 yrs old,Unemployed,Professional,BEDOK,Male
+2,HDB 5-room,No,1,55-59 yrs old,Full time student,Production craftsman & related worker,RIVER VALLEY,Female
+2,HDB 4-room,No,1,40-44 yrs old,Domestic worker,Clerical worker,BUKIT TIMAH,Male
+2,HDB 4-room,No,2,35-39 yrs old,Full time student,Service & sales worker,SENGKANG,Male
+2,Landed Property,Yes,2,30-34 yrs old,Employed Full-time,Professional,CHOA CHU KANG,Female
+2,HDB 5-room,No,1,60-64 yrs old,Retired,Professional,CHOA CHU KANG,Female
+2,HDB 4-room,No,2,70-74 yrs old,Homemaker,Plant & machine operator & assembler,BUKIT MERAH,Female
+2,HDB 3-room,Yes,1,80-84 yrs old,Employed Full-time,Associate professional & technician,OUTRAM,Female
+2,HDB 3-room,Yes,2,75-79 yrs old,Employed Full-time,Service & sales worker,PASIR RIS,Male
+2,HDB 5-room,No,1,25-29 yrs old,Employed Full-time,Professional,QUEENSTOWN,Male
+2,HDB 2-room,No,1,55-59 yrs old,Employed Full-time,Professional,BUKIT TIMAH,Female
+2,HDB 2-room,No,1,20-24 yrs old,Retired,Cleaner, labourer & related worker,JURONG WEST,Female
+2,HDB 4-room,Yes,2,80-84 yrs old,Unemployed,Service & sales worker,TOA PAYOH,Female
+2,HDB 5-room,Yes,2,30-34 yrs old,Employed Full-time,Legislator,senior official & manager,SERANGOON,Female
+2,HDB 3-room,Yes,2,35-39 yrs old,Employed Full-time,Armed forces,QUEENSTOWN,Female
+2,HDB 2-room,No,2,60-64 yrs old,Employed Full-time,Plant & machine operator & assembler,BEDOK,Female
+2,HDB 4-room,Yes,1,35-39 yrs old,Retired,Professional,ANG MO KIO,Male
+2,HDB 1-room,Yes,1,30-34 yrs old,Homemaker,Service & sales worker,BUKIT MERAH,Female
+2,HDB 5-room,No,2,25-29 yrs old,Employed Full-time,Service & sales worker,BUKIT MERAH,Female
+2,HDB 5-room,Yes,1,45-49 yrs old,Retired,Clerical worker,SEMBAWANG,Female
+2,HDB 3-room,No,1,25-29 yrs old,Employed Full-time,Professional,BEDOK,Female
+2,HDB 5-room,No,1,50-54 yrs old,Employed Full-time,Professional,BEDOK,Male
+2,HDB 3-room,No,1,50-54 yrs old,Employed Full-time,Professional,HOUGANG,Male
+2,HDB 5-room,No,1,70-74 yrs old,Employed Full-time,Legislator,senior official & manager,CHOA CHU KANG,Male
+2,HDB 4-room,No,1,50-54 yrs old,Retired,Professional,JURONG WEST,Male
+2,HDB 3-room,No,2,35-39 yrs old,Employed Full-time,Professional,WOODLANDS,Female
+2,HDB 4-room,Yes,2,35-39 yrs old,Employed Full-time,Professional,BEDOK,Female
+2,Private flat/condo,Yes,1,25-29 yrs old,Retired,Armed forces,BUKIT BATOK,Male
+2,HDB 1-room,Yes,2,50-54 yrs old,Unemployed,Legislator,senior official & manager,ROCHOR,Male
+2,HDB 3-room,No,1,70-74 yrs old,Employed Full-time,Service & sales worker,JURONG EAST,Male
+2,HDB 4-room,No,2,45-49 yrs old,Retired,Professional,JURONG EAST,Female
+2,HDB 3-room,No,1,70-74 yrs old,Employed Full-time,Professional,QUEENSTOWN,Male
+2,HDB 5-room,Yes,1,75-79 yrs old,Employed Full-time,Legislator,senior official & manager,PUNGGOL,Female
+2,HDB 5-room,Yes,1,30-34 yrs old,Employed Part-time,Professional,TOA PAYOH,Female
+2,HDB 4-room,Yes,2,60-64 yrs old,Employed Full-time,Associate professional & technician,JURONG WEST,Female
+2,HDB 1-room,No,1,75-79 yrs old,Employed Full-time,Production craftsman & related worker,BUKIT MERAH,Male
+2,HDB 4-room,No,1,30-34 yrs old,Employed Full-time,Cleaner, labourer & related worker,ANG MO KIO,Female
+2,Private flat/condo,Yes,1,35-39 yrs old,Retired,Service & sales worker,GEYLANG,Female
+2,HDB 2-room,No,1,60-64 yrs old,Employed Full-time,Professional,HOUGANG,Male
+2,HDB 4-room,No,1,65-69 yrs old,Employed Full-time,Service & sales worker,JURONG WEST,Female
+2,HDB 4-room,Yes,1,70-74 yrs old,Full time student,Professional,ANG MO KIO,Male
+2,HDB 1-room,No,2,45-49 yrs old,Employed Full-time,Associate professional & technician,HOUGANG,Female
+2,HDB 1-room,Yes,1,45-49 yrs old,Homemaker,Plant & machine operator & assembler,BUKIT MERAH,Female
+2,HDB 2-room,No,1,35-39 yrs old,Employed Full-time,Associate professional & technician,TOA PAYOH,Female
+2,HDB 4-room,Yes,2,45-49 yrs old,Self-employed,Service & sales worker,BUKIT MERAH,Female
+2,HDB 2-room,No,1,50-54 yrs old,Employed Full-time,Legislator,senior official & manager,MARINE PARADE,Female
+2,HDB 4-room,No,2,75-79 yrs old,Employed Full-time,Production craftsman & related worker,SERANGOON,Female
+2,HDB 3-room,No,2,20-24 yrs old,Full time student,Professional,BEDOK,Female
+2,HDB 4-room,No,2,45-49 yrs old,Retired,Production craftsman & related worker,SENGKANG,Male
+2,HDB 4-room,No,2,80-84 yrs old,Employed Full-time,Service & sales worker,TAMPINES,Female
+2,HDB 3-room,No,1,70-74 yrs old,Retired,Professional,YISHUN,Male
+2,HDB 4-room,No,2,80-84 yrs old,Retired,Associate professional & technician,ANG MO KIO,Female
+2,HDB 4-room,Yes,2,15-19 yrs old,Employed Full-time,Clerical worker,BUKIT PANJANG,Female
+2,HDB 4-room,No,1,35-39 yrs old,Employed Full-time,Associate professional & technician,BUKIT MERAH,Female
+2,HDB 4-room,No,2,25-29 yrs old,Retired,Professional,BEDOK,Female
+2,Landed Property,No,1,50-54 yrs old,Employed Full-time,Clerical worker,TAMPINES,Female
+2,Private flat/condo,No,2,30-34 yrs old,Employed Full-time,Professional,YISHUN,Male
+2,HDB 1-room,Yes,2,65-69 yrs old,Homemaker,Cleaner, labourer & related worker,BUKIT BATOK,Male
+2,HDB 3-room,No,1,25-29 yrs old,Full time student,Associate professional & technician,GEYLANG,Male
+2,HDB 4-room,No,1,35-39 yrs old,Retired,Professional,PUNGGOL,Male
+2,HDB 4-room,Yes,1,45-49 yrs old,Employed Full-time,Professional,PUNGGOL,Female
+2,Private flat/condo,No,1,65-69 yrs old,Homemaker,Legislator,senior official & manager,QUEENSTOWN,Male
+2,HDB 4-room,Yes,2,35-39 yrs old,Homemaker,Professional,KALLANG,Female
+2,Landed Property,No,2,55-59 yrs old,Retired,Legislator,senior official & manager,PUNGGOL,Female
+2,HDB 5-room,No,1,30-34 yrs old,Self-employed,Professional,KALLANG,Female
+2,HDB 2-room,No,1,50-54 yrs old,Employed Full-time,Professional,HOUGANG,Female
+2,HDB 4-room,Yes,2,50-54 yrs old,Retired,Cleaner, labourer & related worker,KALLANG,Female
+2,HDB 4-room,No,2,30-34 yrs old,Employed Full-time,Professional,BEDOK,Female
+2,Private flat/condo,No,1,30-34 yrs old,Employed Full-time,Armed forces,BEDOK,Female
+2,HDB 4-room,No,2,20-24 yrs old,Employed Full-time,Armed forces,BUKIT MERAH,Female
+2,HDB 3-room,Yes,1,45-49 yrs old,Employed Full-time,Service & sales worker,YISHUN,Male
+2,HDB 4-room,No,1,60-64 yrs old,Retired,Production craftsman & related worker,BUKIT BATOK,Female
+2,Landed Property,Yes,2,35-39 yrs old,Homemaker,Professional,ANG MO KIO,Female
+2,HDB 5-room,Yes,1,50-54 yrs old,Employed Full-time,Professional,CHOA CHU KANG,Male
+2,HDB 5-room,Yes,1,70-74 yrs old,Domestic worker,Self Employed / Businessman,HOUGANG,Female
+2,Landed Property,No,2,20-24 yrs old,Retired,Legislator,senior official & manager,TOA PAYOH,Female
+2,HDB 3-room,No,1,40-44 yrs old,Retired,Service & sales worker,WOODLANDS,Female
+2,HDB 4-room,Yes,1,40-44 yrs old,Self-employed,Professional,BUKIT BATOK,Male
+2,HDB 4-room,No,2,70-74 yrs old,Homemaker,Production craftsman & related worker,KALLANG,Male
+2,HDB other than flat,No,1,35-39 yrs old,Employed Full-time,Service & sales worker,CLEMENTI,Female
+2,HDB 3-room,No,1,30-34 yrs old,Employed Full-time,Production craftsman & related worker,ROCHOR,Male
+2,HDB 5-room,No,2,60-64 yrs old,Employed Full-time,Service & sales worker,BUKIT BATOK,Male
+2,HDB 4-room,No,1,20-24 yrs old,Employed Full-time,Professional,BEDOK,Male
+2,HDB 5-room,Yes,1,40-44 yrs old,Full time student,Professional,BEDOK,Female
+2,HDB 4-room,No,2,30-34 yrs old,Retired,Clerical worker,BUKIT BATOK,Female
+2,HDB 5-room,Yes,2,70-74 yrs old,Employed Full-time,Service & sales worker,TAMPINES,Male
+2,HDB 5-room,No,1,75-79 yrs old,Retired,Associate professional & technician,CLEMENTI,Male
+2,HDB 4-room,Yes,2,80-84 yrs old,Employed Full-time,Associate professional & technician,SENGKANG,Female
+2,HDB 5-room,No,1,30-34 yrs old,Full time student,Legislator,senior official & manager,HOUGANG,Female
+2,HDB 5-room,No,1,55-59 yrs old,Employed Full-time,Associate professional & technician,BEDOK,Male
+2,HDB 4-room,No,1,25-29 yrs old,Homemaker,Clerical worker,TOA PAYOH,Female
+2,HDB 3-room,No,2,20-24 yrs old,Employed Full-time,Production craftsman & related worker,JURONG EAST,Female
+2,HDB 4-room,No,2,65-69 yrs old,Employed Full-time,Associate professional & technician,ANG MO KIO,Female
+2,HDB 4-room,No,2,50-54 yrs old,Homemaker,Service & sales worker,SENGKANG,Female
+2,HDB 4-room,Yes,1,45-49 yrs old,Employed Full-time,Professional,RIVER VALLEY,Female
+2,HDB 4-room,No,2,55-59 yrs old,Full time student,Legislator,senior official & manager,BEDOK,Female
+2,Landed Property,Yes,1,15-19 yrs old,Employed Full-time,Professional,ANG MO KIO,Female
+2,HDB 3-room,Yes,1,20-24 yrs old,Self-employed,Professional,CHOA CHU KANG,Female
+2,HDB 4-room,Yes,1,45-49 yrs old,Employed Part-time,Legislator,senior official & manager,BUKIT BATOK,Male
+2,HDB 4-room,Yes,2,25-29 yrs old,Employed Full-time,Associate professional & technician,CHOA CHU KANG,Female
+2,Landed Property,Yes,2,70-74 yrs old,Self-employed,Cleaner, labourer & related worker,GEYLANG,Female
+2,HDB 3-room,No,2,40-44 yrs old,Homemaker,Service & sales worker,JURONG EAST,Female
+2,HDB 4-room,Yes,1,60-64 yrs old,Retired,Clerical worker,BUKIT PANJANG,Male
+2,HDB 4-room,No,2,45-49 yrs old,Full time student,Professional,GEYLANG,Female
+2,Private flat/condo,No,1,60-64 yrs old,Employed Part-time,Service & sales worker,OUTRAM,Male
+2,Private flat/condo,No,2,30-34 yrs old,Retired,Service & sales worker,ANG MO KIO,Female
+2,HDB 4-room,No,1,80-84 yrs old,Homemaker,Professional,MARINE PARADE,Male
+2,HDB 3-room,No,1,25-29 yrs old,Employed Part-time,Legislator,senior official & manager,YISHUN,Male
+2,Landed Property,Yes,2,40-44 yrs old,Homemaker,Clerical worker,YISHUN,Female
+2,HDB 1-room,No,1,25-29 yrs old,Retired,Associate professional & technician,HOUGANG,Female
+2,HDB 4-room,No,1,50-54 yrs old,Employed Part-time,Service & sales worker,QUEENSTOWN,Male
+2,HDB 3-room,Yes,1,65-69 yrs old,Employed Full-time,Armed forces,PUNGGOL,Female
+2,HDB 4-room,Yes,2,55-59 yrs old,Retired,Cleaner, labourer & related worker,YISHUN,Female
+2,HDB 3-room,No,2,15-19 yrs old,Homemaker,Professional,BUKIT PANJANG,Male
+2,HDB 3-room,Yes,1,80-84 yrs old,Employed Full-time,Service & sales worker,TOA PAYOH,Male
+2,HDB 3-room,Yes,2,30-34 yrs old,Employed Full-time,Service & sales worker,GEYLANG,Male
+2,HDB 4-room,No,2,40-44 yrs old,Retired,Plant & machine operator & assembler,QUEENSTOWN,Male
+2,HDB 4-room,No,1,25-29 yrs old,Employed Full-time,Production craftsman & related worker,BEDOK,Male
+2,HDB 3-room,No,2,60-64 yrs old,Employed Full-time,Associate professional & technician,BUKIT MERAH,Female
+2,HDB 1-room,No,2,25-29 yrs old,Employed Full-time,Service & sales worker,SEMBAWANG,Male
+2,Private flat/condo,No,1,20-24 yrs old,Employed Full-time,Cleaner, labourer & related worker,YISHUN,Female
+2,HDB other than flat,No,2,25-29 yrs old,Employed Full-time,Legislator,senior official & manager,OUTRAM,Female
+2,HDB 4-room,No,2,70-74 yrs old,Employed Full-time,Armed forces,JURONG EAST,Male
+1,HDB 3-room,No,1,70-74 yrs old,Employed Full-time,Legislator,senior official & manager,QUEENSTOWN,Female
+1,HDB 2-room,No,1,45-49 yrs old,Retired,Professional,GEYLANG,Male
+1,Floor of shophouse,No,1,45-49 yrs old,Retired,Service & sales worker,WOODLANDS,Female
+1,Private flat/condo,No,1,60-64 yrs old,Employed Full-time,Professional,KALLANG,Female
+1,HDB 4-room,No,1,65-69 yrs old,Self-employed,Professional,TOA PAYOH,Male
+1,HDB 2-room,No,1,30-34 yrs old,Retired,Cleaner, labourer & related worker,OUTRAM,Male
+1,HDB 3-room,No,1,80-84 yrs old,Retired,Professional,KALLANG,Female
+1,HDB 5-room,No,1,70-74 yrs old,Retired,Self Employed / Businessman,KALLANG,Female
+1,HDB 4-room,No,1,40-44 yrs old,Self-employed,Service & sales worker,SENGKANG,Male
+1,Private flat/condo,No,1,45-49 yrs old,Employed Full-time,Cleaner, labourer & related worker,NOVENA,Female
+1,Other public flat,No,1,55-59 yrs old,Unemployed,Legislator,senior official & manager,ANG MO KIO,Female
+1,HDB 5-room,No,1,35-39 yrs old,Retired,Service & sales worker,NOVENA,Female
+1,HDB 3-room,No,1,75-79 yrs old,Retired,Professional,OUTRAM,Female
+1,HDB 3-room,No,1,45-49 yrs old,Retired,Professional,BUKIT BATOK,Male
+1,HDB 3-room,No,1,65-69 yrs old,Retired,Professional,OUTRAM,Female
+1,HDB 3-room,No,1,70-74 yrs old,Employed Full-time,Service & sales worker,MARINE PARADE,Male
+1,HDB 3-room,No,1,65-69 yrs old,Retired,Professional,HOUGANG,Male
+1,HDB 4-room,No,1,70-74 yrs old,Retired,Professional,KALLANG,Male
+1,HDB 1-room,No,1,65-69 yrs old,Employed Full-time,Service & sales worker,SENGKANG,Male
+1,Private flat/condo,No,1,60-64 yrs old,Employed Full-time,Service & sales worker,ANG MO KIO,Female
+1,HDB 3-room,No,1,65-69 yrs old,Employed Full-time,Service & sales worker,BEDOK,Female
+1,Private flat/condo,No,1,50-54 yrs old,Homemaker,Cleaner, labourer & related worker,TOA PAYOH,Female
+1,Government executive flat,No,1,55-59 yrs old,Retired,Professional,BISHAN,Female
+1,HDB 4-room,No,1,50-54 yrs old,Employed Full-time,Cleaner, labourer & related worker,ANG MO KIO,Female
+1,HDB 1-room,No,1,35-39 yrs old,Retired,Service & sales worker,BUKIT MERAH,Female
+1,HDB 3-room,No,1,40-44 yrs old,Retired,Service & sales worker,GEYLANG,Male
+1,Private flat/condo,No,1,60-64 yrs old,Retired,Service & sales worker,BEDOK,Female
+1,HDB 1-room,No,1,55-59 yrs old,Employed Full-time,Production craftsman & related worker,HOUGANG,Male
+1,HDB 5-room,No,1,55-59 yrs old,Employed Full-time,Service & sales worker,HOUGANG,Female
+1,HDB 1-room,No,1,35-39 yrs old,Retired,Legislator,senior official & manager,PASIR RIS,Female
+1,HDB 2-room,No,1,35-39 yrs old,Employed Full-time,Professional,JURONG WEST,Male
+1,HDB 3-room,No,1,40-44 yrs old,Employed Full-time,Cleaner, labourer & related worker,GEYLANG,Female
+1,HDB 4-room,Yes,1,70-74 yrs old,Employed Full-time,Cleaner, labourer & related worker,NOVENA,Female
+1,Government executive flat,No,1,35-39 yrs old,Retired,Service & sales worker,BUKIT TIMAH,Female
+1,Private flat/condo,No,1,45-49 yrs old,Employed Full-time,Cleaner, labourer & related worker,SENGKANG,Female
+1,HDB 3-room,No,1,55-59 yrs old,Employed Full-time,Cleaner, labourer & related worker,OUTRAM,Male
+1,HDB 4-room,No,1,85 yrs & above,Retired,Professional,HOUGANG,Female
+1,Other public flat,No,1,65-69 yrs old,Self-employed,Service & sales worker,WOODLANDS,Female
+1,HDB 4-room,No,1,55-59 yrs old,Unemployed,Self Employed / Businessman,GEYLANG,Female
+1,HDB 3-room,No,1,35-39 yrs old,Unemployed,Service & sales worker,BEDOK,Male
+1,HDB 3-room,No,1,60-64 yrs old,Retired,Service & sales worker,OUTRAM,Male
+1,HDB 1-room,No,1,45-49 yrs old,Employed Full-time,Legislator,senior official & manager,TOA PAYOH,Female
+1,HDB 5-room,No,1,35-39 yrs old,Employed Full-time,Service & sales worker,TOA PAYOH,Female
+1,Private flat/condo,No,1,65-69 yrs old,Employed Full-time,Service & sales worker,PASIR RIS,Male
+1,HDB 1-room,No,1,45-49 yrs old,Employed Part-time,Cleaner, labourer & related worker,MARINE PARADE,Male
+1,HDB 1-room,No,1,65-69 yrs old,Retired,Professional,JURONG WEST,Male
+1,HDB 3-room,No,1,65-69 yrs old,Retired,Service & sales worker,GEYLANG,Female
+1,Private flat/condo,Yes,1,65-69 yrs old,Unemployed,Service & sales worker,ANG MO KIO,Male
+1,HDB 5-room,No,1,75-79 yrs old,Homemaker,Service & sales worker,KALLANG,Female
+1,HDB 3-room,No,1,75-79 yrs old,Employed Full-time,Service & sales worker,BEDOK,Female
+1,Landed Property,Yes,1,60-64 yrs old,Self-employed,Cleaner, labourer & related worker,OUTRAM,Male
+1,HDB other than flat,No,1,55-59 yrs old,Employed Full-time,Professional,TOA PAYOH,Male
+1,HDB 2-room,No,1,70-74 yrs old,Employed Full-time,Service & sales worker,BEDOK,Male
+1,Floor of shophouse,Yes,1,75-79 yrs old,Self-employed,Professional,KALLANG,Male
+1,HDB 4-room,No,1,75-79 yrs old,Retired,Service & sales worker,TOA PAYOH,Female
+1,HDB 4-room,No,1,55-59 yrs old,Retired,Professional,MARINE PARADE,Female
+1,HDB 4-room,No,1,70-74 yrs old,Retired,Professional,ANG MO KIO,Male
+1,HDB 3-room,No,1,55-59 yrs old,Self-employed,Professional,MARINE PARADE,Male

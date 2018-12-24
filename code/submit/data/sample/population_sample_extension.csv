@@ -1,0 +1,991 @@
+hometype,Pax_ID,P1_Age,P2_Gender,P8_Income,P5_EconActivity
+21 or above,7,20-24 yrs old,Female,$2000-$2499,Full time student
+21 or above,4,45-49 yrs old,Male,$4000-$4999,Employed Full-time
+21 or above,5,10-14 yrs old,Female,$5000-$5999,Full time student
+21 or above,3,15-19 yrs old,Male,$8000 and above,Full time student
+21 or above,2,45-49 yrs old,Male,$5000-$5999,Employed Full-time
+21 or above,3,10-14 yrs old,Female,No Income,Employed Full-time
+21 or above,2,20-24 yrs old,Female,No Income,Full time student
+21 or above,1,4-9 yrs old,Female,Refused,Full time student
+21 or above,4,20-24 yrs old,Female,No Income,Homemaker
+21 or above,5,15-19 yrs old,Male,Refused,Homemaker
+21 or above,5,40-44 yrs old,Female,No Income,Employed Full-time
+21 or above,1,20-24 yrs old,Female,No Income,Employed Full-time
+21 or above,5,15-19 yrs old,Male,No Income,Employed Full-time
+21 or above,2,10-14 yrs old,Male,No Income,Homemaker
+21 or above,2,50-54 yrs old,Male,No Income,Employed Full-time
+21 or above,4,45-49 yrs old,Female,$1-$1000,Full time student
+21 or above,7,4-9 yrs old,Male,No Income,Employed Full-time
+21 or above,4,15-19 yrs old,Female,$5000-$5999,Full time student
+21 or above,2,35-39 yrs old,Male,No Income,Homemaker
+20,6,10-14 yrs old,Female,No Income,Full time student
+20,4,20-24 yrs old,Female,No Income,Homemaker
+20,2,45-49 yrs old,Female,$2500-$2999,Full time student
+20,3,35-39 yrs old,Female,No Income,Full time student
+20,1,40-44 yrs old,Female,$3000-$3999,Self-employed
+20,1,40-44 yrs old,Female,$1500-$1999,Domestic worker
+19,3,45-49 yrs old,Male,$2000-$2499,Employed Full-time
+19,4,25-29 yrs old,Male,No Income,Full time student
+19,1,55-59 yrs old,Female,No Income,Employed Full-time
+19,1,55-59 yrs old,Male,$3000-$3999,Full time student
+19,2,40-44 yrs old,Male,No Income,Domestic worker
+19,3,40-44 yrs old,Male,Refused,Employed Full-time
+19,3,45-49 yrs old,Female,No Income,Employed Full-time
+19,5,20-24 yrs old,Male,Refused,Full time student
+19,2,50-54 yrs old,Female,No Income,Employed Full-time
+19,1,55-59 yrs old,Male,No Income,Full time student
+18,5,10-14 yrs old,Male,No Income,Employed Full-time
+18,4,35-39 yrs old,Male,$3000-$3999,Homemaker
+18,2,4-9 yrs old,Female,No Income,Self-employed
+18,1,10-14 yrs old,Male,$5000-$5999,Self-employed
+18,2,30-34 yrs old,Female,No Income,Full time student
+17,1,15-19 yrs old,Male,No Income,Employed Full-time
+17,3,4-9 yrs old,Female,$3000-$3999,Employed Full-time
+17,7,15-19 yrs old,Male,$4000-$4999,Homemaker
+17,4,55-59 yrs old,Male,No Income,Employed Full-time
+17,3,35-39 yrs old,Female,No Income,Full time student
+17,3,10-14 yrs old,Male,$3000-$3999,Full time student
+17,2,35-39 yrs old,Female,$8000 and above,Full time student
+17,1,40-44 yrs old,Female,No Income,Employed Full-time
+17,4,50-54 yrs old,Male,No Income,Full time student
+17,3,10-14 yrs old,Female,$3000-$3999,Employed Full-time
+17,6,15-19 yrs old,Male,No Income,Unemployed
+17,3,30-34 yrs old,Female,No Income,Employed Full-time
+17,5,60-64 yrs old,Male,$2000-$2499,Full time student
+17,5,10-14 yrs old,Male,$3000-$3999,Employed Full-time
+16,4,20-24 yrs old,Male,$1001-$1499,Employed Full-time
+16,4,35-39 yrs old,Male,$3000-$3999,Full time student
+16,1,10-14 yrs old,Female,No Income,Full time student
+16,3,35-39 yrs old,Female,No Income,Full time student
+16,4,45-49 yrs old,Male,$2000-$2499,Employed Full-time
+16,1,10-14 yrs old,Male,$2000-$2499,Full time student
+16,6,35-39 yrs old,Male,$1500-$1999,Full time student
+16,4,10-14 yrs old,Male,No Income,Employed Full-time
+16,4,45-49 yrs old,Male,$4000-$4999,Retired
+16,5,15-19 yrs old,Male,No Income,Employed Full-time
+16,3,75-79 yrs old,Female,$1-$1000,Full time student
+16,1,45-49 yrs old,Female,No Income,Employed Full-time
+16,2,60-64 yrs old,Male,No Income,Full time student
+16,1,10-14 yrs old,Female,$1-$1000,Employed Full-time
+16,4,4-9 yrs old,Female,No Income,Full time student
+16,2,45-49 yrs old,Male,$4000-$4999,Employed Full-time
+16,3,30-34 yrs old,Male,$2000-$2499,Employed Full-time
+16,3,20-24 yrs old,Female,No Income,Employed Full-time
+15,3,35-39 yrs old,Female,No Income,Homemaker
+15,3,15-19 yrs old,Male,$4000-$4999,Employed Full-time
+15,3,70-74 yrs old,Female,Refused,Employed Full-time
+15,1,50-54 yrs old,Female,No Income,Full time student
+15,2,15-19 yrs old,Male,$1-$1000,Homemaker
+15,1,4-9 yrs old,Female,No Income,Full time student
+15,1,55-59 yrs old,Male,No Income,Homemaker
+15,1,35-39 yrs old,Male,No Income,Full time student
+15,3,25-29 yrs old,Female,No Income,Employed Full-time
+15,3,30-34 yrs old,Female,No Income,Employed Full-time
+15,3,35-39 yrs old,Male,No Income,Full time student
+15,2,40-44 yrs old,Female,$2000-$2499,Retired
+15,4,40-44 yrs old,Female,Refused,Full time student
+15,4,15-19 yrs old,Male,$1-$1000,Full time student
+15,3,30-34 yrs old,Male,No Income,Self-employed
+15,5,35-39 yrs old,Male,No Income,Employed Full-time
+15,1,20-24 yrs old,Male,$1500-$1999,Full time student
+15,3,45-49 yrs old,Female,$1001-$1499,Employed Full-time
+15,1,4-9 yrs old,Male,Refused,Full time student
+15,4,35-39 yrs old,Female,$2000-$2499,Employed Full-time
+15,5,10-14 yrs old,Male,$1-$1000,Full time student
+14,5,40-44 yrs old,Male,No Income,Employed Full-time
+14,3,4-9 yrs old,Female,$8000 and above,Full time student
+14,1,4-9 yrs old,Female,No Income,Employed Full-time
+14,1,40-44 yrs old,Female,Refused,Employed Full-time
+14,2,15-19 yrs old,Female,$1-$1000,Full time student
+14,5,35-39 yrs old,Male,$6000-$6999,Retired
+14,4,25-29 yrs old,Female,$2500-$2999,Full time student
+14,3,10-14 yrs old,Male,$1500-$1999,Full time student
+14,3,50-54 yrs old,Male,No Income,Employed Full-time
+14,3,45-49 yrs old,Male,No Income,National service
+14,5,45-49 yrs old,Female,$1500-$1999,Employed Full-time
+14,3,45-49 yrs old,Female,No Income,Homemaker
+14,2,15-19 yrs old,Female,No Income,Employed Full-time
+14,1,30-34 yrs old,Male,No Income,Full time student
+14,6,40-44 yrs old,Male,$4000-$4999,Full time student
+14,2,45-49 yrs old,Male,Refused,Full time student
+14,3,35-39 yrs old,Male,$1500-$1999,Employed Full-time
+14,4,40-44 yrs old,Male,No Income,Self-employed
+14,1,10-14 yrs old,Female,$2500-$2999,Employed Full-time
+14,4,45-49 yrs old,Male,Refused,Employed Full-time
+14,3,60-64 yrs old,Female,$1-$1000,Full time student
+14,7,35-39 yrs old,Female,$1500-$1999,Employed Full-time
+14,1,15-19 yrs old,Male,$1500-$1999,Homemaker
+14,2,15-19 yrs old,Male,$1-$1000,Employed Full-time
+14,6,25-29 yrs old,Male,No Income,Employed Full-time
+14,4,15-19 yrs old,Male,$2500-$2999,Employed Full-time
+14,4,55-59 yrs old,Female,No Income,Full time student
+14,4,40-44 yrs old,Female,$1-$1000,Employed Full-time
+14,1,10-14 yrs old,Male,No Income,Employed Full-time
+14,5,60-64 yrs old,Male,$3000-$3999,Retired
+14,5,10-14 yrs old,Male,$1-$1000,Employed Full-time
+14,1,25-29 yrs old,Female,No Income,Employed Full-time
+14,4,50-54 yrs old,Male,No Income,Self-employed
+13,6,15-19 yrs old,Female,No Income,Employed Part-time
+13,1,40-44 yrs old,Female,Refused,Employed Full-time
+13,1,10-14 yrs old,Male,$4000-$4999,Full time student
+13,2,35-39 yrs old,Male,No Income,Employed Full-time
+13,4,45-49 yrs old,Male,No Income,Employed Full-time
+13,3,15-19 yrs old,Male,$1001-$1499,Full time student
+13,3,50-54 yrs old,Female,No Income,Employed Full-time
+13,4,15-19 yrs old,Male,$3000-$3999,Employed Full-time
+13,1,50-54 yrs old,Female,No Income,Homemaker
+13,4,20-24 yrs old,Female,Refused,Employed Full-time
+13,3,40-44 yrs old,Female,$2500-$2999,Domestic worker
+13,5,45-49 yrs old,Male,$2500-$2999,Homemaker
+13,4,10-14 yrs old,Female,No Income,Employed Full-time
+13,1,50-54 yrs old,Female,$1500-$1999,Full time student
+13,2,35-39 yrs old,Male,No Income,Full time student
+13,2,50-54 yrs old,Female,No Income,Employed Full-time
+13,1,35-39 yrs old,Female,Refused,Employed Full-time
+13,5,10-14 yrs old,Male,No Income,Employed Full-time
+13,4,10-14 yrs old,Female,No Income,Employed Full-time
+13,3,45-49 yrs old,Male,$2500-$2999,Full time student
+13,1,50-54 yrs old,Male,$1-$1000,Employed Part-time
+13,2,55-59 yrs old,Male,No Income,Employed Full-time
+13,3,30-34 yrs old,Male,No Income,Full time student
+13,2,50-54 yrs old,Male,No Income,Full time student
+13,2,10-14 yrs old,Male,No Income,Domestic worker
+13,4,4-9 yrs old,Male,No Income,Full time student
+13,2,20-24 yrs old,Female,$2500-$2999,Employed Full-time
+13,1,20-24 yrs old,Female,Refused,Employed Full-time
+13,3,10-14 yrs old,Male,No Income,Employed Full-time
+13,2,60-64 yrs old,Male,No Income,Employed Full-time
+13,5,60-64 yrs old,Male,$2000-$2499,Employed Full-time
+13,4,30-34 yrs old,Male,$1500-$1999,Full time student
+13,1,20-24 yrs old,Male,$3000-$3999,Full time student
+13,4,35-39 yrs old,Male,$8000 and above,Retired
+13,3,10-14 yrs old,Female,No Income,Full time student
+13,1,40-44 yrs old,Female,No Income,Full time student
+13,3,40-44 yrs old,Male,No Income,Unemployed
+13,2,30-34 yrs old,Female,No Income,Employed Full-time
+13,6,45-49 yrs old,Male,No Income,Employed Full-time
+13,2,15-19 yrs old,Male,$1500-$1999,Full time student
+13,1,45-49 yrs old,Female,$8000 and above,Employed Full-time
+13,5,40-44 yrs old,Female,No Income,Employed Full-time
+13,1,4-9 yrs old,Female,No Income,Employed Full-time
+13,2,20-24 yrs old,Female,$3000-$3999,Employed Full-time
+13,2,40-44 yrs old,Female,No Income,Full time student
+13,3,10-14 yrs old,Male,No Income,Employed Full-time
+13,1,4-9 yrs old,Male,No Income,Employed Full-time
+13,1,55-59 yrs old,Female,No Income,Full time student
+13,4,35-39 yrs old,Female,No Income,Employed Part-time
+13,4,20-24 yrs old,Male,$1001-$1499,Employed Part-time
+12,2,15-19 yrs old,Male,$5000-$5999,Full time student
+12,2,20-24 yrs old,Female,No Income,Employed Full-time
+12,7,4-9 yrs old,Male,$5000-$5999,Employed Full-time
+12,6,45-49 yrs old,Female,$1500-$1999,Self-employed
+12,4,40-44 yrs old,Female,$1001-$1499,Full time student
+12,3,10-14 yrs old,Female,$2000-$2499,Employed Full-time
+12,1,55-59 yrs old,Female,$2000-$2499,Employed Full-time
+12,2,20-24 yrs old,Female,Refused,Employed Full-time
+12,2,20-24 yrs old,Female,$1-$1000,Full time student
+12,1,4-9 yrs old,Female,$2000-$2499,Full time student
+12,8,35-39 yrs old,Female,$2000-$2499,Full time student
+12,2,45-49 yrs old,Female,No Income,Employed Part-time
+12,2,25-29 yrs old,Female,No Income,Full time student
+12,5,45-49 yrs old,Female,$2500-$2999,Full time student
+12,6,25-29 yrs old,Female,No Income,Full time student
+12,4,35-39 yrs old,Female,No Income,Others
+12,3,4-9 yrs old,Female,No Income,Employed Full-time
+12,3,20-24 yrs old,Male,No Income,Employed Full-time
+12,5,35-39 yrs old,Male,$3000-$3999,Employed Full-time
+12,2,10-14 yrs old,Male,No Income,Employed Full-time
+12,3,10-14 yrs old,Female,$2000-$2499,Employed Full-time
+12,2,15-19 yrs old,Female,$1500-$1999,Full time student
+12,1,45-49 yrs old,Male,$2000-$2499,Full time student
+12,2,35-39 yrs old,Female,$1500-$1999,Employed Full-time
+12,3,15-19 yrs old,Male,No Income,Employed Part-time
+12,5,45-49 yrs old,Male,No Income,Employed Full-time
+12,3,10-14 yrs old,Female,No Income,Full time student
+12,1,40-44 yrs old,Female,$1-$1000,Retired
+12,3,40-44 yrs old,Female,$1500-$1999,Full time student
+12,3,55-59 yrs old,Male,$3000-$3999,Homemaker
+12,1,45-49 yrs old,Male,No Income,Full time student
+12,1,15-19 yrs old,Female,$4000-$4999,Employed Full-time
+12,1,30-34 yrs old,Male,$1-$1000,Employed Full-time
+12,3,45-49 yrs old,Female,$2000-$2499,Employed Full-time
+12,4,55-59 yrs old,Female,$1500-$1999,Homemaker
+12,3,4-9 yrs old,Male,No Income,Employed Full-time
+12,4,35-39 yrs old,Male,$2000-$2499,Employed Full-time
+12,3,4-9 yrs old,Male,$5000-$5999,Self-employed
+12,3,20-24 yrs old,Male,No Income,Full time student
+12,2,40-44 yrs old,Female,$1-$1000,Homemaker
+12,6,20-24 yrs old,Male,Refused,Employed Full-time
+12,1,10-14 yrs old,Male,$1-$1000,Full time student
+12,3,20-24 yrs old,Female,$1500-$1999,Employed Full-time
+12,5,25-29 yrs old,Male,No Income,Employed Full-time
+12,4,4-9 yrs old,Male,$3000-$3999,Retired
+12,5,35-39 yrs old,Male,No Income,Full time student
+12,2,60-64 yrs old,Female,No Income,Employed Full-time
+12,2,40-44 yrs old,Male,No Income,Employed Full-time
+11,2,10-14 yrs old,Male,No Income,Domestic worker
+11,2,55-59 yrs old,Female,$6000-$6999,Employed Full-time
+11,4,40-44 yrs old,Male,$3000-$3999,Employed Full-time
+11,3,10-14 yrs old,Male,No Income,Homemaker
+11,1,60-64 yrs old,Female,Refused,Employed Full-time
+11,5,40-44 yrs old,Female,$2000-$2499,Employed Full-time
+11,1,35-39 yrs old,Female,No Income,Self-employed
+11,2,10-14 yrs old,Male,No Income,Full time student
+11,2,45-49 yrs old,Male,Refused,Employed Part-time
+11,1,20-24 yrs old,Male,$1001-$1499,Employed Full-time
+11,5,30-34 yrs old,Male,$1001-$1499,Full time student
+11,4,15-19 yrs old,Female,$1-$1000,Employed Full-time
+11,1,50-54 yrs old,Male,$2500-$2999,Self-employed
+11,5,40-44 yrs old,Female,$1-$1000,Homemaker
+11,3,4-9 yrs old,Female,No Income,Employed Full-time
+11,1,25-29 yrs old,Male,No Income,Employed Full-time
+11,4,55-59 yrs old,Male,$2500-$2999,Self-employed
+11,1,30-34 yrs old,Male,No Income,Employed Full-time
+11,2,40-44 yrs old,Male,No Income,Full time student
+11,2,25-29 yrs old,Male,$1-$1000,Employed Full-time
+11,1,50-54 yrs old,Male,No Income,Employed Full-time
+11,3,20-24 yrs old,Female,$8000 and above,Employed Full-time
+11,2,4-9 yrs old,Male,$4000-$4999,Employed Full-time
+11,1,70-74 yrs old,Female,Refused,Homemaker
+11,1,4-9 yrs old,Male,No Income,Full time student
+11,1,25-29 yrs old,Female,$1001-$1499,Full time student
+11,3,10-14 yrs old,Female,$1500-$1999,Homemaker
+11,4,60-64 yrs old,Male,$1001-$1499,Employed Full-time
+11,4,35-39 yrs old,Female,No Income,Homemaker
+11,4,30-34 yrs old,Female,$3000-$3999,Full time student
+11,5,30-34 yrs old,Male,No Income,Employed Full-time
+11,1,4-9 yrs old,Female,$4000-$4999,Employed Part-time
+11,1,20-24 yrs old,Female,$1001-$1499,Employed Full-time
+11,1,45-49 yrs old,Female,No Income,Employed Full-time
+11,5,45-49 yrs old,Male,No Income,Employed Full-time
+11,5,60-64 yrs old,Male,$2500-$2999,Employed Full-time
+11,3,60-64 yrs old,Female,Refused,Full time student
+11,6,35-39 yrs old,Male,$2500-$2999,Full time student
+11,3,60-64 yrs old,Female,$2500-$2999,Retired
+11,2,20-24 yrs old,Female,No Income,Homemaker
+11,2,10-14 yrs old,Female,$1001-$1499,Employed Full-time
+11,3,30-34 yrs old,Male,$7000-$7999,Employed Full-time
+11,3,4-9 yrs old,Female,$2500-$2999,Employed Full-time
+11,2,40-44 yrs old,Female,No Income,Employed Full-time
+11,2,20-24 yrs old,Male,$1500-$1999,Employed Full-time
+11,3,60-64 yrs old,Male,No Income,Homemaker
+11,2,50-54 yrs old,Female,$4000-$4999,Non schooling child
+11,1,4-9 yrs old,Female,$2500-$2999,Full time student
+11,2,25-29 yrs old,Female,$2000-$2499,Employed Full-time
+11,4,55-59 yrs old,Male,$5000-$5999,Employed Full-time
+11,5,30-34 yrs old,Male,$1-$1000,Homemaker
+11,1,40-44 yrs old,Female,No Income,Employed Full-time
+11,4,15-19 yrs old,Female,$1-$1000,Employed Full-time
+11,4,45-49 yrs old,Female,$4000-$4999,Employed Full-time
+11,3,15-19 yrs old,Female,$8000 and above,Full time student
+11,1,50-54 yrs old,Male,$3000-$3999,Employed Full-time
+11,3,25-29 yrs old,Female,$1001-$1499,Employed Full-time
+11,1,4-9 yrs old,Male,$1500-$1999,Homemaker
+11,6,40-44 yrs old,Female,No Income,Employed Full-time
+11,4,40-44 yrs old,Male,$2000-$2499,Employed Full-time
+11,4,10-14 yrs old,Female,$3000-$3999,Full time student
+11,3,55-59 yrs old,Female,No Income,Employed Full-time
+11,3,45-49 yrs old,Female,Refused,Domestic worker
+11,2,15-19 yrs old,Male,$1001-$1499,Full time student
+11,4,75-79 yrs old,Female,No Income,Employed Full-time
+10,5,50-54 yrs old,Male,No Income,Employed Full-time
+10,2,20-24 yrs old,Female,$2500-$2999,Employed Full-time
+10,2,40-44 yrs old,Female,No Income,Full time student
+10,3,10-14 yrs old,Female,$3000-$3999,Employed Full-time
+10,4,45-49 yrs old,Female,$2000-$2499,Employed Full-time
+10,3,35-39 yrs old,Male,$3000-$3999,Employed Full-time
+10,3,35-39 yrs old,Female,$3000-$3999,Domestic worker
+10,1,25-29 yrs old,Male,$1001-$1499,Employed Full-time
+10,3,4-9 yrs old,Female,No Income,Full time student
+10,2,25-29 yrs old,Female,No Income,Employed Full-time
+10,4,40-44 yrs old,Male,No Income,Employed Full-time
+10,1,45-49 yrs old,Female,Refused,Employed Full-time
+10,2,10-14 yrs old,Male,$2500-$2999,Unemployed
+10,4,60-64 yrs old,Female,$5000-$5999,Employed Full-time
+10,1,4-9 yrs old,Female,Refused,Employed Full-time
+10,1,15-19 yrs old,Male,No Income,Full time student
+10,2,35-39 yrs old,Female,$5000-$5999,Homemaker
+10,3,35-39 yrs old,Female,$1001-$1499,Employed Full-time
+10,1,10-14 yrs old,Female,$1500-$1999,Self-employed
+10,5,40-44 yrs old,Female,$1500-$1999,Full time student
+10,1,15-19 yrs old,Male,$3000-$3999,Full time student
+10,2,10-14 yrs old,Female,$4000-$4999,Employed Full-time
+10,2,60-64 yrs old,Male,$1500-$1999,Employed Full-time
+10,1,15-19 yrs old,Female,$2000-$2499,Domestic worker
+10,3,45-49 yrs old,Female,No Income,Employed Full-time
+10,4,55-59 yrs old,Male,$2000-$2499,Full time student
+10,1,45-49 yrs old,Male,$1500-$1999,Full time student
+10,2,10-14 yrs old,Male,No Income,Employed Full-time
+10,5,15-19 yrs old,Male,$1500-$1999,Homemaker
+10,1,60-64 yrs old,Female,$1-$1000,Employed Full-time
+10,5,4-9 yrs old,Male,Refused,Employed Full-time
+10,1,25-29 yrs old,Female,No Income,Unemployed
+10,4,20-24 yrs old,Male,$1500-$1999,Full time student
+10,2,10-14 yrs old,Male,$1-$1000,Employed Full-time
+10,1,55-59 yrs old,Male,$1001-$1499,Full time student
+10,4,55-59 yrs old,Female,No Income,Full time student
+10,1,15-19 yrs old,Male,No Income,Homemaker
+10,2,55-59 yrs old,Male,$2500-$2999,Self-employed
+10,4,35-39 yrs old,Female,$1500-$1999,Full time student
+10,1,40-44 yrs old,Male,No Income,Employed Full-time
+10,3,4-9 yrs old,Male,$2500-$2999,Employed Full-time
+10,1,40-44 yrs old,Male,$1001-$1499,Employed Full-time
+10,1,55-59 yrs old,Male,No Income,Unemployed
+10,3,4-9 yrs old,Female,No Income,Employed Full-time
+10,2,10-14 yrs old,Female,No Income,Employed Part-time
+10,2,15-19 yrs old,Female,$8000 and above,Employed Full-time
+10,3,60-64 yrs old,Male,No Income,Domestic worker
+10,2,50-54 yrs old,Male,$3000-$3999,Employed Full-time
+10,3,4-9 yrs old,Female,$1500-$1999,Full time student
+10,2,50-54 yrs old,Female,$8000 and above,Employed Full-time
+10,1,15-19 yrs old,Male,No Income,Employed Full-time
+10,4,35-39 yrs old,Male,$2000-$2499,Retired
+10,1,15-19 yrs old,Male,$3000-$3999,Employed Full-time
+10,1,10-14 yrs old,Female,No Income,Employed Full-time
+10,1,25-29 yrs old,Male,No Income,Full time student
+10,4,55-59 yrs old,Female,No Income,Full time student
+10,2,20-24 yrs old,Male,Refused,Employed Full-time
+10,2,30-34 yrs old,Female,$8000 and above,Employed Full-time
+10,5,25-29 yrs old,Male,$1001-$1499,Others
+10,2,10-14 yrs old,Female,$1-$1000,Full time student
+10,2,40-44 yrs old,Female,$3000-$3999,Homemaker
+10,2,25-29 yrs old,Female,Refused,Employed Full-time
+10,3,50-54 yrs old,Male,No Income,Homemaker
+10,1,45-49 yrs old,Male,$2000-$2499,Full time student
+10,3,55-59 yrs old,Male,$2000-$2499,Self-employed
+10,2,40-44 yrs old,Female,No Income,Employed Part-time
+10,3,15-19 yrs old,Male,Refused,Full time student
+10,2,55-59 yrs old,Male,No Income,Homemaker
+10,3,35-39 yrs old,Female,$5000-$5999,Homemaker
+10,3,30-34 yrs old,Female,No Income,Full time student
+10,4,50-54 yrs old,Male,No Income,Full time student
+10,2,40-44 yrs old,Male,No Income,Employed Full-time
+10,3,35-39 yrs old,Male,$1-$1000,Employed Full-time
+10,1,65-69 yrs old,Female,$1-$1000,Full time student
+9,4,40-44 yrs old,Male,Refused,Full time student
+9,2,55-59 yrs old,Male,$1500-$1999,Employed Full-time
+9,1,40-44 yrs old,Male,$8000 and above,Employed Full-time
+9,1,35-39 yrs old,Male,$1500-$1999,Full time student
+9,1,50-54 yrs old,Male,No Income,Employed Full-time
+9,2,35-39 yrs old,Female,Refused,Employed Full-time
+9,4,45-49 yrs old,Male,$5000-$5999,Homemaker
+9,1,25-29 yrs old,Male,$5000-$5999,Employed Full-time
+9,3,40-44 yrs old,Female,No Income,Homemaker
+9,3,10-14 yrs old,Female,$2500-$2999,Employed Full-time
+9,3,15-19 yrs old,Male,$3000-$3999,Homemaker
+9,1,35-39 yrs old,Female,$4000-$4999,Homemaker
+9,2,55-59 yrs old,Male,$1001-$1499,Employed Full-time
+9,3,25-29 yrs old,Female,No Income,Retired
+9,2,30-34 yrs old,Female,$2000-$2499,Employed Full-time
+9,2,40-44 yrs old,Female,No Income,Domestic worker
+9,1,30-34 yrs old,Female,$1500-$1999,Employed Full-time
+9,5,20-24 yrs old,Female,Refused,Employed Full-time
+9,4,30-34 yrs old,Male,$8000 and above,Full time student
+9,2,20-24 yrs old,Male,$1-$1000,Employed Full-time
+9,2,55-59 yrs old,Male,$8000 and above,Unemployed
+9,4,25-29 yrs old,Female,$3000-$3999,Full time student
+9,1,25-29 yrs old,Male,Refused,Employed Full-time
+9,3,25-29 yrs old,Male,No Income,Employed Full-time
+9,1,55-59 yrs old,Female,Refused,Employed Full-time
+9,1,20-24 yrs old,Male,$5000-$5999,Employed Full-time
+9,2,20-24 yrs old,Male,$4000-$4999,Employed Full-time
+9,3,50-54 yrs old,Female,No Income,Employed Full-time
+9,3,35-39 yrs old,Female,No Income,Full time student
+9,2,10-14 yrs old,Male,No Income,Employed Full-time
+9,2,35-39 yrs old,Female,No Income,Employed Full-time
+9,2,40-44 yrs old,Female,$8000 and above,Full time student
+9,4,10-14 yrs old,Female,$1500-$1999,Homemaker
+9,4,50-54 yrs old,Male,No Income,Employed Full-time
+9,1,55-59 yrs old,Male,$4000-$4999,Full time student
+9,3,50-54 yrs old,Male,No Income,Full time student
+9,1,4-9 yrs old,Female,Refused,Self-employed
+9,3,30-34 yrs old,Male,No Income,Homemaker
+9,4,15-19 yrs old,Male,No Income,Employed Full-time
+9,2,55-59 yrs old,Male,No Income,Employed Full-time
+9,2,45-49 yrs old,Male,No Income,Employed Full-time
+9,5,40-44 yrs old,Male,$1500-$1999,Employed Full-time
+9,1,60-64 yrs old,Male,$4000-$4999,Employed Full-time
+9,3,55-59 yrs old,Female,No Income,Domestic worker
+9,3,4-9 yrs old,Female,$4000-$4999,Employed Full-time
+9,1,10-14 yrs old,Female,$1-$1000,Employed Full-time
+9,1,35-39 yrs old,Male,No Income,Employed Full-time
+9,1,15-19 yrs old,Female,No Income,Full time student
+9,3,40-44 yrs old,Female,$2000-$2499,Unemployed
+9,5,10-14 yrs old,Female,No Income,Full time student
+9,4,10-14 yrs old,Female,No Income,Employed Part-time
+9,2,35-39 yrs old,Male,No Income,Employed Full-time
+9,1,55-59 yrs old,Female,$1500-$1999,Employed Full-time
+9,1,35-39 yrs old,Male,$2000-$2499,Employed Full-time
+9,2,25-29 yrs old,Female,$1500-$1999,Self-employed
+9,2,10-14 yrs old,Male,No Income,Full time student
+9,4,55-59 yrs old,Female,No Income,Employed Full-time
+9,2,10-14 yrs old,Male,No Income,Homemaker
+9,3,25-29 yrs old,Male,$4000-$4999,Full time student
+9,1,40-44 yrs old,Female,No Income,Employed Full-time
+9,3,4-9 yrs old,Male,$4000-$4999,Self-employed
+9,3,15-19 yrs old,Male,$2000-$2499,Unemployed
+9,1,50-54 yrs old,Male,$8000 and above,National service
+9,1,45-49 yrs old,Male,$2500-$2999,Homemaker
+9,4,20-24 yrs old,Female,No Income,Full time student
+9,1,55-59 yrs old,Female,No Income,Employed Full-time
+9,1,4-9 yrs old,Female,$2000-$2499,Employed Full-time
+9,1,80-84 yrs old,Female,$5000-$5999,Employed Full-time
+9,3,35-39 yrs old,Female,No Income,Employed Part-time
+9,1,4-9 yrs old,Male,$5000-$5999,Employed Full-time
+9,3,35-39 yrs old,Female,$4000-$4999,Employed Full-time
+9,1,30-34 yrs old,Male,No Income,Employed Full-time
+9,1,30-34 yrs old,Female,$1500-$1999,Full time student
+8,1,55-59 yrs old,Female,$1-$1000,Employed Full-time
+8,1,25-29 yrs old,Female,$3000-$3999,Employed Full-time
+8,1,45-49 yrs old,Female,No Income,Employed Part-time
+8,2,60-64 yrs old,Male,$1500-$1999,Employed Full-time
+8,3,25-29 yrs old,Male,No Income,Employed Full-time
+8,3,45-49 yrs old,Female,$2000-$2499,Full time student
+8,2,25-29 yrs old,Female,$5000-$5999,Employed Full-time
+8,4,35-39 yrs old,Female,$1500-$1999,Employed Full-time
+8,3,35-39 yrs old,Female,$1-$1000,Employed Full-time
+8,1,15-19 yrs old,Female,No Income,Homemaker
+8,1,40-44 yrs old,Female,$8000 and above,Homemaker
+8,2,4-9 yrs old,Female,$1-$1000,Homemaker
+8,2,45-49 yrs old,Male,$6000-$6999,Employed Full-time
+8,2,55-59 yrs old,Female,Refused,Full time student
+8,1,45-49 yrs old,Male,No Income,Employed Full-time
+8,4,50-54 yrs old,Male,$1500-$1999,Full time student
+8,1,30-34 yrs old,Male,$2500-$2999,Self-employed
+8,2,50-54 yrs old,Female,No Income,Full time student
+8,1,30-34 yrs old,Male,$4000-$4999,Employed Full-time
+8,1,35-39 yrs old,Male,No Income,Employed Full-time
+8,3,30-34 yrs old,Female,No Income,Employed Full-time
+8,3,40-44 yrs old,Male,No Income,Employed Full-time
+8,3,50-54 yrs old,Male,$1-$1000,Employed Full-time
+8,2,50-54 yrs old,Female,No Income,Full time student
+8,2,40-44 yrs old,Male,$4000-$4999,Homemaker
+8,1,55-59 yrs old,Male,$5000-$5999,Employed Full-time
+8,2,15-19 yrs old,Female,$2000-$2499,Employed Full-time
+8,4,45-49 yrs old,Female,$3000-$3999,Employed Full-time
+8,4,15-19 yrs old,Male,$3000-$3999,Full time student
+8,2,35-39 yrs old,Male,$1-$1000,Employed Part-time
+8,3,25-29 yrs old,Male,$1500-$1999,Employed Full-time
+8,2,75-79 yrs old,Male,$1500-$1999,Employed Full-time
+8,4,35-39 yrs old,Male,$2500-$2999,Retired
+8,3,25-29 yrs old,Female,No Income,Others
+8,2,65-69 yrs old,Male,No Income,Full time student
+8,6,55-59 yrs old,Female,No Income,Employed Full-time
+8,1,30-34 yrs old,Male,$4000-$4999,Homemaker
+8,2,25-29 yrs old,Male,No Income,Employed Full-time
+8,2,35-39 yrs old,Female,No Income,Employed Full-time
+8,3,10-14 yrs old,Male,$4000-$4999,Employed Full-time
+8,4,15-19 yrs old,Female,No Income,Others
+8,2,50-54 yrs old,Male,$2000-$2499,Employed Full-time
+8,3,35-39 yrs old,Male,$8000 and above,Full time student
+8,1,30-34 yrs old,Female,No Income,Employed Full-time
+8,4,50-54 yrs old,Female,$1-$1000,Full time student
+8,1,50-54 yrs old,Male,$3000-$3999,Employed Full-time
+8,1,50-54 yrs old,Female,$2500-$2999,Employed Full-time
+8,3,30-34 yrs old,Female,$3000-$3999,Employed Full-time
+8,3,50-54 yrs old,Male,$4000-$4999,Homemaker
+8,1,20-24 yrs old,Male,$5000-$5999,Employed Full-time
+8,5,50-54 yrs old,Male,$3000-$3999,Employed Full-time
+8,2,20-24 yrs old,Male,$4000-$4999,Full time student
+8,4,35-39 yrs old,Female,$2000-$2499,Employed Full-time
+8,2,45-49 yrs old,Female,No Income,Employed Full-time
+8,4,4-9 yrs old,Male,No Income,Employed Full-time
+8,1,40-44 yrs old,Female,$1500-$1999,Homemaker
+8,1,10-14 yrs old,Female,No Income,Full time student
+8,4,55-59 yrs old,Female,No Income,Retired
+8,2,30-34 yrs old,Male,$2000-$2499,Employed Full-time
+8,4,40-44 yrs old,Male,$3000-$3999,Employed Full-time
+8,1,30-34 yrs old,Male,$1500-$1999,Employed Full-time
+8,1,50-54 yrs old,Male,$2500-$2999,Employed Full-time
+8,2,15-19 yrs old,Male,No Income,Employed Full-time
+8,2,4-9 yrs old,Female,No Income,Employed Full-time
+8,1,30-34 yrs old,Female,$2000-$2499,Full time student
+8,1,60-64 yrs old,Male,No Income,Employed Full-time
+8,4,55-59 yrs old,Female,$1500-$1999,Employed Full-time
+8,1,60-64 yrs old,Female,Refused,Employed Full-time
+8,2,25-29 yrs old,Male,$2500-$2999,Employed Full-time
+8,2,45-49 yrs old,Female,$1500-$1999,Employed Full-time
+8,1,55-59 yrs old,Female,Refused,Employed Full-time
+8,1,10-14 yrs old,Male,$3000-$3999,Full time student
+8,1,40-44 yrs old,Male,No Income,Employed Full-time
+8,2,15-19 yrs old,Male,Refused,Domestic worker
+8,3,25-29 yrs old,Female,$1500-$1999,Employed Full-time
+8,3,15-19 yrs old,Female,$2500-$2999,Retired
+8,3,25-29 yrs old,Female,No Income,Full time student
+8,6,45-49 yrs old,Female,$8000 and above,Others
+8,1,35-39 yrs old,Male,Refused,Retired
+8,2,40-44 yrs old,Female,No Income,Employed Full-time
+8,1,40-44 yrs old,Female,$1500-$1999,Employed Full-time
+8,3,30-34 yrs old,Female,$3000-$3999,Homemaker
+8,3,15-19 yrs old,Male,No Income,Full time student
+8,1,55-59 yrs old,Male,No Income,Employed Full-time
+8,2,25-29 yrs old,Male,$4000-$4999,Employed Full-time
+8,4,10-14 yrs old,Male,Refused,Employed Full-time
+8,4,10-14 yrs old,Male,No Income,Employed Full-time
+8,2,4-9 yrs old,Male,$3000-$3999,Employed Full-time
+8,5,30-34 yrs old,Male,$3000-$3999,Domestic worker
+8,3,80-84 yrs old,Male,$4000-$4999,Employed Full-time
+8,2,60-64 yrs old,Female,$3000-$3999,Homemaker
+8,4,55-59 yrs old,Female,$1500-$1999,Homemaker
+8,2,15-19 yrs old,Male,No Income,Employed Full-time
+8,1,30-34 yrs old,Male,No Income,Employed Full-time
+8,2,25-29 yrs old,Female,No Income,Employed Full-time
+8,3,10-14 yrs old,Female,$5000-$5999,Homemaker
+8,2,35-39 yrs old,Male,$2000-$2499,Full time student
+8,2,75-79 yrs old,Male,$1-$1000,Employed Full-time
+8,5,80-84 yrs old,Male,$3000-$3999,Homemaker
+8,1,4-9 yrs old,Female,No Income,Self-employed
+8,1,30-34 yrs old,Male,$4000-$4999,Employed Full-time
+8,3,10-14 yrs old,Female,$1-$1000,Employed Full-time
+7,3,35-39 yrs old,Female,$2000-$2499,Employed Full-time
+7,1,50-54 yrs old,Female,Refused,Homemaker
+7,2,65-69 yrs old,Male,No Income,Employed Part-time
+7,1,30-34 yrs old,Male,$4000-$4999,Full time student
+7,2,50-54 yrs old,Female,$1500-$1999,Homemaker
+7,4,10-14 yrs old,Female,$2500-$2999,Homemaker
+7,2,50-54 yrs old,Female,$5000-$5999,Employed Full-time
+7,3,30-34 yrs old,Female,No Income,Self-employed
+7,3,55-59 yrs old,Female,$4000-$4999,Full time student
+7,1,25-29 yrs old,Female,$2500-$2999,Unemployed
+7,1,65-69 yrs old,Female,No Income,Self-employed
+7,4,65-69 yrs old,Female,Refused,Self-employed
+7,3,35-39 yrs old,Male,$1-$1000,Employed Part-time
+7,3,10-14 yrs old,Male,No Income,Employed Full-time
+7,1,55-59 yrs old,Female,$1-$1000,Employed Full-time
+7,2,20-24 yrs old,Male,No Income,Self-employed
+7,1,50-54 yrs old,Male,No Income,Full time student
+7,2,30-34 yrs old,Female,Refused,Homemaker
+7,1,35-39 yrs old,Female,$1-$1000,Homemaker
+7,1,45-49 yrs old,Male,$1-$1000,Full time student
+7,3,4-9 yrs old,Female,No Income,Self-employed
+7,2,15-19 yrs old,Male,No Income,Employed Full-time
+7,4,35-39 yrs old,Male,$2500-$2999,Self-employed
+7,4,50-54 yrs old,Male,$1500-$1999,Employed Full-time
+7,2,30-34 yrs old,Female,No Income,Employed Full-time
+7,2,50-54 yrs old,Female,$4000-$4999,Unemployed
+7,4,55-59 yrs old,Female,No Income,Full time student
+7,1,50-54 yrs old,Male,No Income,Employed Full-time
+7,3,55-59 yrs old,Male,No Income,Domestic worker
+7,1,40-44 yrs old,Female,$4000-$4999,Full time student
+7,3,40-44 yrs old,Male,Refused,Employed Full-time
+7,2,10-14 yrs old,Male,$5000-$5999,Full time student
+7,3,55-59 yrs old,Male,Refused,Full time student
+7,1,30-34 yrs old,Male,$1500-$1999,Homemaker
+7,3,20-24 yrs old,Male,No Income,Full time student
+7,2,30-34 yrs old,Male,$2500-$2999,Full time student
+7,2,15-19 yrs old,Female,No Income,Employed Full-time
+7,3,60-64 yrs old,Male,$1-$1000,Full time student
+7,5,50-54 yrs old,Male,No Income,Employed Full-time
+7,2,35-39 yrs old,Female,No Income,Employed Full-time
+7,2,65-69 yrs old,Male,No Income,Employed Full-time
+7,2,20-24 yrs old,Male,$2000-$2499,Employed Full-time
+7,2,25-29 yrs old,Male,No Income,Employed Full-time
+7,1,35-39 yrs old,Female,$3000-$3999,Domestic worker
+7,3,20-24 yrs old,Male,$1001-$1499,Self-employed
+7,3,20-24 yrs old,Female,$1500-$1999,Homemaker
+7,2,15-19 yrs old,Female,Refused,Retired
+7,2,35-39 yrs old,Female,$1500-$1999,Employed Full-time
+7,2,30-34 yrs old,Male,No Income,Full time student
+7,2,15-19 yrs old,Male,No Income,Domestic worker
+7,4,15-19 yrs old,Female,$4000-$4999,Employed Full-time
+7,5,30-34 yrs old,Female,No Income,Employed Full-time
+7,1,30-34 yrs old,Male,No Income,Employed Full-time
+7,3,30-34 yrs old,Female,$2500-$2999,Full time student
+7,4,40-44 yrs old,Male,$1-$1000,Employed Full-time
+7,1,35-39 yrs old,Female,$4000-$4999,Self-employed
+7,5,35-39 yrs old,Female,$1500-$1999,Employed Full-time
+7,3,60-64 yrs old,Female,Refused,Full time student
+7,2,25-29 yrs old,Female,$1001-$1499,Employed Full-time
+7,3,10-14 yrs old,Female,No Income,Employed Full-time
+7,1,4-9 yrs old,Female,$1-$1000,Full time student
+7,1,10-14 yrs old,Female,$1-$1000,Employed Full-time
+7,3,25-29 yrs old,Female,No Income,Self-employed
+7,2,50-54 yrs old,Male,$5000-$5999,Homemaker
+7,3,30-34 yrs old,Male,Refused,Full time student
+7,1,10-14 yrs old,Female,No Income,Full time student
+7,1,15-19 yrs old,Male,Refused,Self-employed
+7,1,45-49 yrs old,Female,$1001-$1499,Employed Full-time
+7,1,40-44 yrs old,Male,$2500-$2999,Employed Full-time
+7,2,65-69 yrs old,Female,No Income,Retired
+7,3,25-29 yrs old,Female,$4000-$4999,Employed Full-time
+7,1,20-24 yrs old,Female,$1500-$1999,Employed Full-time
+7,1,50-54 yrs old,Female,Refused,Employed Full-time
+7,2,50-54 yrs old,Female,No Income,Full time student
+7,2,55-59 yrs old,Male,$1500-$1999,Retired
+7,5,10-14 yrs old,Female,No Income,Employed Full-time
+7,5,40-44 yrs old,Female,$2500-$2999,Full time student
+7,1,10-14 yrs old,Male,Refused,Employed Full-time
+7,1,85 yrs & above,Female,$2000-$2499,Employed Full-time
+7,1,35-39 yrs old,Female,$3000-$3999,Self-employed
+7,3,10-14 yrs old,Male,No Income,Self-employed
+7,1,50-54 yrs old,Female,$1500-$1999,Retired
+7,2,15-19 yrs old,Female,Refused,Employed Full-time
+7,2,75-79 yrs old,Female,No Income,Self-employed
+7,1,50-54 yrs old,Female,No Income,Employed Full-time
+7,2,20-24 yrs old,Male,Refused,Employed Full-time
+7,2,15-19 yrs old,Male,No Income,Self-employed
+7,3,20-24 yrs old,Female,Refused,Self-employed
+7,1,45-49 yrs old,Male,Refused,Full time student
+7,3,30-34 yrs old,Female,$1500-$1999,Full time student
+7,1,25-29 yrs old,Female,No Income,Employed Full-time
+7,2,30-34 yrs old,Female,Refused,Employed Full-time
+6,1,30-34 yrs old,Female,No Income,Unemployed
+6,4,15-19 yrs old,Female,Refused,Employed Full-time
+6,3,55-59 yrs old,Female,No Income,Homemaker
+6,2,30-34 yrs old,Female,$1001-$1499,Employed Full-time
+6,4,15-19 yrs old,Female,$1001-$1499,Homemaker
+6,1,20-24 yrs old,Female,No Income,Full time student
+6,1,40-44 yrs old,Female,No Income,Employed Full-time
+6,1,50-54 yrs old,Male,$3000-$3999,Employed Full-time
+6,2,25-29 yrs old,Female,No Income,Full time student
+6,1,25-29 yrs old,Female,No Income,Domestic worker
+6,2,50-54 yrs old,Female,$3000-$3999,Full time student
+6,2,60-64 yrs old,Female,Refused,Homemaker
+6,2,30-34 yrs old,Female,$1500-$1999,Full time student
+6,3,30-34 yrs old,Male,$2000-$2499,Full time student
+6,2,35-39 yrs old,Male,$1001-$1499,Full time student
+6,4,70-74 yrs old,Male,$1001-$1499,Employed Full-time
+6,3,65-69 yrs old,Female,Refused,Full time student
+6,3,15-19 yrs old,Female,$1001-$1499,Employed Full-time
+6,4,45-49 yrs old,Male,No Income,Full time student
+6,4,50-54 yrs old,Female,No Income,Full time student
+6,1,60-64 yrs old,Male,$2000-$2499,Domestic worker
+6,3,30-34 yrs old,Male,$6000-$6999,Employed Full-time
+6,1,4-9 yrs old,Male,No Income,Full time student
+6,1,15-19 yrs old,Male,No Income,Employed Full-time
+6,4,10-14 yrs old,Male,No Income,Employed Full-time
+6,2,30-34 yrs old,Male,$3000-$3999,Homemaker
+6,3,35-39 yrs old,Male,$1-$1000,Homemaker
+6,4,50-54 yrs old,Female,No Income,Homemaker
+6,3,30-34 yrs old,Male,No Income,Employed Full-time
+6,3,4-9 yrs old,Female,$1001-$1499,Full time student
+6,1,55-59 yrs old,Male,No Income,Employed Full-time
+6,3,50-54 yrs old,Male,$8000 and above,Retired
+6,2,35-39 yrs old,Male,$2000-$2499,Homemaker
+6,1,40-44 yrs old,Female,$2500-$2999,Employed Full-time
+6,1,60-64 yrs old,Female,Refused,Full time student
+6,3,10-14 yrs old,Female,$8000 and above,Employed Full-time
+6,4,10-14 yrs old,Female,No Income,Full time student
+6,1,10-14 yrs old,Female,$6000-$6999,Employed Full-time
+6,3,40-44 yrs old,Female,$2000-$2499,Employed Full-time
+6,2,15-19 yrs old,Female,Refused,Full time student
+6,1,30-34 yrs old,Male,$3000-$3999,Full time student
+6,3,45-49 yrs old,Male,$2500-$2999,Employed Full-time
+6,2,40-44 yrs old,Female,$3000-$3999,Full time student
+6,3,60-64 yrs old,Male,No Income,Employed Full-time
+6,3,30-34 yrs old,Female,Refused,Employed Full-time
+6,1,45-49 yrs old,Female,No Income,Employed Full-time
+6,1,35-39 yrs old,Male,No Income,Retired
+6,1,15-19 yrs old,Male,No Income,Employed Full-time
+6,3,30-34 yrs old,Female,$5000-$5999,Unemployed
+6,2,80-84 yrs old,Female,No Income,Employed Full-time
+6,3,35-39 yrs old,Male,$1500-$1999,Employed Full-time
+6,4,55-59 yrs old,Female,$4000-$4999,Employed Full-time
+6,3,30-34 yrs old,Male,No Income,Employed Full-time
+6,1,50-54 yrs old,Male,No Income,Employed Full-time
+6,4,30-34 yrs old,Male,$3000-$3999,Full time student
+6,1,40-44 yrs old,Male,No Income,Employed Full-time
+6,1,4-9 yrs old,Male,$3000-$3999,Homemaker
+6,4,35-39 yrs old,Male,$1001-$1499,Employed Full-time
+6,2,35-39 yrs old,Male,No Income,Full time student
+6,1,65-69 yrs old,Male,No Income,Employed Full-time
+6,2,50-54 yrs old,Male,$2000-$2499,Retired
+6,2,35-39 yrs old,Male,Refused,Self-employed
+6,1,60-64 yrs old,Male,$6000-$6999,Employed Full-time
+6,3,30-34 yrs old,Male,No Income,Employed Full-time
+6,3,45-49 yrs old,Female,$1001-$1499,Employed Full-time
+6,1,30-34 yrs old,Male,Refused,Domestic worker
+6,1,30-34 yrs old,Female,No Income,Homemaker
+6,1,20-24 yrs old,Female,No Income,Employed Full-time
+6,4,20-24 yrs old,Male,Refused,Employed Full-time
+6,1,15-19 yrs old,Male,No Income,Full time student
+6,4,20-24 yrs old,Female,No Income,Full time student
+6,1,50-54 yrs old,Female,$1001-$1499,Employed Full-time
+6,3,40-44 yrs old,Male,$2500-$2999,Employed Full-time
+6,1,60-64 yrs old,Female,No Income,Homemaker
+6,3,45-49 yrs old,Female,No Income,Employed Part-time
+6,4,45-49 yrs old,Female,No Income,Employed Full-time
+6,1,40-44 yrs old,Female,Refused,Employed Full-time
+6,4,4-9 yrs old,Male,$5000-$5999,Employed Full-time
+6,1,30-34 yrs old,Female,$2000-$2499,Employed Full-time
+6,3,55-59 yrs old,Male,$6000-$6999,Employed Full-time
+6,1,35-39 yrs old,Female,No Income,Employed Full-time
+6,2,40-44 yrs old,Male,$1500-$1999,Employed Full-time
+6,2,25-29 yrs old,Male,Refused,Employed Full-time
+6,3,30-34 yrs old,Female,$5000-$5999,Employed Full-time
+6,2,20-24 yrs old,Female,$3000-$3999,Full time student
+6,4,60-64 yrs old,Female,$1001-$1499,Employed Full-time
+6,2,35-39 yrs old,Male,No Income,Employed Full-time
+6,3,15-19 yrs old,Male,$6000-$6999,Employed Full-time
+6,1,20-24 yrs old,Female,$1-$1000,Full time student
+6,2,35-39 yrs old,Male,No Income,Employed Full-time
+6,2,35-39 yrs old,Female,No Income,Employed Full-time
+5,1,30-34 yrs old,Male,No Income,Unemployed
+5,2,25-29 yrs old,Male,$2000-$2499,Employed Full-time
+5,3,70-74 yrs old,Male,$2500-$2999,Employed Full-time
+5,1,40-44 yrs old,Male,$1500-$1999,Homemaker
+5,1,25-29 yrs old,Female,No Income,Employed Full-time
+5,3,65-69 yrs old,Male,$1001-$1499,Employed Full-time
+5,2,65-69 yrs old,Female,No Income,Employed Full-time
+5,2,40-44 yrs old,Male,No Income,Employed Full-time
+5,3,25-29 yrs old,Female,No Income,Employed Full-time
+5,2,45-49 yrs old,Female,No Income,Employed Part-time
+5,3,20-24 yrs old,Male,No Income,Full time student
+5,3,65-69 yrs old,Male,$1500-$1999,Employed Full-time
+5,3,60-64 yrs old,Male,$1001-$1499,Employed Full-time
+5,2,35-39 yrs old,Male,No Income,Homemaker
+5,2,40-44 yrs old,Male,No Income,Homemaker
+5,2,30-34 yrs old,Male,No Income,Employed Full-time
+5,1,65-69 yrs old,Male,No Income,Homemaker
+5,2,55-59 yrs old,Female,$2000-$2499,Employed Full-time
+5,1,70-74 yrs old,Female,No Income,Retired
+5,2,30-34 yrs old,Female,$1001-$1499,Employed Full-time
+5,1,40-44 yrs old,Male,No Income,Retired
+5,1,55-59 yrs old,Female,$3000-$3999,Retired
+5,3,30-34 yrs old,Male,No Income,Employed Full-time
+5,1,50-54 yrs old,Male,$3000-$3999,Employed Full-time
+5,4,30-34 yrs old,Male,$8000 and above,Employed Full-time
+5,3,25-29 yrs old,Male,No Income,Retired
+5,2,25-29 yrs old,Male,No Income,Employed Full-time
+5,3,55-59 yrs old,Male,$2000-$2499,Employed Full-time
+5,2,30-34 yrs old,Male,No Income,Homemaker
+5,1,20-24 yrs old,Male,No Income,Retired
+5,1,10-14 yrs old,Male,No Income,Employed Full-time
+5,1,25-29 yrs old,Female,No Income,Employed Full-time
+5,1,30-34 yrs old,Female,$2500-$2999,Employed Full-time
+5,2,55-59 yrs old,Female,No Income,Employed Full-time
+5,3,65-69 yrs old,Male,$1500-$1999,Employed Full-time
+5,3,30-34 yrs old,Male,No Income,Employed Full-time
+5,3,25-29 yrs old,Male,Refused,Employed Full-time
+5,1,40-44 yrs old,Male,$2500-$2999,Employed Full-time
+5,1,50-54 yrs old,Female,$2500-$2999,Employed Full-time
+5,1,30-34 yrs old,Female,No Income,Homemaker
+5,1,50-54 yrs old,Female,$1-$1000,Employed Full-time
+5,2,25-29 yrs old,Female,$8000 and above,Employed Full-time
+5,1,30-34 yrs old,Male,Refused,Employed Full-time
+5,1,30-34 yrs old,Female,$1001-$1499,Employed Full-time
+5,1,65-69 yrs old,Female,No Income,Employed Full-time
+5,1,60-64 yrs old,Male,$6000-$6999,Self-employed
+5,2,70-74 yrs old,Female,$2500-$2999,Employed Full-time
+5,3,30-34 yrs old,Female,$8000 and above,Employed Full-time
+5,1,50-54 yrs old,Female,$8000 and above,Homemaker
+5,3,70-74 yrs old,Male,Refused,Employed Full-time
+5,1,40-44 yrs old,Female,No Income,Employed Full-time
+5,1,25-29 yrs old,Male,$1001-$1499,Homemaker
+5,2,50-54 yrs old,Female,$1500-$1999,Employed Full-time
+5,1,75-79 yrs old,Male,$4000-$4999,Employed Full-time
+5,2,55-59 yrs old,Male,No Income,Employed Full-time
+5,1,70-74 yrs old,Female,No Income,Employed Full-time
+5,1,4-9 yrs old,Male,No Income,Employed Full-time
+5,2,60-64 yrs old,Male,$3000-$3999,Employed Full-time
+5,1,30-34 yrs old,Male,$2000-$2499,Employed Full-time
+5,2,55-59 yrs old,Female,$6000-$6999,Employed Part-time
+5,3,45-49 yrs old,Male,$1001-$1499,Retired
+5,3,70-74 yrs old,Male,No Income,Employed Full-time
+5,4,55-59 yrs old,Female,Refused,Employed Full-time
+5,1,50-54 yrs old,Female,No Income,Homemaker
+5,4,60-64 yrs old,Male,No Income,Homemaker
+5,3,45-49 yrs old,Female,No Income,Employed Full-time
+5,2,35-39 yrs old,Male,No Income,Employed Full-time
+5,2,45-49 yrs old,Female,$1-$1000,Employed Full-time
+5,2,25-29 yrs old,Female,No Income,Full time student
+5,1,45-49 yrs old,Female,No Income,Full time student
+5,2,60-64 yrs old,Male,$3000-$3999,Full time student
+5,4,10-14 yrs old,Female,No Income,Full time student
+5,1,40-44 yrs old,Male,$1-$1000,Homemaker
+5,1,55-59 yrs old,Male,$4000-$4999,Employed Full-time
+5,2,45-49 yrs old,Male,$2500-$2999,Employed Full-time
+4,1,30-34 yrs old,Female,No Income,Employed Full-time
+4,1,45-49 yrs old,Male,$1500-$1999,Homemaker
+4,3,25-29 yrs old,Female,No Income,Employed Full-time
+4,1,55-59 yrs old,Male,$1500-$1999,Employed Full-time
+4,1,75-79 yrs old,Female,$1500-$1999,Employed Full-time
+4,2,35-39 yrs old,Female,No Income,Retired
+4,1,70-74 yrs old,Female,No Income,Employed Full-time
+4,1,70-74 yrs old,Female,$6000-$6999,Employed Full-time
+4,2,85 yrs & above,Male,$3000-$3999,Retired
+4,1,25-29 yrs old,Female,No Income,Unemployed
+4,2,25-29 yrs old,Female,$1001-$1499,Retired
+4,1,70-74 yrs old,Female,$3000-$3999,Full time student
+4,2,55-59 yrs old,Female,No Income,Retired
+4,1,35-39 yrs old,Male,No Income,Homemaker
+4,2,60-64 yrs old,Male,$2000-$2499,Homemaker
+4,1,65-69 yrs old,Male,No Income,Employed Full-time
+4,2,55-59 yrs old,Male,$2500-$2999,Employed Full-time
+4,1,45-49 yrs old,Male,$8000 and above,National service
+4,2,65-69 yrs old,Male,No Income,Retired
+4,1,30-34 yrs old,Male,$1001-$1499,Self-employed
+4,3,65-69 yrs old,Female,$1-$1000,Employed Full-time
+4,1,85 yrs & above,Male,No Income,Employed Full-time
+4,3,50-54 yrs old,Female,$1001-$1499,Homemaker
+4,1,75-79 yrs old,Male,$3000-$3999,Employed Full-time
+4,1,70-74 yrs old,Female,No Income,Retired
+4,1,50-54 yrs old,Male,$1001-$1499,Employed Full-time
+4,2,70-74 yrs old,Male,No Income,Employed Full-time
+4,1,40-44 yrs old,Male,$1500-$1999,Employed Full-time
+4,1,60-64 yrs old,Female,No Income,Retired
+4,2,30-34 yrs old,Male,No Income,Employed Full-time
+4,2,35-39 yrs old,Male,No Income,Self-employed
+4,2,30-34 yrs old,Male,No Income,Employed Full-time
+4,2,55-59 yrs old,Male,No Income,Homemaker
+4,1,30-34 yrs old,Female,No Income,Retired
+4,2,35-39 yrs old,Female,No Income,Retired
+4,1,35-39 yrs old,Female,$1001-$1499,Homemaker
+4,1,55-59 yrs old,Male,Refused,Homemaker
+4,1,35-39 yrs old,Female,No Income,Employed Full-time
+4,1,55-59 yrs old,Male,$2000-$2499,Retired
+4,1,50-54 yrs old,Female,$1001-$1499,Employed Full-time
+4,2,30-34 yrs old,Male,No Income,Employed Full-time
+4,1,35-39 yrs old,Female,No Income,Employed Full-time
+4,3,50-54 yrs old,Male,$7000-$7999,Self-employed
+4,3,30-34 yrs old,Female,No Income,Retired
+4,2,35-39 yrs old,Male,No Income,Employed Full-time
+4,1,25-29 yrs old,Female,$1-$1000,Homemaker
+4,2,40-44 yrs old,Female,No Income,Unemployed
+4,2,65-69 yrs old,Female,No Income,Homemaker
+4,2,25-29 yrs old,Male,$1500-$1999,Employed Full-time
+4,3,45-49 yrs old,Female,No Income,Employed Full-time
+4,3,55-59 yrs old,Male,$3000-$3999,Employed Full-time
+4,1,40-44 yrs old,Male,No Income,Employed Full-time
+4,2,50-54 yrs old,Male,Refused,Unemployed
+4,3,30-34 yrs old,Female,No Income,Retired
+4,1,45-49 yrs old,Male,$1001-$1499,Employed Full-time
+4,1,25-29 yrs old,Male,No Income,Employed Full-time
+4,2,45-49 yrs old,Female,$3000-$3999,Employed Full-time
+4,2,40-44 yrs old,Female,No Income,Homemaker
+4,2,30-34 yrs old,Female,No Income,Employed Full-time
+4,3,65-69 yrs old,Female,$8000 and above,Employed Full-time
+4,1,30-34 yrs old,Female,$1001-$1499,Employed Full-time
+4,2,55-59 yrs old,Female,No Income,Employed Full-time
+4,1,60-64 yrs old,Male,No Income,Employed Full-time
+4,2,30-34 yrs old,Male,No Income,Homemaker
+4,2,60-64 yrs old,Male,No Income,Homemaker
+4,3,50-54 yrs old,Female,$1001-$1499,Employed Full-time
+4,3,60-64 yrs old,Male,No Income,Homemaker
+4,1,55-59 yrs old,Male,No Income,Self-employed
+4,1,25-29 yrs old,Female,$8000 and above,Employed Full-time
+4,1,45-49 yrs old,Male,$1001-$1499,Employed Full-time
+4,2,75-79 yrs old,Female,$1-$1000,Employed Full-time
+4,1,50-54 yrs old,Male,$2000-$2499,Homemaker
+4,2,50-54 yrs old,Male,No Income,Employed Full-time
+4,1,30-34 yrs old,Male,$2000-$2499,Employed Full-time
+4,1,30-34 yrs old,Female,No Income,Self-employed
+4,3,25-29 yrs old,Male,Refused,Homemaker
+4,1,35-39 yrs old,Male,No Income,Retired
+4,2,45-49 yrs old,Male,No Income,Retired
+4,1,50-54 yrs old,Male,$2500-$2999,Homemaker
+4,3,30-34 yrs old,Male,$2500-$2999,Employed Full-time
+4,1,4-9 yrs old,Female,$2000-$2499,Employed Full-time
+4,2,35-39 yrs old,Female,No Income,Employed Full-time
+4,1,50-54 yrs old,Male,$1500-$1999,Employed Full-time
+4,1,35-39 yrs old,Female,No Income,Employed Full-time
+4,1,50-54 yrs old,Female,$3000-$3999,Employed Full-time
+3,2,55-59 yrs old,Male,No Income,Employed Full-time
+3,1,50-54 yrs old,Female,$1001-$1499,Homemaker
+3,1,35-39 yrs old,Female,No Income,Employed Full-time
+3,1,30-34 yrs old,Male,Refused,Employed Full-time
+3,2,80-84 yrs old,Male,Refused,Employed Full-time
+3,1,80-84 yrs old,Female,No Income,Employed Full-time
+3,2,60-64 yrs old,Female,Refused,Employed Full-time
+3,1,75-79 yrs old,Male,No Income,Employed Full-time
+3,2,80-84 yrs old,Male,$1500-$1999,Employed Full-time
+3,2,70-74 yrs old,Female,$1-$1000,Employed Full-time
+3,1,40-44 yrs old,Male,No Income,Homemaker
+3,2,65-69 yrs old,Female,No Income,Homemaker
+3,2,80-84 yrs old,Male,No Income,Employed Full-time
+3,2,35-39 yrs old,Male,No Income,Employed Full-time
+3,1,40-44 yrs old,Female,No Income,Retired
+3,1,35-39 yrs old,Female,$1500-$1999,Retired
+3,1,45-49 yrs old,Male,$1-$1000,Employed Full-time
+3,1,60-64 yrs old,Female,No Income,Employed Full-time
+3,1,70-74 yrs old,Male,$1001-$1499,Employed Full-time
+3,2,70-74 yrs old,Female,No Income,Homemaker
+3,1,45-49 yrs old,Female,$1500-$1999,Homemaker
+3,1,60-64 yrs old,Female,No Income,Retired
+3,1,70-74 yrs old,Female,No Income,Retired
+3,2,20-24 yrs old,Male,Refused,Employed Full-time
+3,1,45-49 yrs old,Female,No Income,Employed Part-time
+3,2,60-64 yrs old,Female,No Income,Employed Full-time
+3,1,60-64 yrs old,Male,No Income,Homemaker
+3,2,35-39 yrs old,Male,No Income,Employed Full-time
+3,2,45-49 yrs old,Female,No Income,Employed Full-time
+3,1,70-74 yrs old,Male,No Income,Employed Full-time
+3,2,45-49 yrs old,Male,No Income,Employed Part-time
+3,2,45-49 yrs old,Female,$1-$1000,Self-employed
+3,2,35-39 yrs old,Female,$1001-$1499,Employed Full-time
+3,1,45-49 yrs old,Male,No Income,National service
+3,3,60-64 yrs old,Female,$3000-$3999,Retired
+3,2,45-49 yrs old,Female,No Income,Employed Full-time
+3,1,20-24 yrs old,Male,No Income,Employed Full-time
+3,1,65-69 yrs old,Male,$1-$1000,Unemployed
+3,1,80-84 yrs old,Male,No Income,Homemaker
+3,2,35-39 yrs old,Female,$1-$1000,Employed Full-time
+3,2,70-74 yrs old,Male,$1500-$1999,Unemployed
+3,1,60-64 yrs old,Female,$1-$1000,Homemaker
+3,1,70-74 yrs old,Female,$1500-$1999,Homemaker
+3,2,80-84 yrs old,Female,No Income,Homemaker
+3,1,55-59 yrs old,Male,$1-$1000,Retired
+3,2,80-84 yrs old,Female,No Income,Self-employed
+2,1,50-54 yrs old,Female,No Income,Full time student
+2,1,25-29 yrs old,Female,$1001-$1499,Others
+2,1,30-34 yrs old,Female,$1-$1000,Employed Part-time
+2,1,15-19 yrs old,Male,$1001-$1499,Employed Full-time
+2,1,65-69 yrs old,Female,No Income,Employed Full-time
+2,1,70-74 yrs old,Female,$1500-$1999,Employed Full-time
+2,1,25-29 yrs old,Female,No Income,Employed Full-time
+2,1,50-54 yrs old,Female,$1001-$1499,Employed Full-time
+2,1,65-69 yrs old,Male,$5000-$5999,Employed Full-time
+2,1,60-64 yrs old,Male,$2000-$2499,Retired
+2,1,35-39 yrs old,Male,No Income,Retired
+2,2,85 yrs & above,Female,No Income,Employed Full-time
+2,1,35-39 yrs old,Female,No Income,Employed Full-time
+2,1,65-69 yrs old,Female,$1001-$1499,Employed Full-time
+2,2,80-84 yrs old,Female,$6000-$6999,Employed Full-time
+2,2,25-29 yrs old,Male,Refused,Homemaker
+2,1,25-29 yrs old,Male,$1-$1000,Employed Part-time
+2,1,20-24 yrs old,Female,No Income,Full time student
+2,1,30-34 yrs old,Male,No Income,Employed Part-time
+2,1,30-34 yrs old,Male,$1-$1000,Retired
+2,1,25-29 yrs old,Male,$1001-$1499,Employed Full-time
+2,1,25-29 yrs old,Female,$1-$1000,Domestic worker
+2,1,25-29 yrs old,Female,$2500-$2999,Employed Full-time
+2,1,35-39 yrs old,Female,$1001-$1499,Full time student
+2,2,35-39 yrs old,Male,No Income,Employed Full-time
+2,1,45-49 yrs old,Female,No Income,Employed Full-time
+2,1,60-64 yrs old,Female,$1-$1000,Employed Full-time
+2,1,65-69 yrs old,Male,No Income,Employed Part-time
+2,2,30-34 yrs old,Male,$1500-$1999,Unemployed
+2,1,75-79 yrs old,Female,No Income,Employed Full-time
+2,2,75-79 yrs old,Female,$1001-$1499,Employed Part-time
+2,1,20-24 yrs old,Female,$1500-$1999,Employed Full-time
+2,1,60-64 yrs old,Male,$1-$1000,Employed Full-time
+2,1,70-74 yrs old,Female,No Income,Employed Part-time
+2,1,65-69 yrs old,Female,No Income,Employed Part-time
+2,1,20-24 yrs old,Male,No Income,Homemaker
+2,1,25-29 yrs old,Female,$2000-$2499,Employed Full-time
+2,1,35-39 yrs old,Male,$1001-$1499,Full time student
+2,1,35-39 yrs old,Male,$1500-$1999,Unemployed
+2,1,50-54 yrs old,Female,$1-$1000,Homemaker
+2,1,60-64 yrs old,Female,Refused,Domestic worker
+2,1,50-54 yrs old,Female,$1500-$1999,Homemaker
+2,1,25-29 yrs old,Female,No Income,Employed Full-time
+2,1,20-24 yrs old,Male,No Income,Retired
+2,1,30-34 yrs old,Male,$1-$1000,Employed Full-time
+2,1,20-24 yrs old,Male,$2000-$2499,Employed Full-time
+2,1,35-39 yrs old,Female,$1001-$1499,Employed Part-time
+2,1,65-69 yrs old,Female,$1-$1000,Retired
+2,1,25-29 yrs old,Male,$1001-$1499,Full time student
+2,1,15-19 yrs old,Male,No Income,Retired
+2,1,20-24 yrs old,Male,Refused,Domestic worker
+2,1,55-59 yrs old,Male,$1500-$1999,Retired
+2,1,50-54 yrs old,Female,$1500-$1999,Employed Full-time
+1,1,85 yrs & above,Male,Refused,Self-employed
+1,1,80-84 yrs old,Male,No Income,Self-employed
+1,1,35-39 yrs old,Male,Refused,Retired
+1,1,40-44 yrs old,Male,No Income,Self-employed
+1,1,80-84 yrs old,Female,Refused,Retired
+1,1,85 yrs & above,Male,No Income,Unemployed
+1,1,40-44 yrs old,Male,Refused,Unemployed
+1,1,35-39 yrs old,Male,No Income,Employed Full-time
+1,1,40-44 yrs old,Male,No Income,Self-employed
+1,1,35-39 yrs old,Female,Refused,Self-employed
